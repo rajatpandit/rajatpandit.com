@@ -38,21 +38,17 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: '2nd Brain',
+    subtitle: 'Tech Notes and Learnings from the field',
+    description: 'Braindump of the day to day learnings in the life of Rajat Pandit',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/8B8A8821.jpeg',
+        alt: 'Rajat Pandit'
     },
     headerNavLinks: [
         {
             text: 'Home',
             href: '/'
-        },
-        {
-            text: 'Projects',
-            href: '/projects'
         },
         {
             text: 'Blog',
@@ -69,38 +65,34 @@ const siteConfig: SiteConfig = {
             href: '/about'
         },
         {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
             text: 'Terms',
             href: '/terms'
         },
         {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+            text: 'Github',
+            href: 'https://github.com/rajatpandit'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/rajatpandit/'
         },
         {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://www.instagram.com/therunnerdad/'
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://x.com/rajatpandit'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Decoding the Tech Landscape: A Tech Sales Executive\'s Insights',
+        text: "Currently working for Google, ~~Tesco~~, ~~Accenture~~, ~~Time Inc~~, ~~Yahoo!~~, ~~HCL~~. Pre-sales Engineering Leadership - bringing the best of core engineering, consulting and business ownership to the table - coupled with unparalleled execution excellence - to bring industry transforming results for our customers",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/8B8A8821.jpeg',
+            alt: 'Rajat Pandit presenting at Machine Learning Developers Conference 2022'
         },
         actions: [
             {

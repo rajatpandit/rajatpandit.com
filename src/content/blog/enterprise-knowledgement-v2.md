@@ -1,0 +1,71 @@
+---
+title: Enterprise Knowledge Management v2
+excerpt: With the rise of large language models there is an opportunity to re-visit how we think about them. Having said that taking a general purpose LLM to a domain specific enterprise KM tool can be several different paths. This post covers the various options and some ideas to think about what else needs to be done to prepare.
+publishDate: 'Oct 17 2023'
+isFeatured: true
+tags:
+  - Enterprise Solutions
+  - Data Strategy
+seo:
+  image:
+    src: /michaela-murphy-TIS8AnSiFI4-unsplash.jpg
+    alt: Photo of a library
+---
+
+## I love my Enterprise Knowledge Management system - said no one
+
+Traditional KM systems have long suffered from lack of  technology that was able to scale, index and address both search and discovery capability. This often meant loss in productivity as teams and individuals alike would end up solving the same problem twice. 
+
+The closest I have ever come across a working KM (at a personal level anyway) was when using google desktop search. The boost in productivity amazing. You had to download content locally but once there - you could discover content at blazingly fasts speeds.
+
+
+![Emerging Tech Projects - Avoid these common pitfalls.](/michaela-murphy-TIS8AnSiFI4-unsplash.jpg)
+
+## But there is hope - LLMs
+With the rise of LLMs the ability to build a productive KM system is well within reach. All the knowledge available in the organization can be used to training an LLM and it can provide a simple, easy to use interface to deliver outcomes that you are looking for - and the killer feature being - it doesn't just point you to the document but also summarizes it for you so that you can get to the insights faster. 
+
+Today there are 3 (general) ways of doing this - all that come with their varying set of complexities, advantages and disadvantages. 
+
+## Training an LLM from Scratch
+This is by far the most expensive and complicated approach. This requires enormous amounts of good quality data and access to a lot of computational power and highly skilled individuals. 
+
+The benefit however is also equally outsized when planned strategically. BloombergGTP for example is a classic example where it took 40yrs of financial data and trained to create its own model (700B tokens and 1.3M hours of training time) - that will - over a period of time create a competitive advantage for its researchers and analysts.   Since it is built grounds up - it also ends up being a private instance that only Bloomberg employees will have access to - unless they decide to commercialize this and create a product offering out of it - building new streams of revenue.
+
+This however might not be something that every company would have the resources, budgets or priorities for.
+
+## Fine tuning an existing LLM
+Going down the order of complexity - this would be the next approach where you can take general purpose LLM like PaLM2, LlAMA2 etc and train it with your domain specific model. This is relatively simpler because amount of data and compute required is a significant magnitude order lessor. 
+MedPalM2 is an example of using a general purpose PaLM2 model trained on medical domain to become specialized instance - even being able to score 85% in the US medical licensing exams.
+Organizations that want to go down this path can work with  LLM Providers that support fine tuning - however they need to watch out for:
+- How is the model being tuned using their data
+- How is the provider ensuring that the base model is not affected and trained by this data
+- Is this over a private instance of the LLM that is being fine tuned - in which case what is the upgrade path of the general purpose model
+- If it is using an adaptor pattern (#TODO) where is the checkpoint being stored
+- How does the provider isolate the fine tuned instance of the model from other customers 
+This is still quite a technically challenging approach and as a result a lot of providers still don't provide it
+
+## Prompt tuning an existing LLM
+Of all the options available this is the most scalable, cheapest and fastest approach to making a general purpose LLM understand the context of your enterprise without the risk of your data leaking out of the defined organizational boundaries.
+This involves sending data as part of the prompt in what is called a context window to extend the LLM's understanding of the orgs. domain. This approach yields pretty accurate results esp. when compared with other approaches and the data, computational requirements they need. 
+
+However - this method has its limitations as well. In this approach - the context window for most LLM's become a limitation. A work around for this today beyond obviously looking for models with larger context windows (e.g. Google's PaLM2 supports 32k) is to convert the context data into embeddings. 
+
+Embeddings is vector representation of the data you would otherwise send via a prompt - think matrix of binary numbers - that are generated by another kind of LLM called the embeddings model. 
+
+This approach is used to build discovery, search capabilities by using the cosine similarity search between what the user looked up vs. the data collected and stored from the enterprise. Additionally you get the benefit of grounding your responses by ensuring there is a reference to the source of the output - to prevent the risk of hallucination. 
+
+This approach requires some technical plumbing of various processes esp. when working with unstructured data - but a lot of providers now simplify this approach which means you can have the system to point to your data structured or unstructured and it automates the process for you. 
+
+## What to do next? 
+With all these approaches available - its only a matter of time before KM systems based on LLMs would become mainstream - independent of the approach you choose. The question that I get asked the most is - what can we do in the mean time to prepare. Here are a couple of ideas that could be elaborated in future posts but could make for a good start
+
+* Make your enterprise aware of the capabilities of document management systems that are already present in the enterprise - this is important for them to create good quality structured content
+* Define and implement a document tagging strategy for consistency in capturing metadata
+* Partner with a provider that can help you deliver one of the three approaches suggested above with the least amount of friction and highest level of transparency of how the data is used and security of data
+* And once you have an approach agreed and ready to use:
+	* Ensure there is a regression suite of questions and answers that you can test the model against - esp. after every session of training to test for regression
+	* and train the teams for
+		* The kind of knowledge has been used for training to avoid teams wasting time in discovering the capabilities
+		* Prompts that are in/out of scope and how to use it effectively - this is similar to what business analysts used to be trained on not running a table scan when they were given the ability to query data in warehouses directly. 
+
+Are you also looking to solve for similar problem statement. I would love to hear from you on what have been your insights or the kind of questions that you looking for answers for. Leave a comment and it would be an opportunity for everyone to learn from your experiences. 
