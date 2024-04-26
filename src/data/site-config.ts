@@ -40,7 +40,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: '2nd Brain',
     subtitle: 'Tech Notes and Learnings from the field',
-    description: 'Braindump of the day to day learnings in the life of Rajat Pandit',
+    description: 'Decoding the Tech Landscape: A Tech Sales Executive\'s Insights',
     image: {
         src: '/8B8A8821.jpeg',
         alt: 'Rajat Pandit'
