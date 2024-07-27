@@ -18,7 +18,7 @@ The typical adoption of Generative AI (GenAI) involves three distinct phases.
  
 ![Three phases of Generative AI Development in the wild](/lin-mei-NYyCqdBOKwc-unsplash.jpg )
 
-Given this is proving to the path to production - organisations need to first settle on the idea of a platform. With so many aspects of the development changing - organisations need to identify in the tech landscape what aspects of the SDLC remains the same as the patterns, models and libraries evolve. Here are a list of a couple of ideas that they should consider standardizing on
+Given this is proving to be the path to production - organisations need to first settle on the idea of a platform. With so many aspects of the development changing - organisations need to identify in the GenAI landscape what aspects of the SDLC remains the same as the patterns, models and libraries evolve. Here are a list of of areas that are worth considering to standardize on.
 
 - **Access to Models** - Access to model card, visibility of data used for training, license details, support
 - **Prompt Lifecycle Management** - Testing, Tuning, Version Management, Regression Testing, Migration between models
