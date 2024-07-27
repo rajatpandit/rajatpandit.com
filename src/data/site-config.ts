@@ -42,7 +42,7 @@ const siteConfig: SiteConfig = {
     subtitle: 'Tech Notes and Learnings from the field',
     description: 'Decoding the Tech Landscape: A Tech Sales Executive\'s Insights',
     image: {
-        src: '/8B8A8821.jpeg',
+        src: '/profile.png',
         alt: 'Rajat Pandit'
     },
     headerNavLinks: [
@@ -91,7 +91,7 @@ const siteConfig: SiteConfig = {
         title: 'Decoding the Tech Landscape: A Tech Sales Executive\'s Insights',
         text: "Currently working for Google, ~~Tesco~~, ~~Accenture~~, ~~Time Inc~~, ~~Yahoo!~~, ~~HCL~~. Pre-sales Engineering Leadership - bringing the best of core engineering, consulting and business ownership to the table - coupled with unparalleled execution excellence - to bring industry transforming results for our customers",
         image: {
-            src: '/8B8A8821.jpeg',
+            src: '/profile.png',
             alt: 'Rajat Pandit presenting at Machine Learning Developers Conference 2022'
         },
         actions: [
