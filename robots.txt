@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rajatpandit.com/sitemap-index.xml
