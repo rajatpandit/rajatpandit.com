@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-06-09T03:32:06.799Z",
+  "generatedAt": "2026-06-20T07:21:11.091Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
+    "1serverless-inference-cold-start": {
+      "source": "~/assets/images/1serverless-inference-cold-start-hero.png",
+      "url": "https://rajatpandit.com/_astro/1serverless-inference-cold-start-hero.CgfLl8N__Z6KITj.webp",
+      "format": "webp",
+      "bytes": 199144,
+      "variants": [
+        "1serverless-inference-cold-start-hero.CgfLl8N__Z6KITj.webp",
+        "1serverless-inference-cold-start-hero.CgfLl8N_.png",
+        "1serverless-inference-cold-start-hero.CgfLl8N__1bwOb3.webp",
+        "1serverless-inference-cold-start-hero.CgfLl8N__Z1EzykV.webp",
+        "1serverless-inference-cold-start-hero.CgfLl8N__Z2bCNlL.webp",
+        "1serverless-inference-cold-start-hero.CgfLl8N__ZhJsIu.jpg"
+      ]
+    },
+    "agent-correctness-tool-use": {
+      "source": "~/assets/images/agent-correctness-tool-use-hero.png",
+      "url": "https://rajatpandit.com/_astro/agent-correctness-tool-use-hero.CULqAD-K_Z29Ki54.webp",
+      "format": "webp",
+      "bytes": 179136,
+      "variants": [
+        "agent-correctness-tool-use-hero.CULqAD-K_Z29Ki54.webp",
+        "agent-correctness-tool-use-hero.CULqAD-K.png",
+        "agent-correctness-tool-use-hero.CULqAD-K_Mo9p8.webp",
+        "agent-correctness-tool-use-hero.CULqAD-K_Z14xgxf.webp",
+        "agent-correctness-tool-use-hero.CULqAD-K_Z19wPQJ.jpg",
+        "agent-correctness-tool-use-hero.CULqAD-K_Z1G9IKz.webp"
+      ]
+    },
     "agent-finops": {
       "source": "~/assets/images/agent-finops-hero.png",
       "url": "https://rajatpandit.com/_astro/agent-finops-hero.RvR8CIIu_Z2pcqxT.webp",
@@ -28,6 +56,20 @@
         "ai-compute-scaling-hero.Ds-FtHGe_2vE9u0.webp",
         "ai-compute-scaling-hero.Ds-FtHGe_Z2daXge.webp",
         "ai-compute-scaling-hero.Ds-FtHGe_ZPhKu6.webp"
+      ]
+    },
+    "ai-governance-autonomous-systems": {
+      "source": "~/assets/images/ai-governance-autonomous-systems-hero.png",
+      "url": "https://rajatpandit.com/_astro/ai-governance-autonomous-systems-hero.D4-5Wc7-_ZhQkJD.webp",
+      "format": "webp",
+      "bytes": 195744,
+      "variants": [
+        "ai-governance-autonomous-systems-hero.D4-5Wc7-_ZhQkJD.webp",
+        "ai-governance-autonomous-systems-hero.D4-5Wc7-.png",
+        "ai-governance-autonomous-systems-hero.D4-5Wc7-_24axAa.webp",
+        "ai-governance-autonomous-systems-hero.D4-5Wc7-_Z2tXlcV.webp",
+        "ai-governance-autonomous-systems-hero.D4-5Wc7-_ZsP4yO.jpg",
+        "ai-governance-autonomous-systems-hero.D4-5Wc7-_m92j3.webp"
       ]
     },
     "architecting-ai-gateway": {
@@ -98,6 +140,20 @@
         "context-bloat-progressive-discovery-hero.C3ZeoQlF_2hmcFL.webp",
         "context-bloat-progressive-discovery-hero.C3ZeoQlF_2uPG0n.webp",
         "context-bloat-progressive-discovery-hero.C3ZeoQlF_ZKq2W4.webp"
+      ]
+    },
+    "data-gravity-cloud-agnostic": {
+      "source": "~/assets/images/data-gravity-cloud-agnostic-hero.png",
+      "url": "https://rajatpandit.com/_astro/data-gravity-cloud-agnostic-hero.C6k8TiP0_ZxTtek.webp",
+      "format": "webp",
+      "bytes": 98802,
+      "variants": [
+        "data-gravity-cloud-agnostic-hero.C6k8TiP0_ZxTtek.webp",
+        "data-gravity-cloud-agnostic-hero.C6k8TiP0.png",
+        "data-gravity-cloud-agnostic-hero.C6k8TiP0_12arUD.jpg",
+        "data-gravity-cloud-agnostic-hero.C6k8TiP0_22cL6W.webp",
+        "data-gravity-cloud-agnostic-hero.C6k8TiP0_ZWSdWa.webp",
+        "data-gravity-cloud-agnostic-hero.C6k8TiP0_hcdAy.webp"
       ]
     },
     "flashattention-vs-ringattention": {
@@ -396,6 +452,20 @@
         "serverless-inference-cold-start-hero.ByHvqqne_2tmVW2.jpg",
         "serverless-inference-cold-start-hero.ByHvqqne_7tTXa.webp",
         "serverless-inference-cold-start-hero.ByHvqqne_Z1pbFqv.webp"
+      ]
+    },
+    "speculative-decoding-llm-inference": {
+      "source": "~/assets/images/speculative-decoding-llm-inference-hero.png",
+      "url": "https://rajatpandit.com/_astro/speculative-decoding-llm-inference-hero.BL7sLMsY_25RIfp.webp",
+      "format": "webp",
+      "bytes": 294378,
+      "variants": [
+        "speculative-decoding-llm-inference-hero.BL7sLMsY_25RIfp.webp",
+        "speculative-decoding-llm-inference-hero.BL7sLMsY.png",
+        "speculative-decoding-llm-inference-hero.BL7sLMsY_1Mk1uu.webp",
+        "speculative-decoding-llm-inference-hero.BL7sLMsY_Z13P3wL.webp",
+        "speculative-decoding-llm-inference-hero.BL7sLMsY_Z1QEowx.jpg",
+        "speculative-decoding-llm-inference-hero.BL7sLMsY_Z24qqiS.webp"
       ]
     },
     "the-2026-enterprise-stack": {

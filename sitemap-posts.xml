@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://rajatpandit.com/agentic-ai/agent-correctness-tool-use-hallucination</loc>
+    <lastmod>2026-06-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-infrastructure/serverless-inference-five-second-cold-start</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-engineering/speculative-decoding-llm-inference</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/ai-governance-autonomous-systems</loc>
+    <lastmod>2026-06-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-infrastructure/data-gravity-cloud-agnostic-llms</loc>
+    <lastmod>2026-06-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://rajatpandit.com/ai-engineering/automated-agent-trajectory-evaluation</loc>
     <lastmod>2026-06-06</lastmod>
     <priority>0.8</priority>
