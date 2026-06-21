@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-06-21T04:18:30.773Z",
+  "generatedAt": "2026-06-21T09:02:08.980Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
+    "1": {
+      "source": "~/assets/images/1.png",
+      "url": "https://rajatpandit.com/_astro/1.BnacpNvc_ZWGRBW.webp",
+      "format": "webp",
+      "bytes": 143360,
+      "variants": [
+        "1.BnacpNvc_ZWGRBW.webp"
+      ]
+    },
+    "2": {
+      "source": "~/assets/images/2.png",
+      "url": "https://rajatpandit.com/_astro/2.C7rTdSnR_ZtrXi.webp",
+      "format": "webp",
+      "bytes": 132752,
+      "variants": [
+        "2.C7rTdSnR_ZtrXi.webp"
+      ]
+    },
+    "3": {
+      "source": "~/assets/images/3.png",
+      "url": "https://rajatpandit.com/_astro/3.Ek-OduzQ_ZBFOpC.webp",
+      "format": "webp",
+      "bytes": 201790,
+      "variants": [
+        "3.Ek-OduzQ_ZBFOpC.webp"
+      ]
+    },
+    "4": {
+      "source": "~/assets/images/4.png",
+      "url": "https://rajatpandit.com/_astro/4.KUYMVw7-_Z25VtqU.webp",
+      "format": "webp",
+      "bytes": 157930,
+      "variants": [
+        "4.KUYMVw7-_Z25VtqU.webp"
+      ]
+    },
+    "5": {
+      "source": "~/assets/images/5.png",
+      "url": "https://rajatpandit.com/_astro/5.eUnPjl7w_Z2jTfzL.webp",
+      "format": "webp",
+      "bytes": 106068,
+      "variants": [
+        "5.eUnPjl7w_Z2jTfzL.webp"
+      ]
+    },
+    "1516240524929": {
+      "source": "~/assets/images/1516240524929.png",
+      "url": "https://rajatpandit.com/_astro/1516240524929.BaIpiQW-_Z2958or.webp",
+      "format": "webp",
+      "bytes": 1288,
+      "variants": [
+        "1516240524929.BaIpiQW-_Z2958or.webp",
+        "1516240524929.BaIpiQW-.jpeg",
+        "1516240524929.BaIpiQW-_THdEu.webp"
+      ]
+    },
+    "1708027511258": {
+      "source": "~/assets/images/1708027511258.png",
+      "url": "https://rajatpandit.com/_astro/1708027511258.COJGdmTZ_Z1HuI0q.webp",
+      "format": "webp",
+      "bytes": 1258,
+      "variants": [
+        "1708027511258.COJGdmTZ_Z1HuI0q.webp",
+        "1708027511258.COJGdmTZ.jpeg",
+        "1708027511258.COJGdmTZ_1lhD3v.webp"
+      ]
+    },
+    "1722207353866": {
+      "source": "~/assets/images/1722207353866.png",
+      "url": "https://rajatpandit.com/_astro/1722207353866.BKUXyzlY_1VwOBY.webp",
+      "format": "webp",
+      "bytes": 1684,
+      "variants": [
+        "1722207353866.BKUXyzlY_1VwOBY.webp",
+        "1722207353866.BKUXyzlY.jpeg",
+        "1722207353866.BKUXyzlY_Z4QW81.webp"
+      ]
+    },
     "1serverless-inference-cold-start": {
       "source": "~/assets/images/1serverless-inference-cold-start-hero.png",
       "url": "https://rajatpandit.com/_astro/1serverless-inference-cold-start-hero.CgfLl8N__Z6KITj.webp",
@@ -14,6 +92,126 @@
         "1serverless-inference-cold-start-hero.CgfLl8N__Z1EzykV.webp",
         "1serverless-inference-cold-start-hero.CgfLl8N__Z2bCNlL.webp",
         "1serverless-inference-cold-start-hero.CgfLl8N__ZhJsIu.jpg"
+      ]
+    },
+    "2-4-structured-sparse-matrix": {
+      "source": "~/assets/images/2-4-structured-sparse-matrix.png",
+      "url": "https://rajatpandit.com/_astro/2-4-structured-sparse-matrix.Bk-ZiIJn.png",
+      "format": "png",
+      "bytes": 30724,
+      "variants": [
+        "2-4-structured-sparse-matrix.Bk-ZiIJn.png"
+      ]
+    },
+    "2-4-structured-sparsity-pattern-768x377": {
+      "source": "~/assets/images/2-4-structured-sparsity-pattern-768x377.png",
+      "url": "https://rajatpandit.com/_astro/2-4-structured-sparsity-pattern-768x377.CsSFH_rX_Z2gv6U2.webp",
+      "format": "webp",
+      "bytes": 23976,
+      "variants": [
+        "2-4-structured-sparsity-pattern-768x377.CsSFH_rX_Z2gv6U2.webp"
+      ]
+    },
+    "Agentic-AI": {
+      "source": "~/assets/images/Agentic-AI.png",
+      "url": "https://rajatpandit.com/_astro/Agentic-AI.Bit-YrA6.png",
+      "format": "png",
+      "bytes": 24976,
+      "variants": [
+        "Agentic-AI.Bit-YrA6.png"
+      ]
+    },
+    "Gemini_Generated_Image_92do8s92do8s92do": {
+      "source": "~/assets/images/Gemini_Generated_Image_92do8s92do8s92do.png",
+      "url": "https://rajatpandit.com/_astro/Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_C3cVD.webp",
+      "format": "webp",
+      "bytes": 306924,
+      "variants": [
+        "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_C3cVD.webp",
+        "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F.png",
+        "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_1javmN.webp",
+        "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_1ytTtJ.jpg",
+        "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_2p2mSH.webp",
+        "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_ZrqX6s.webp"
+      ]
+    },
+    "Gemini_Generated_Image_ef0lr4ef0lr4ef0l": {
+      "source": "~/assets/images/Gemini_Generated_Image_ef0lr4ef0lr4ef0l.png",
+      "url": "https://rajatpandit.com/_astro/Gemini_Generated_Image_ef0lr4ef0lr4ef0l.B630fLLf.png",
+      "format": "png",
+      "bytes": 6484434,
+      "variants": [
+        "Gemini_Generated_Image_ef0lr4ef0lr4ef0l.B630fLLf.png"
+      ]
+    },
+    "a2a-tools-not-functions": {
+      "source": "~/assets/images/a2a-tools-not-functions.png",
+      "url": "https://rajatpandit.com/_astro/a2a-tools-not-functions.B2q26lJ2_Z28BWks.webp",
+      "format": "webp",
+      "bytes": 212088,
+      "variants": [
+        "a2a-tools-not-functions.B2q26lJ2_Z28BWks.webp",
+        "a2a-tools-not-functions.B2q26lJ2.png",
+        "a2a-tools-not-functions.B2q26lJ2_1KjFlr.jpg",
+        "a2a-tools-not-functions.B2q26lJ2_9yvXP.webp",
+        "a2a-tools-not-functions.B2q26lJ2_Z1djFMi.webp",
+        "a2a-tools-not-functions.B2q26lJ2_Z1yFGQ0.webp"
+      ]
+    },
+    "a_photorealistic_image_of_a_mass": {
+      "source": "~/assets/images/a_photorealistic_image_of_a_mass.png",
+      "url": "https://rajatpandit.com/_astro/a_photorealistic_image_of_a_mass.BcWhodQT_Narx9.webp",
+      "format": "webp",
+      "bytes": 228358,
+      "variants": [
+        "a_photorealistic_image_of_a_mass.BcWhodQT_Narx9.webp",
+        "a_photorealistic_image_of_a_mass.BcWhodQT.png",
+        "a_photorealistic_image_of_a_mass.BcWhodQT_1YnIjn.webp",
+        "a_photorealistic_image_of_a_mass.BcWhodQT_8iIK4.webp",
+        "a_photorealistic_image_of_a_mass.BcWhodQT_FQx75.jpg",
+        "a_photorealistic_image_of_a_mass.BcWhodQT_Z2uv5zy.webp"
+      ]
+    },
+    "a_photorealistic_image_of_a_serv": {
+      "source": "~/assets/images/a_photorealistic_image_of_a_serv.png",
+      "url": "https://rajatpandit.com/_astro/a_photorealistic_image_of_a_serv.Cr45AA8g_Z22p1k8.webp",
+      "format": "webp",
+      "bytes": 233150,
+      "variants": [
+        "a_photorealistic_image_of_a_serv.Cr45AA8g_Z22p1k8.webp",
+        "a_photorealistic_image_of_a_serv.Cr45AA8g.webp",
+        "a_photorealistic_image_of_a_serv.Cr45AA8g_1kF1qN.jpg",
+        "a_photorealistic_image_of_a_serv.Cr45AA8g_ZVyYs4.webp",
+        "a_photorealistic_image_of_a_serv.Cr45AA8g_ZWIveG.webp",
+        "a_photorealistic_image_of_a_serv.Cr45AA8g_ZYU95z.webp"
+      ]
+    },
+    "agency-as-a-service-economics": {
+      "source": "~/assets/images/agency-as-a-service-economics.png",
+      "url": "https://rajatpandit.com/_astro/agency-as-a-service-economics.C90LrW4h_Z2999tO.webp",
+      "format": "webp",
+      "bytes": 295666,
+      "variants": [
+        "agency-as-a-service-economics.C90LrW4h_Z2999tO.webp",
+        "agency-as-a-service-economics.C90LrW4h.png",
+        "agency-as-a-service-economics.C90LrW4h_1NE1kw.webp",
+        "agency-as-a-service-economics.C90LrW4h_Z1q6iTh.webp",
+        "agency-as-a-service-economics.C90LrW4h_Z1wKjqM.jpg",
+        "agency-as-a-service-economics.C90LrW4h_Z2q9pvg.webp"
+      ]
+    },
+    "agency-saas": {
+      "source": "~/assets/images/agency-saas.png",
+      "url": "https://rajatpandit.com/_astro/agency-saas.BPYPeouj_Z1NlPSA.webp",
+      "format": "webp",
+      "bytes": 258526,
+      "variants": [
+        "agency-saas.BPYPeouj_Z1NlPSA.webp",
+        "agency-saas.BPYPeouj.png",
+        "agency-saas.BPYPeouj_2tOiAN.jpg",
+        "agency-saas.BPYPeouj_Z1KKVn0.webp",
+        "agency-saas.BPYPeouj_Z1LC2rq.webp",
+        "agency-saas.BPYPeouj_Z26bJ4r.webp"
       ]
     },
     "agent-correctness-tool-use": {
@@ -44,6 +242,76 @@
         "agent-finops-hero.RvR8CIIu_ZkDDj0.webp"
       ]
     },
+    "agent-supervisor-clockwork": {
+      "source": "~/assets/images/agent-supervisor-clockwork.png",
+      "url": "https://rajatpandit.com/_astro/agent-supervisor-clockwork.DBWK8zwj_ZP8J7E.webp",
+      "format": "webp",
+      "bytes": 215552,
+      "variants": [
+        "agent-supervisor-clockwork.DBWK8zwj_ZP8J7E.webp",
+        "agent-supervisor-clockwork.DBWK8zwj.png",
+        "agent-supervisor-clockwork.DBWK8zwj_20ImEy.webp",
+        "agent-supervisor-clockwork.DBWK8zwj_I5QMc.jpg",
+        "agent-supervisor-clockwork.DBWK8zwj_VwkWF.webp",
+        "agent-supervisor-clockwork.DBWK8zwj_ZjK4XU.webp"
+      ]
+    },
+    "agent-trajectory-evaluation": {
+      "source": "~/assets/images/agent-trajectory-evaluation.png",
+      "url": "https://rajatpandit.com/_astro/agent-trajectory-evaluation.BBv60AZn_ZcQDKK.webp",
+      "format": "webp",
+      "bytes": 138608,
+      "variants": [
+        "agent-trajectory-evaluation.BBv60AZn_ZcQDKK.webp",
+        "agent-trajectory-evaluation.BBv60AZn.png",
+        "agent-trajectory-evaluation.BBv60AZn_1ewR2o.webp",
+        "agent-trajectory-evaluation.BBv60AZn_Z1EYmgg.jpg",
+        "agent-trajectory-evaluation.BBv60AZn_Z1f4tVQ.webp",
+        "agent-trajectory-evaluation.BBv60AZn_Z1q978N.webp"
+      ]
+    },
+    "agentic-aaas": {
+      "source": "~/assets/images/agentic-aaas.png",
+      "url": "https://rajatpandit.com/_astro/agentic-aaas.DEOVedQA_1bOBAU.webp",
+      "format": "webp",
+      "bytes": 177296,
+      "variants": [
+        "agentic-aaas.DEOVedQA_1bOBAU.webp",
+        "agentic-aaas.DEOVedQA.png",
+        "agentic-aaas.DEOVedQA_Z13VFjP.webp",
+        "agentic-aaas.DEOVedQA_Z1RqtJH.jpg",
+        "agentic-aaas.DEOVedQA_Z1t5xvT.webp",
+        "agentic-aaas.DEOVedQA_ZexIPY.webp"
+      ]
+    },
+    "agentic-ai-hero-1": {
+      "source": "~/assets/images/agentic-ai-hero-1.png",
+      "url": "https://rajatpandit.com/_astro/agentic-ai-hero-1.DR9xL-AL_20K2H3.webp",
+      "format": "webp",
+      "bytes": 137392,
+      "variants": [
+        "agentic-ai-hero-1.DR9xL-AL_20K2H3.webp",
+        "agentic-ai-hero-1.DR9xL-AL.png",
+        "agentic-ai-hero-1.DR9xL-AL_1tYool.webp",
+        "agentic-ai-hero-1.DR9xL-AL_NQDL9.jpg",
+        "agentic-ai-hero-1.DR9xL-AL_Z14ebiL.webp",
+        "agentic-ai-hero-1.DR9xL-AL_g7iaI.webp"
+      ]
+    },
+    "agentic-sdlc-orchestrator": {
+      "source": "~/assets/images/agentic-sdlc-orchestrator.png",
+      "url": "https://rajatpandit.com/_astro/agentic-sdlc-orchestrator.1IKjVCVx_ZpugVF.webp",
+      "format": "webp",
+      "bytes": 155140,
+      "variants": [
+        "agentic-sdlc-orchestrator.1IKjVCVx_ZpugVF.webp",
+        "agentic-sdlc-orchestrator.1IKjVCVx.png",
+        "agentic-sdlc-orchestrator.1IKjVCVx_147K5F.webp",
+        "agentic-sdlc-orchestrator.1IKjVCVx_1bYept.webp",
+        "agentic-sdlc-orchestrator.1IKjVCVx_1yGSBD.jpg",
+        "agentic-sdlc-orchestrator.1IKjVCVx_Z2jCC14.webp"
+      ]
+    },
     "ai-compute-scaling": {
       "source": "~/assets/images/ai-compute-scaling-hero.png",
       "url": "https://rajatpandit.com/_astro/ai-compute-scaling-hero.Ds-FtHGe_2wcaG7.webp",
@@ -72,6 +340,183 @@
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_m92j3.webp"
       ]
     },
+    "ai_pilot_failure_valley_1769265101000": {
+      "source": "~/assets/images/ai_pilot_failure_valley_1769265101000.png",
+      "url": "https://rajatpandit.com/_astro/ai_pilot_failure_valley_1769265101000.XWPCEnvw_Z28yyOz.webp",
+      "format": "webp",
+      "bytes": 232672,
+      "variants": [
+        "ai_pilot_failure_valley_1769265101000.XWPCEnvw_Z28yyOz.webp",
+        "ai_pilot_failure_valley_1769265101000.XWPCEnvw.png",
+        "ai_pilot_failure_valley_1769265101000.XWPCEnvw_1VkoBv.webp",
+        "ai_pilot_failure_valley_1769265101000.XWPCEnvw_JNqJl.webp",
+        "ai_pilot_failure_valley_1769265101000.XWPCEnvw_Z1mkLca.webp",
+        "ai_pilot_failure_valley_1769265101000.XWPCEnvw_ZugR6C.jpg"
+      ]
+    },
+    "all-reduce-physics-etching": {
+      "source": "~/assets/images/all-reduce-physics-etching.png",
+      "url": "https://rajatpandit.com/_astro/all-reduce-physics-etching.BDolLGif_Z1FwOMw.webp",
+      "format": "webp",
+      "bytes": 185630,
+      "variants": [
+        "all-reduce-physics-etching.BDolLGif_Z1FwOMw.webp",
+        "all-reduce-physics-etching.BDolLGif.png",
+        "all-reduce-physics-etching.BDolLGif_YwPo.webp",
+        "all-reduce-physics-etching.BDolLGif_Z13ctQu.webp",
+        "all-reduce-physics-etching.BDolLGif_Z2jtTN5.webp",
+        "all-reduce-physics-etching.BDolLGif_Z7idRF.jpg"
+      ]
+    },
+    "app-store": {
+      "source": "~/assets/images/app-store.png",
+      "url": "https://rajatpandit.com/_astro/app-store.t3tG4Jz3.png",
+      "format": "png",
+      "bytes": 11251,
+      "variants": [
+        "app-store.t3tG4Jz3.png"
+      ]
+    },
+    "appendix_a_executive_memo": {
+      "source": "~/assets/images/appendix_a_executive_memo.png",
+      "url": "https://rajatpandit.com/_astro/appendix_a_executive_memo.COS2TOim_9QIwE.webp",
+      "format": "webp",
+      "bytes": 70124,
+      "variants": [
+        "appendix_a_executive_memo.COS2TOim_9QIwE.webp"
+      ]
+    },
+    "appendix_b_actionable_roadmap": {
+      "source": "~/assets/images/appendix_b_actionable_roadmap.png",
+      "url": "https://rajatpandit.com/_astro/appendix_b_actionable_roadmap.Dsry4kEd_QMHkv.webp",
+      "format": "webp",
+      "bytes": 73396,
+      "variants": [
+        "appendix_b_actionable_roadmap.Dsry4kEd_QMHkv.webp"
+      ]
+    },
+    "appendix_c_legacy_rescue": {
+      "source": "~/assets/images/appendix_c_legacy_rescue.png",
+      "url": "https://rajatpandit.com/_astro/appendix_c_legacy_rescue.D6r6UwmF_ZRsmcb.webp",
+      "format": "webp",
+      "bytes": 91412,
+      "variants": [
+        "appendix_c_legacy_rescue.D6r6UwmF_ZRsmcb.webp"
+      ]
+    },
+    "appendix_case_study": {
+      "source": "~/assets/images/appendix_case_study.png",
+      "url": "https://rajatpandit.com/_astro/appendix_case_study.DinwKmFb_1KsNL7.webp",
+      "format": "webp",
+      "bytes": 121680,
+      "variants": [
+        "appendix_case_study.DinwKmFb_1KsNL7.webp"
+      ]
+    },
+    "appendix_d_audit_compliance": {
+      "source": "~/assets/images/appendix_d_audit_compliance.png",
+      "url": "https://rajatpandit.com/_astro/appendix_d_audit_compliance.JJbVQHDP_ZHBb8i.webp",
+      "format": "webp",
+      "bytes": 42884,
+      "variants": [
+        "appendix_d_audit_compliance.JJbVQHDP_ZHBb8i.webp"
+      ]
+    },
+    "appendix_e_performance_rubric": {
+      "source": "~/assets/images/appendix_e_performance_rubric.png",
+      "url": "https://rajatpandit.com/_astro/appendix_e_performance_rubric.BN2QvE8g_Z1eRzRD.webp",
+      "format": "webp",
+      "bytes": 66354,
+      "variants": [
+        "appendix_e_performance_rubric.BN2QvE8g_Z1eRzRD.webp"
+      ]
+    },
+    "appendix_f_pilot_selection": {
+      "source": "~/assets/images/appendix_f_pilot_selection.png",
+      "url": "https://rajatpandit.com/_astro/appendix_f_pilot_selection.COrP-pSM_ZjKrGT.webp",
+      "format": "webp",
+      "bytes": 127212,
+      "variants": [
+        "appendix_f_pilot_selection.COrP-pSM_ZjKrGT.webp"
+      ]
+    },
+    "appendix_field_kit": {
+      "source": "~/assets/images/appendix_field_kit.png",
+      "url": "https://rajatpandit.com/_astro/appendix_field_kit.RXE4TfHv_Z13FTqM.webp",
+      "format": "webp",
+      "bytes": 239976,
+      "variants": [
+        "appendix_field_kit.RXE4TfHv_Z13FTqM.webp"
+      ]
+    },
+    "appendix_g_air_cover_memo": {
+      "source": "~/assets/images/appendix_g_air_cover_memo.png",
+      "url": "https://rajatpandit.com/_astro/appendix_g_air_cover_memo.5Ll-RcCN_Z1wF8Ts.webp",
+      "format": "webp",
+      "bytes": 109660,
+      "variants": [
+        "appendix_g_air_cover_memo.5Ll-RcCN_Z1wF8Ts.webp"
+      ]
+    },
+    "appendix_h_value_capture_report": {
+      "source": "~/assets/images/appendix_h_value_capture_report.png",
+      "url": "https://rajatpandit.com/_astro/appendix_h_value_capture_report.4eSCGjk7_Z1GW9Xp.webp",
+      "format": "webp",
+      "bytes": 66784,
+      "variants": [
+        "appendix_h_value_capture_report.4eSCGjk7_Z1GW9Xp.webp"
+      ]
+    },
+    "appendix_i_prompt_regression": {
+      "source": "~/assets/images/appendix_i_prompt_regression.png",
+      "url": "https://rajatpandit.com/_astro/appendix_i_prompt_regression.9XQqmQ9j_Z1z41vE.webp",
+      "format": "webp",
+      "bytes": 22194,
+      "variants": [
+        "appendix_i_prompt_regression.9XQqmQ9j_Z1z41vE.webp"
+      ]
+    },
+    "appendix_j_review_optimization": {
+      "source": "~/assets/images/appendix_j_review_optimization.png",
+      "url": "https://rajatpandit.com/_astro/appendix_j_review_optimization.C0PY6TSa_HEp3E.webp",
+      "format": "webp",
+      "bytes": 95566,
+      "variants": [
+        "appendix_j_review_optimization.C0PY6TSa_HEp3E.webp"
+      ]
+    },
+    "appendix_k_ai_dora_metrics": {
+      "source": "~/assets/images/appendix_k_ai_dora_metrics.png",
+      "url": "https://rajatpandit.com/_astro/appendix_k_ai_dora_metrics.BBJ6Qzu1_ChU2F.webp",
+      "format": "webp",
+      "bytes": 51880,
+      "variants": [
+        "appendix_k_ai_dora_metrics.BBJ6Qzu1_ChU2F.webp"
+      ]
+    },
+    "apple-touch-icon": {
+      "source": "~/assets/images/apple-touch-icon.png",
+      "url": "https://rajatpandit.com/_astro/apple-touch-icon.BFyrk_rZ.png",
+      "format": "png",
+      "bytes": 43655,
+      "variants": [
+        "apple-touch-icon.BFyrk_rZ.png"
+      ]
+    },
+    "applying-emerging-tech-pitfalls": {
+      "source": "~/assets/images/applying-emerging-tech-pitfalls.png",
+      "url": "https://rajatpandit.com/_astro/applying-emerging-tech-pitfalls.BiI8xqeM_FAtJ6.webp",
+      "format": "webp",
+      "bytes": 223654,
+      "variants": [
+        "applying-emerging-tech-pitfalls.BiI8xqeM_FAtJ6.webp",
+        "applying-emerging-tech-pitfalls.BiI8xqeM.png",
+        "applying-emerging-tech-pitfalls.BiI8xqeM_12YciI.jpg",
+        "applying-emerging-tech-pitfalls.BiI8xqeM_ATqtA.webp",
+        "applying-emerging-tech-pitfalls.BiI8xqeM_Z1bM1lK.webp",
+        "applying-emerging-tech-pitfalls.BiI8xqeM_gIjt6.webp"
+      ]
+    },
     "architecting-ai-gateway": {
       "source": "~/assets/images/architecting-ai-gateway-hero.png",
       "url": "https://rajatpandit.com/_astro/architecting-ai-gateway-hero.MBsCZgrE_Z1aaA6b.webp",
@@ -79,6 +524,7 @@
       "bytes": 195226,
       "variants": [
         "architecting-ai-gateway-hero.MBsCZgrE_Z1aaA6b.webp",
+        "architecting-ai-gateway-explainer.DwuYSX4X_1jvUdg.webp",
         "architecting-ai-gateway-hero.MBsCZgrE.png",
         "architecting-ai-gateway-hero.MBsCZgrE_Z1EnnmH.jpg",
         "architecting-ai-gateway-hero.MBsCZgrE_Z1QEgzl.webp",
@@ -114,6 +560,251 @@
         "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_Z256lik.webp"
       ]
     },
+    "biphasic-model-infographic": {
+      "source": "~/assets/images/biphasic-model-infographic.png",
+      "url": "https://rajatpandit.com/_astro/biphasic-model-infographic.Bu9ZXBwF_2qDeka.webp",
+      "format": "webp",
+      "bytes": 152112,
+      "variants": [
+        "biphasic-model-infographic.Bu9ZXBwF_2qDeka.webp"
+      ]
+    },
+    "board-room-considerations": {
+      "source": "~/assets/images/board-room-considerations.png",
+      "url": "https://rajatpandit.com/_astro/board-room-considerations.DBD1v2xn_23bhP5.webp",
+      "format": "webp",
+      "bytes": 164176,
+      "variants": [
+        "board-room-considerations.DBD1v2xn_23bhP5.webp"
+      ]
+    },
+    "boardroom": {
+      "source": "~/assets/images/boardroom.png",
+      "url": "https://rajatpandit.com/_astro/boardroom.DQXJDumZ.jpg",
+      "format": "jpg",
+      "bytes": 121422,
+      "variants": [
+        "boardroom.DQXJDumZ.jpg"
+      ]
+    },
+    "build-vs-buy-foundation": {
+      "source": "~/assets/images/build-vs-buy-foundation.png",
+      "url": "https://rajatpandit.com/_astro/build-vs-buy-foundation.CnCe5L3p_1FzcRw.webp",
+      "format": "webp",
+      "bytes": 248738,
+      "variants": [
+        "build-vs-buy-foundation.CnCe5L3p_1FzcRw.webp",
+        "build-vs-buy-foundation.CnCe5L3p.png",
+        "build-vs-buy-foundation.CnCe5L3p_Z15MNkk.webp",
+        "build-vs-buy-foundation.CnCe5L3p_Z1r9Oo2.webp",
+        "build-vs-buy-foundation.CnCe5L3p_h5oqN.webp",
+        "build-vs-buy-foundation.CnCe5L3p_ujGJu.jpg"
+      ]
+    },
+    "building-an-autonomy-dial": {
+      "source": "~/assets/images/building-an-autonomy-dial.png",
+      "url": "https://rajatpandit.com/_astro/building-an-autonomy-dial.C_xBoXca_16Qweo.webp",
+      "format": "webp",
+      "bytes": 220584,
+      "variants": [
+        "building-an-autonomy-dial.C_xBoXca_16Qweo.webp",
+        "building-an-autonomy-dial.C_xBoXca.png",
+        "building-an-autonomy-dial.C_xBoXca_Fu82H.webp",
+        "building-an-autonomy-dial.C_xBoXca_Z10VCEu.webp",
+        "building-an-autonomy-dial.C_xBoXca_Z1Y8r1e.jpg",
+        "building-an-autonomy-dial.C_xBoXca_ZS59kG.webp"
+      ]
+    },
+    "caio-boardroom-advice": {
+      "source": "~/assets/images/caio-boardroom-advice.png",
+      "url": "https://rajatpandit.com/_astro/caio-boardroom-advice.BKEgLP95_1JwFPo.webp",
+      "format": "webp",
+      "bytes": 243508,
+      "variants": [
+        "caio-boardroom-advice.BKEgLP95_1JwFPo.webp",
+        "caio-boardroom-advice.BKEgLP95.png",
+        "caio-boardroom-advice.BKEgLP95_1R81OV.jpg",
+        "caio-boardroom-advice.BKEgLP95_20AFgK.webp",
+        "caio-boardroom-advice.BKEgLP95_6NBPo.webp",
+        "caio-boardroom-advice.BKEgLP95_ZwnaqY.webp"
+      ]
+    },
+    "caio_first_100_days_pop_art": {
+      "source": "~/assets/images/caio_first_100_days_pop_art.png",
+      "url": "https://rajatpandit.com/_astro/caio_first_100_days_pop_art.BCF878xN_1owglt.webp",
+      "format": "webp",
+      "bytes": 258274,
+      "variants": [
+        "caio_first_100_days_pop_art.BCF878xN_1owglt.webp",
+        "caio_first_100_days_pop_art.BCF878xN.png",
+        "caio_first_100_days_pop_art.BCF878xN_A6bQ5.webp",
+        "caio_first_100_days_pop_art.BCF878xN_LaO32.webp",
+        "caio_first_100_days_pop_art.BCF878xN_Z1OoWLE.webp",
+        "caio_first_100_days_pop_art.BCF878xN_Z3Ar92.jpg"
+      ]
+    },
+    "chapter_01_cambrian_explosion": {
+      "source": "~/assets/images/chapter_01_cambrian_explosion.png",
+      "url": "https://rajatpandit.com/_astro/chapter_01_cambrian_explosion.BqzLIbt0_2uJMJT.webp",
+      "format": "webp",
+      "bytes": 82382,
+      "variants": [
+        "chapter_01_cambrian_explosion.BqzLIbt0_2uJMJT.webp"
+      ]
+    },
+    "chapter_01_era_of_displacement": {
+      "source": "~/assets/images/chapter_01_era_of_displacement.png",
+      "url": "https://rajatpandit.com/_astro/chapter_01_era_of_displacement.RkGBl3BI_Z1XJF40.webp",
+      "format": "webp",
+      "bytes": 407226,
+      "variants": [
+        "chapter_01_era_of_displacement.RkGBl3BI_Z1XJF40.webp"
+      ]
+    },
+    "chapter_02_intelligence_as_ammo": {
+      "source": "~/assets/images/chapter_02_intelligence_as_ammo.png",
+      "url": "https://rajatpandit.com/_astro/chapter_02_intelligence_as_ammo.CAXYAm2V_Z2oyp5B.webp",
+      "format": "webp",
+      "bytes": 372070,
+      "variants": [
+        "chapter_02_intelligence_as_ammo.CAXYAm2V_Z2oyp5B.webp"
+      ]
+    },
+    "chapter_02_vibe_coding": {
+      "source": "~/assets/images/chapter_02_vibe_coding.png",
+      "url": "https://rajatpandit.com/_astro/chapter_02_vibe_coding.cvqUXUyz_Z1xrFap.webp",
+      "format": "webp",
+      "bytes": 119226,
+      "variants": [
+        "chapter_02_vibe_coding.cvqUXUyz_Z1xrFap.webp"
+      ]
+    },
+    "chapter_03_five_micro_loops": {
+      "source": "~/assets/images/chapter_03_five_micro_loops.png",
+      "url": "https://rajatpandit.com/_astro/chapter_03_five_micro_loops.DaGunSmE_loBib.webp",
+      "format": "webp",
+      "bytes": 86262,
+      "variants": [
+        "chapter_03_five_micro_loops.DaGunSmE_loBib.webp"
+      ]
+    },
+    "chapter_03_wedge_strategy": {
+      "source": "~/assets/images/chapter_03_wedge_strategy.png",
+      "url": "https://rajatpandit.com/_astro/chapter_03_wedge_strategy.CmuQxdCp_Z2lUgf7.webp",
+      "format": "webp",
+      "bytes": 365530,
+      "variants": [
+        "chapter_03_wedge_strategy.CmuQxdCp_Z2lUgf7.webp"
+      ]
+    },
+    "chapter_04_context_architect": {
+      "source": "~/assets/images/chapter_04_context_architect.png",
+      "url": "https://rajatpandit.com/_astro/chapter_04_context_architect.KJft8X5t_Z1ioIzq.webp",
+      "format": "webp",
+      "bytes": 122968,
+      "variants": [
+        "chapter_04_context_architect.KJft8X5t_Z1ioIzq.webp"
+      ]
+    },
+    "chapter_04_mapping_the_terrain": {
+      "source": "~/assets/images/chapter_04_mapping_the_terrain.png",
+      "url": "https://rajatpandit.com/_astro/chapter_04_mapping_the_terrain.XhbVKLT3_ZVv8t6.webp",
+      "format": "webp",
+      "bytes": 319490,
+      "variants": [
+        "chapter_04_mapping_the_terrain.XhbVKLT3_ZVv8t6.webp"
+      ]
+    },
+    "chapter_05_apprenticeship_crisis": {
+      "source": "~/assets/images/chapter_05_apprenticeship_crisis.png",
+      "url": "https://rajatpandit.com/_astro/chapter_05_apprenticeship_crisis.DWagbayJ_Z9S7wq.webp",
+      "format": "webp",
+      "bytes": 138146,
+      "variants": [
+        "chapter_05_apprenticeship_crisis.DWagbayJ_Z9S7wq.webp"
+      ]
+    },
+    "chapter_05_technical_de_risking": {
+      "source": "~/assets/images/chapter_05_technical_de_risking.png",
+      "url": "https://rajatpandit.com/_astro/chapter_05_technical_de_risking.DrFT15az_Z2kvsdC.webp",
+      "format": "webp",
+      "bytes": 272722,
+      "variants": [
+        "chapter_05_technical_de_risking.DrFT15az_Z2kvsdC.webp"
+      ]
+    },
+    "chapter_06_the_liberation_squad": {
+      "source": "~/assets/images/chapter_06_the_liberation_squad.png",
+      "url": "https://rajatpandit.com/_astro/chapter_06_the_liberation_squad.D3zSNn8h_ZSqfmi.webp",
+      "format": "webp",
+      "bytes": 224356,
+      "variants": [
+        "chapter_06_the_liberation_squad.D3zSNn8h_ZSqfmi.webp"
+      ]
+    },
+    "chapter_06_upstream_shock": {
+      "source": "~/assets/images/chapter_06_upstream_shock.png",
+      "url": "https://rajatpandit.com/_astro/chapter_06_upstream_shock.BM73E835_1pSMi1.webp",
+      "format": "webp",
+      "bytes": 72752,
+      "variants": [
+        "chapter_06_upstream_shock.BM73E835_1pSMi1.webp"
+      ]
+    },
+    "chapter_07_economics_of_displacement": {
+      "source": "~/assets/images/chapter_07_economics_of_displacement.png",
+      "url": "https://rajatpandit.com/_astro/chapter_07_economics_of_displacement._CsWuRQi_1Tnd8P.webp",
+      "format": "webp",
+      "bytes": 186116,
+      "variants": [
+        "chapter_07_economics_of_displacement._CsWuRQi_1Tnd8P.webp"
+      ]
+    },
+    "chapter_07_the_sentinel": {
+      "source": "~/assets/images/chapter_07_the_sentinel.png",
+      "url": "https://rajatpandit.com/_astro/chapter_07_the_sentinel.C9_1wlTb_SGT6u.webp",
+      "format": "webp",
+      "bytes": 130008,
+      "variants": [
+        "chapter_07_the_sentinel.C9_1wlTb_SGT6u.webp"
+      ]
+    },
+    "chapter_08_boardroom_view": {
+      "source": "~/assets/images/chapter_08_boardroom_view.png",
+      "url": "https://rajatpandit.com/_astro/chapter_08_boardroom_view.vBMiqpxI_103g33.webp",
+      "format": "webp",
+      "bytes": 73742,
+      "variants": [
+        "chapter_08_boardroom_view.vBMiqpxI_103g33.webp"
+      ]
+    },
+    "chapter_08_measurement_and_incentives": {
+      "source": "~/assets/images/chapter_08_measurement_and_incentives.png",
+      "url": "https://rajatpandit.com/_astro/chapter_08_measurement_and_incentives.DAcz6BmV_ZdFar8.webp",
+      "format": "webp",
+      "bytes": 325662,
+      "variants": [
+        "chapter_08_measurement_and_incentives.DAcz6BmV_ZdFar8.webp"
+      ]
+    },
+    "chapter_09_vendor_alliance": {
+      "source": "~/assets/images/chapter_09_vendor_alliance.png",
+      "url": "https://rajatpandit.com/_astro/chapter_09_vendor_alliance.DX_riIwB_5U1Lb.webp",
+      "format": "webp",
+      "bytes": 90140,
+      "variants": [
+        "chapter_09_vendor_alliance.DX_riIwB_5U1Lb.webp"
+      ]
+    },
+    "chapter_10_last_mile": {
+      "source": "~/assets/images/chapter_10_last_mile.png",
+      "url": "https://rajatpandit.com/_astro/chapter_10_last_mile.DYiM7Tn5_Z1fzz3A.webp",
+      "format": "webp",
+      "bytes": 103710,
+      "variants": [
+        "chapter_10_last_mile.DYiM7Tn5_Z1fzz3A.webp"
+      ]
+    },
     "chunked-prefill": {
       "source": "~/assets/images/chunked-prefill-hero.png",
       "url": "https://rajatpandit.com/_astro/chunked-prefill-hero.BWjxKWV1_Zd2p4l.webp",
@@ -126,6 +817,62 @@
         "chunked-prefill-hero.BWjxKWV1_Z7OsPD.webp",
         "chunked-prefill-hero.BWjxKWV1_ZCocSP.webp",
         "chunked-prefill-hero.BWjxKWV1_ZqQcUF.jpg"
+      ]
+    },
+    "cloud-adoption-org-culture": {
+      "source": "~/assets/images/cloud-adoption-org-culture.png",
+      "url": "https://rajatpandit.com/_astro/cloud-adoption-org-culture.9NYJ1En1_ZifM6E.webp",
+      "format": "webp",
+      "bytes": 231424,
+      "variants": [
+        "cloud-adoption-org-culture.9NYJ1En1_ZifM6E.webp",
+        "cloud-adoption-org-culture.9NYJ1En1.png",
+        "cloud-adoption-org-culture.9NYJ1En1_1fXNNc.jpg",
+        "cloud-adoption-org-culture.9NYJ1En1_Z1LJSQJ.webp",
+        "cloud-adoption-org-culture.9NYJ1En1_ZvssU9.webp",
+        "cloud-adoption-org-culture.9NYJ1En1_xIxLJ.webp"
+      ]
+    },
+    "cloud-storage-io-bottlenecks": {
+      "source": "~/assets/images/cloud-storage-io-bottlenecks.png",
+      "url": "https://rajatpandit.com/_astro/cloud-storage-io-bottlenecks.Bb3LvZgZ_1BtSrH.webp",
+      "format": "webp",
+      "bytes": 232578,
+      "variants": [
+        "cloud-storage-io-bottlenecks.Bb3LvZgZ_1BtSrH.webp",
+        "cloud-storage-io-bottlenecks.Bb3LvZgZ.png",
+        "cloud-storage-io-bottlenecks.Bb3LvZgZ_1BMBbk.webp",
+        "cloud-storage-io-bottlenecks.Bb3LvZgZ_1jpvVJ.webp",
+        "cloud-storage-io-bottlenecks.Bb3LvZgZ_OsnMz.webp",
+        "cloud-storage-io-bottlenecks.Bb3LvZgZ_Z20o5ca.jpg"
+      ]
+    },
+    "compiling-tensorrt-engines-calibration-trap": {
+      "source": "~/assets/images/compiling-tensorrt-engines-calibration-trap.png",
+      "url": "https://rajatpandit.com/_astro/compiling-tensorrt-engines-calibration-trap.DESeNGQB_Zj9sUw.webp",
+      "format": "webp",
+      "bytes": 226010,
+      "variants": [
+        "compiling-tensorrt-engines-calibration-trap.DESeNGQB_Zj9sUw.webp",
+        "compiling-tensorrt-engines-calibration-trap.DESeNGQB.png",
+        "compiling-tensorrt-engines-calibration-trap.DESeNGQB_2euD2K.webp",
+        "compiling-tensorrt-engines-calibration-trap.DESeNGQB_Z1OtKVR.jpg",
+        "compiling-tensorrt-engines-calibration-trap.DESeNGQB_Z2dzip0.webp",
+        "compiling-tensorrt-engines-calibration-trap.DESeNGQB_ZiWiBu.webp"
+      ]
+    },
+    "compute-to-cashflow": {
+      "source": "~/assets/images/compute-to-cashflow.png",
+      "url": "https://rajatpandit.com/_astro/compute-to-cashflow.L-vuBQIw_157UoT.webp",
+      "format": "webp",
+      "bytes": 542718,
+      "variants": [
+        "compute-to-cashflow.L-vuBQIw_157UoT.webp",
+        "compute-to-cashflow.L-vuBQIw.png",
+        "compute-to-cashflow.L-vuBQIw_1xr6OL.jpg",
+        "compute-to-cashflow.L-vuBQIw_Z1lR4UM.webp",
+        "compute-to-cashflow.L-vuBQIw_Z2gCquX.webp",
+        "compute-to-cashflow.L-vuBQIw_ZrM4sK.webp"
       ]
     },
     "context-bloat-progressive-discovery": {
@@ -142,6 +889,30 @@
         "context-bloat-progressive-discovery-hero.C3ZeoQlF_ZKq2W4.webp"
       ]
     },
+    "continuous-batching-in-vllm": {
+      "source": "~/assets/images/continuous-batching-in-vllm.png",
+      "url": "https://rajatpandit.com/_astro/continuous-batching-in-vllm.CxxmducY_5rpus.webp",
+      "format": "webp",
+      "bytes": 216978,
+      "variants": [
+        "continuous-batching-in-vllm.CxxmducY_5rpus.webp",
+        "continuous-batching-in-vllm.CxxmducY.png",
+        "continuous-batching-in-vllm.CxxmducY_1f7T8O.webp",
+        "continuous-batching-in-vllm.CxxmducY_Z1etrPq.webp",
+        "continuous-batching-in-vllm.CxxmducY_Z1mFi03.jpg",
+        "continuous-batching-in-vllm.CxxmducY_Z1py52n.webp"
+      ]
+    },
+    "cover": {
+      "source": "~/assets/images/cover.png",
+      "url": "https://rajatpandit.com/_astro/cover.v_3BAss6.png",
+      "format": "png",
+      "bytes": 66180,
+      "variants": [
+        "cover.v_3BAss6.png",
+        "cover.v_3BAss6_ZTJoYF.jpg"
+      ]
+    },
     "data-gravity-cloud-agnostic": {
       "source": "~/assets/images/data-gravity-cloud-agnostic-hero.png",
       "url": "https://rajatpandit.com/_astro/data-gravity-cloud-agnostic-hero.C6k8TiP0_ZxTtek.webp",
@@ -154,6 +925,90 @@
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_22cL6W.webp",
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_ZWSdWa.webp",
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_hcdAy.webp"
+      ]
+    },
+    "debugging-audio-buffer-overruns": {
+      "source": "~/assets/images/debugging-audio-buffer-overruns.png",
+      "url": "https://rajatpandit.com/_astro/debugging-audio-buffer-overruns.BmJRndoo_Z2iTcyV.webp",
+      "format": "webp",
+      "bytes": 262772,
+      "variants": [
+        "debugging-audio-buffer-overruns.BmJRndoo_Z2iTcyV.webp",
+        "debugging-audio-buffer-overruns.BmJRndoo.png",
+        "debugging-audio-buffer-overruns.BmJRndoo_29s5dq.webp",
+        "debugging-audio-buffer-overruns.BmJRndoo_Z182AKa.webp",
+        "debugging-audio-buffer-overruns.BmJRndoo_Z1Vvu0j.jpg",
+        "debugging-audio-buffer-overruns.BmJRndoo_Z1sdHKE.webp"
+      ]
+    },
+    "declarative-vs-open-ended-genui": {
+      "source": "~/assets/images/declarative-vs-open-ended-genui.png",
+      "url": "https://rajatpandit.com/_astro/declarative-vs-open-ended-genui.2g_t-zJX_1HTlmU.webp",
+      "format": "webp",
+      "bytes": 231692,
+      "variants": [
+        "declarative-vs-open-ended-genui.2g_t-zJX_1HTlmU.webp",
+        "declarative-vs-open-ended-genui.2g_t-zJX.png",
+        "declarative-vs-open-ended-genui.2g_t-zJX_25i3Vx.jpg",
+        "declarative-vs-open-ended-genui.2g_t-zJX_Z14xWf.webp",
+        "declarative-vs-open-ended-genui.2g_t-zJX_Z1NL0MA.webp",
+        "declarative-vs-open-ended-genui.2g_t-zJX_ZlfEWJ.webp"
+      ]
+    },
+    "default": {
+      "source": "~/assets/images/default.png",
+      "url": "https://rajatpandit.com/_astro/default.CZ816Hke.png",
+      "format": "png",
+      "bytes": 405450,
+      "variants": [
+        "default.CZ816Hke.png"
+      ]
+    },
+    "deploying-multi-lora-adapters-vllm": {
+      "source": "~/assets/images/deploying-multi-lora-adapters-vllm.png",
+      "url": "https://rajatpandit.com/_astro/deploying-multi-lora-adapters-vllm.R6QSvWMD_ZuOKOx.webp",
+      "format": "webp",
+      "bytes": 165988,
+      "variants": [
+        "deploying-multi-lora-adapters-vllm.R6QSvWMD_ZuOKOx.webp",
+        "deploying-multi-lora-adapters-vllm.R6QSvWMD.png",
+        "deploying-multi-lora-adapters-vllm.R6QSvWMD_2adqk7.webp",
+        "deploying-multi-lora-adapters-vllm.R6QSvWMD_2cp4b0.webp",
+        "deploying-multi-lora-adapters-vllm.R6QSvWMD_2dyzWC.webp",
+        "deploying-multi-lora-adapters-vllm.R6QSvWMD_Z2cVQRx.jpg"
+      ]
+    },
+    "dynamic-lora-adapters-anti-monolith": {
+      "source": "~/assets/images/dynamic-lora-adapters-anti-monolith.png",
+      "url": "https://rajatpandit.com/_astro/dynamic-lora-adapters-anti-monolith.2Z7qyIXU_Z2cuvWL.webp",
+      "format": "webp",
+      "bytes": 241366,
+      "variants": [
+        "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_Z2cuvWL.webp",
+        "dynamic-lora-adapters-anti-monolith.2Z7qyIXU.png",
+        "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_16yUT3.webp",
+        "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_1NvWNU.jpg",
+        "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_qUqJ0.webp",
+        "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_x3YJS.webp"
+      ]
+    },
+    "engineered-evolution-cover": {
+      "source": "~/assets/images/engineered-evolution-cover.png",
+      "url": "https://rajatpandit.com/_astro/engineered-evolution-cover.R-MichYB_ZlwTnQ.webp",
+      "format": "webp",
+      "bytes": 153030,
+      "variants": [
+        "engineered-evolution-cover.R-MichYB_ZlwTnQ.webp"
+      ]
+    },
+    "final_cover_variation_02": {
+      "source": "~/assets/images/final_cover_variation_02.png",
+      "url": "https://rajatpandit.com/_astro/final_cover_variation_02.rIiTkcmJ.png",
+      "format": "png",
+      "bytes": 1731068,
+      "variants": [
+        "final_cover_variation_02.rIiTkcmJ.png",
+        "final_cover_variation_02.rIiTkcmJ_Z2lOnzv.jpg"
       ]
     },
     "flashattention-vs-ringattention": {
@@ -171,6 +1026,103 @@
         "flashattention-vs-ringattention-hero.C_7gZzk1_ZpWkgc.webp"
       ]
     },
+    "fp8-gradient-divergence": {
+      "source": "~/assets/images/fp8-gradient-divergence.png",
+      "url": "https://rajatpandit.com/_astro/fp8-gradient-divergence.Dm-5sPG1_Z1EPeVD.webp",
+      "format": "webp",
+      "bytes": 168388,
+      "variants": [
+        "fp8-gradient-divergence.Dm-5sPG1_Z1EPeVD.webp",
+        "fp8-gradient-divergence.Dm-5sPG1.png",
+        "fp8-gradient-divergence.Dm-5sPG1_2e6nJg.jpg",
+        "fp8-gradient-divergence.Dm-5sPG1_Z21q0u0.webp",
+        "fp8-gradient-divergence.Dm-5sPG1_Z2mM1xH.webp",
+        "fp8-gradient-divergence.Dm-5sPG1_ZDwMHR.webp"
+      ]
+    },
+    "g4-layer": {
+      "source": "~/assets/images/g4-layer.png",
+      "url": "https://rajatpandit.com/_astro/g4-layer.DgCGH5cy_Z1FpKXB.webp",
+      "format": "webp",
+      "bytes": 406078,
+      "variants": [
+        "g4-layer.DgCGH5cy_Z1FpKXB.webp"
+      ]
+    },
+    "gemini_cli_hooks_diagram_1769265103000": {
+      "source": "~/assets/images/gemini_cli_hooks_diagram_1769265103000.png",
+      "url": "https://rajatpandit.com/_astro/gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_1cJa05.webp",
+      "format": "webp",
+      "bytes": 242468,
+      "variants": [
+        "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_1cJa05.webp",
+        "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF.png",
+        "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_2jborC.jpg",
+        "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_2vkVqW.webp",
+        "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_Z13PuxS.webp",
+        "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_Z1hF52i.webp"
+      ]
+    },
+    "generative-ui-blueprint": {
+      "source": "~/assets/images/generative-ui-blueprint.png",
+      "url": "https://rajatpandit.com/_astro/generative-ui-blueprint.DU_zQ-Mi_Z4OeoV.webp",
+      "format": "webp",
+      "bytes": 261782,
+      "variants": [
+        "generative-ui-blueprint.DU_zQ-Mi_Z4OeoV.webp",
+        "generative-ui-blueprint.DU_zQ-Mi.png",
+        "generative-ui-blueprint.DU_zQ-Mi_1mEN9X.webp",
+        "generative-ui-blueprint.DU_zQ-Mi_Z1g4JwX.jpg",
+        "generative-ui-blueprint.DU_zQ-Mi_ZdoBa.webp",
+        "generative-ui-blueprint.DU_zQ-Mi_ZlzpER.webp"
+      ]
+    },
+    "genkit-flows-vs-langchain-chains": {
+      "source": "~/assets/images/genkit-flows-vs-langchain-chains.png",
+      "url": "https://rajatpandit.com/_astro/genkit-flows-vs-langchain-chains.B1dLQiSk_iwpMl.webp",
+      "format": "webp",
+      "bytes": 217302,
+      "variants": [
+        "genkit-flows-vs-langchain-chains.B1dLQiSk_iwpMl.webp",
+        "genkit-flows-vs-langchain-chains.B1dLQiSk.png",
+        "genkit-flows-vs-langchain-chains.B1dLQiSk_1iKVyd.webp",
+        "genkit-flows-vs-langchain-chains.B1dLQiSk_1mG07r.webp",
+        "genkit-flows-vs-langchain-chains.B1dLQiSk_2uCf3c.jpg",
+        "genkit-flows-vs-langchain-chains.B1dLQiSk_Z2tMinb.webp"
+      ]
+    },
+    "gitops-agentic": {
+      "source": "~/assets/images/gitops-agentic.png",
+      "url": "https://rajatpandit.com/_astro/gitops-agentic.CDAriX57_mrGu.webp",
+      "format": "webp",
+      "bytes": 192410,
+      "variants": [
+        "gitops-agentic.CDAriX57_mrGu.webp",
+        "gitops-agentic.CDAriX57.png",
+        "gitops-agentic.CDAriX57_1l09Ad.webp",
+        "gitops-agentic.CDAriX57_8D7aC.webp",
+        "gitops-agentic.CDAriX57_Z1KgcJU.webp",
+        "gitops-agentic.CDAriX57_s5qzj.jpg"
+      ]
+    },
+    "google-cloud": {
+      "source": "~/assets/images/google-cloud.png",
+      "url": "https://rajatpandit.com/_astro/google-cloud.DkyLCRSi.png",
+      "format": "png",
+      "bytes": 32456,
+      "variants": [
+        "google-cloud.DkyLCRSi.png"
+      ]
+    },
+    "google-play": {
+      "source": "~/assets/images/google-play.png",
+      "url": "https://rajatpandit.com/_astro/google-play.ISTMcpLO.png",
+      "format": "png",
+      "bytes": 13307,
+      "variants": [
+        "google-play.ISTMcpLO.png"
+      ]
+    },
     "governance-as-code": {
       "source": "~/assets/images/governance-as-code-hero.png",
       "url": "https://rajatpandit.com/_astro/governance-as-code-hero.CmOmzZWh_Z248K5y.webp",
@@ -185,6 +1137,20 @@
         "governance-as-code-hero.CmOmzZWh_ZYkoHr.webp"
       ]
     },
+    "governance-human-in-the-loop-fallacy": {
+      "source": "~/assets/images/governance-human-in-the-loop-fallacy.png",
+      "url": "https://rajatpandit.com/_astro/governance-human-in-the-loop-fallacy.BBTGzBgz_20269N.webp",
+      "format": "webp",
+      "bytes": 233532,
+      "variants": [
+        "governance-human-in-the-loop-fallacy.BBTGzBgz_20269N.webp",
+        "governance-human-in-the-loop-fallacy.BBTGzBgz.png",
+        "governance-human-in-the-loop-fallacy.BBTGzBgz_Z2wRr4x.webp",
+        "governance-human-in-the-loop-fallacy.BBTGzBgz_Zh52Up.webp",
+        "governance-human-in-the-loop-fallacy.BBTGzBgz_nfAec.jpg",
+        "governance-human-in-the-loop-fallacy.BBTGzBgz_qJADv.webp"
+      ]
+    },
     "handling-context-window-limits": {
       "source": "~/assets/images/handling-context-window-limits-hero.png",
       "url": "https://rajatpandit.com/_astro/handling-context-window-limits-hero.C3fJxWgq_Z1Osrtn.webp",
@@ -192,6 +1158,7 @@
       "bytes": 430884,
       "variants": [
         "handling-context-window-limits-hero.C3fJxWgq_Z1Osrtn.webp",
+        "handling-context-window-limits-explainer.BFCQjMcV_1DAd5s.webp",
         "handling-context-window-limits-hero.C3fJxWgq.png",
         "handling-context-window-limits-hero.C3fJxWgq_1RSIDK.webp",
         "handling-context-window-limits-hero.C3fJxWgq_Z1VXDC6.jpg",
@@ -214,18 +1181,102 @@
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh_ZwOLR0.webp"
       ]
     },
-    "human-as-orchestrator": {
-      "source": "~/assets/images/human-as-orchestrator-hero.png",
-      "url": "https://rajatpandit.com/_astro/human-as-orchestrator-hero.FGh-UinE_ZbVGTb.webp",
-      "format": "webp",
-      "bytes": 188628,
+    "hero-image": {
+      "source": "~/assets/images/hero-image.png",
+      "url": "https://rajatpandit.com/_astro/hero-image.DwIC_L_T.png",
+      "format": "png",
+      "bytes": 551662,
       "variants": [
-        "human-as-orchestrator-hero.FGh-UinE_ZbVGTb.webp",
+        "hero-image.DwIC_L_T.png"
+      ]
+    },
+    "human-as-orchestrator": {
+      "source": "~/assets/images/human-as-orchestrator.png",
+      "url": "https://rajatpandit.com/_astro/human-as-orchestrator-explainer.BRZh9Ma8_MVzBg.webp",
+      "format": "webp",
+      "bytes": 225602,
+      "variants": [
+        "human-as-orchestrator-explainer.BRZh9Ma8_MVzBg.webp",
         "human-as-orchestrator-hero.FGh-UinE.png",
         "human-as-orchestrator-hero.FGh-UinE_BqRRT.webp",
         "human-as-orchestrator-hero.FGh-UinE_Z1RmYYa.jpg",
         "human-as-orchestrator-hero.FGh-UinE_Z1iicxO.webp",
-        "human-as-orchestrator-hero.FGh-UinE_Z2kT4ka.webp"
+        "human-as-orchestrator-hero.FGh-UinE_Z2kT4ka.webp",
+        "human-as-orchestrator-hero.FGh-UinE_ZbVGTb.webp"
+      ]
+    },
+    "iStock_74349407_MEDIUM": {
+      "source": "~/assets/images/iStock_74349407_MEDIUM.png",
+      "url": "https://rajatpandit.com/_astro/iStock_74349407_MEDIUM.ClCn8MrA.webp",
+      "format": "webp",
+      "bytes": 88642,
+      "variants": [
+        "iStock_74349407_MEDIUM.ClCn8MrA.webp"
+      ]
+    },
+    "image": {
+      "source": "~/assets/images/image.png",
+      "url": "https://rajatpandit.com/_astro/image.DEPooxcH_ZftuQF.webp",
+      "format": "webp",
+      "bytes": 132980,
+      "variants": [
+        "image.DEPooxcH_ZftuQF.webp",
+        "image.DEPooxcH.png",
+        "image.DEPooxcH_17qD2J.webp",
+        "image.DEPooxcH_Z16selM.webp",
+        "image.DEPooxcH_Z1aSu52.webp",
+        "image.DEPooxcH_Z1bELrP.webp"
+      ]
+    },
+    "inference-lever-victorian": {
+      "source": "~/assets/images/inference-lever-victorian.png",
+      "url": "https://rajatpandit.com/_astro/inference-lever-victorian.Cp1ntWJX_ZWcAbi.webp",
+      "format": "webp",
+      "bytes": 257538,
+      "variants": [
+        "inference-lever-victorian.Cp1ntWJX_ZWcAbi.webp",
+        "inference-lever-victorian.Cp1ntWJX.png",
+        "inference-lever-victorian.Cp1ntWJX_11Yzn1.jpg",
+        "inference-lever-victorian.Cp1ntWJX_2m7w0n.webp",
+        "inference-lever-victorian.Cp1ntWJX_2tY0kb.webp",
+        "inference-lever-victorian.Cp1ntWJX_Z11CQ6m.webp"
+      ]
+    },
+    "internal": {
+      "source": "~/assets/images/internal.png",
+      "url": "https://rajatpandit.com/_astro/internal.CXzH3i4y_ZDVRpf.webp",
+      "format": "webp",
+      "bytes": 31388,
+      "variants": [
+        "internal.CXzH3i4y_ZDVRpf.webp"
+      ]
+    },
+    "jax_xla_idle_timeline_1769265102000": {
+      "source": "~/assets/images/jax_xla_idle_timeline_1769265102000.png",
+      "url": "https://rajatpandit.com/_astro/jax_xla_idle_timeline_1769265102000.CQyDwbop_1q9PwS.webp",
+      "format": "webp",
+      "bytes": 189958,
+      "variants": [
+        "jax_xla_idle_timeline_1769265102000.CQyDwbop_1q9PwS.webp",
+        "jax_xla_idle_timeline_1769265102000.CQyDwbop.png",
+        "jax_xla_idle_timeline_1769265102000.CQyDwbop_1nIume.webp",
+        "jax_xla_idle_timeline_1769265102000.CQyDwbop_I50cb.webp",
+        "jax_xla_idle_timeline_1769265102000.CQyDwbop_Odyd4.webp",
+        "jax_xla_idle_timeline_1769265102000.CQyDwbop_lYbuD.jpg"
+      ]
+    },
+    "kv-cache-offloading-in-k8s": {
+      "source": "~/assets/images/kv-cache-offloading-in-k8s.png",
+      "url": "https://rajatpandit.com/_astro/kv-cache-offloading-in-k8s.VRWHXzVN_ZFLN3g.webp",
+      "format": "webp",
+      "bytes": 252950,
+      "variants": [
+        "kv-cache-offloading-in-k8s.VRWHXzVN_ZFLN3g.webp",
+        "kv-cache-offloading-in-k8s.VRWHXzVN.png",
+        "kv-cache-offloading-in-k8s.VRWHXzVN_25RuGx.webp",
+        "kv-cache-offloading-in-k8s.VRWHXzVN_OA4JW.webp",
+        "kv-cache-offloading-in-k8s.VRWHXzVN_RrMQA.jpg",
+        "kv-cache-offloading-in-k8s.VRWHXzVN_Z1U7Bpv.webp"
       ]
     },
     "kv-cache-quantization": {
@@ -240,6 +1291,29 @@
         "kv-cache-quantization-hero.BoSoDQoQ_GzcgF.jpg",
         "kv-cache-quantization-hero.BoSoDQoQ_ZBLiMN.webp",
         "kv-cache-quantization-hero.BoSoDQoQ_pOxXx.webp"
+      ]
+    },
+    "kv_caching_diagram": {
+      "source": "~/assets/images/kv_caching_diagram.png",
+      "url": "https://rajatpandit.com/_astro/kv_caching_diagram.Dgii1Wz4_e0t9.webp",
+      "format": "webp",
+      "bytes": 242008,
+      "variants": [
+        "kv_caching_diagram.Dgii1Wz4_e0t9.webp"
+      ]
+    },
+    "kv_caching_hero": {
+      "source": "~/assets/images/kv_caching_hero.png",
+      "url": "https://rajatpandit.com/_astro/kv_caching_hero.53dzz1lS_ZSxG9i.webp",
+      "format": "webp",
+      "bytes": 183846,
+      "variants": [
+        "kv_caching_hero.53dzz1lS_ZSxG9i.webp",
+        "kv_caching_hero.53dzz1lS.png",
+        "kv_caching_hero.53dzz1lS_1NSBCI.webp",
+        "kv_caching_hero.53dzz1lS_6KbiO.webp",
+        "kv_caching_hero.53dzz1lS_Z14lHWh.jpg",
+        "kv_caching_hero.53dzz1lS_Z1O3W0X.webp"
       ]
     },
     "langgraph-state-management-checkpoints": {
@@ -257,6 +1331,20 @@
         "langgraph-state-management-checkpoints-hero.e79s88vq_ZP8SYT.webp"
       ]
     },
+    "library": {
+      "source": "~/assets/images/library.png",
+      "url": "https://rajatpandit.com/_astro/library.DRMGI60K_ZChgCs.webp",
+      "format": "webp",
+      "bytes": 120450,
+      "variants": [
+        "library.DRMGI60K_ZChgCs.webp",
+        "library.DRMGI60K.png",
+        "library.DRMGI60K_3o5Ax.jpg",
+        "library.DRMGI60K_53DKw.webp",
+        "library.DRMGI60K_Z1IG44A.webp",
+        "library.DRMGI60K_Z1IJG5t.webp"
+      ]
+    },
     "litert-lm-deep-dive": {
       "source": "~/assets/images/litert-lm-deep-dive-hero.png",
       "url": "https://rajatpandit.com/_astro/litert-lm-deep-dive-hero.CYrf8GeX_n38FF.webp",
@@ -270,6 +1358,43 @@
         "litert-lm-deep-dive-hero.CYrf8GeX_1vxOfO.webp",
         "litert-lm-deep-dive-hero.CYrf8GeX_Z1wYgph.webp",
         "litert-lm-deep-dive-hero.CYrf8GeX_Z1x3E9u.webp"
+      ]
+    },
+    "llm-as-a-judge-plan-adherence": {
+      "source": "~/assets/images/llm-as-a-judge-plan-adherence.png",
+      "url": "https://rajatpandit.com/_astro/llm-as-a-judge-plan-adherence.NzOkIY--_Z14aj5H.webp",
+      "format": "webp",
+      "bytes": 221300,
+      "variants": [
+        "llm-as-a-judge-plan-adherence.NzOkIY--_Z14aj5H.webp",
+        "llm-as-a-judge-plan-adherence.NzOkIY--.png",
+        "llm-as-a-judge-plan-adherence.NzOkIY--_136Dbd.webp",
+        "llm-as-a-judge-plan-adherence.NzOkIY--_239JMc.webp",
+        "llm-as-a-judge-plan-adherence.NzOkIY--_ZrLt2F.jpg",
+        "llm-as-a-judge-plan-adherence.NzOkIY--_cHVd4.webp"
+      ]
+    },
+    "llm_json_enforcement_chaos_grid_1769265104000": {
+      "source": "~/assets/images/llm_json_enforcement_chaos_grid_1769265104000.png",
+      "url": "https://rajatpandit.com/_astro/llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_ZDWrAR.webp",
+      "format": "webp",
+      "bytes": 245858,
+      "variants": [
+        "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_ZDWrAR.webp",
+        "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l.png",
+        "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_2kiQ5F.webp",
+        "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_2ps4dw.webp",
+        "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_c7CRK.webp",
+        "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_icd53.jpg"
+      ]
+    },
+    "llm_judge_evals_resume_1774704197294": {
+      "source": "~/assets/images/llm_judge_evals_resume_1774704197294.png",
+      "url": "https://rajatpandit.com/_astro/llm_judge_evals_resume_1774704197294.BrqhCOkj.png",
+      "format": "png",
+      "bytes": 1930424,
+      "variants": [
+        "llm_judge_evals_resume_1774704197294.BrqhCOkj.png"
       ]
     },
     "llms-are-terrible-backends-forcing-strict-json-output": {
@@ -286,6 +1411,103 @@
         "llms-are-terrible-backends-forcing-strict-json-output-hero.HkgQ2x56_Z5UbGF.jpg"
       ]
     },
+    "local-70b-hardware-etching": {
+      "source": "~/assets/images/local-70b-hardware-etching.png",
+      "url": "https://rajatpandit.com/_astro/local-70b-hardware-etching.B2wDCuDr_1RJK9K.webp",
+      "format": "webp",
+      "bytes": 193256,
+      "variants": [
+        "local-70b-hardware-etching.B2wDCuDr_1RJK9K.webp",
+        "local-70b-hardware-etching.B2wDCuDr.png",
+        "local-70b-hardware-etching.B2wDCuDr_Z1DcLJk.jpg",
+        "local-70b-hardware-etching.B2wDCuDr_Z1gcH2F.webp",
+        "local-70b-hardware-etching.B2wDCuDr_Z2wu7Yg.webp",
+        "local-70b-hardware-etching.B2wDCuDr_Zc0FkM.webp"
+      ]
+    },
+    "mcp_telegraph_exchange_1769265030156": {
+      "source": "~/assets/images/mcp_telegraph_exchange_1769265030156.png",
+      "url": "https://rajatpandit.com/_astro/mcp_telegraph_exchange_1769265030156.CeQ-CHkY_2utshw.webp",
+      "format": "webp",
+      "bytes": 196340,
+      "variants": [
+        "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_2utshw.webp",
+        "mcp_telegraph_exchange_1769265030156.CeQ-CHkY.png",
+        "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_RGWlU.jpg",
+        "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_Z2vSwg6.webp",
+        "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_Zg686X.webp",
+        "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_rIvrW.webp"
+      ]
+    },
+    "measuring-agent-tool-correctness": {
+      "source": "~/assets/images/measuring-agent-tool-correctness.png",
+      "url": "https://rajatpandit.com/_astro/measuring-agent-tool-correctness.D9TCu5Z__Z2biyAs.webp",
+      "format": "webp",
+      "bytes": 161958,
+      "variants": [
+        "measuring-agent-tool-correctness.D9TCu5Z__Z2biyAs.webp",
+        "measuring-agent-tool-correctness.D9TCu5Z_.png",
+        "measuring-agent-tool-correctness.D9TCu5Z__2wUiwy.webp",
+        "measuring-agent-tool-correctness.D9TCu5Z__MfEo.jpg",
+        "measuring-agent-tool-correctness.D9TCu5Z__Z1fCVoP.webp",
+        "measuring-agent-tool-correctness.D9TCu5Z__Z2tlLI9.webp"
+      ]
+    },
+    "mega": {
+      "source": "~/assets/images/mega.png",
+      "url": "https://rajatpandit.com/_astro/mega.D1owb4cl_Em9lU.webp",
+      "format": "webp",
+      "bytes": 184360,
+      "variants": [
+        "mega.D1owb4cl_Em9lU.webp",
+        "mega.D1owb4cl.png",
+        "mega.D1owb4cl_Z1QPLuk.webp",
+        "mega.D1owb4cl_Z1uIToX.webp",
+        "mega.D1owb4cl_bfveK.webp",
+        "mega.D1owb4cl_jOoHo.jpg"
+      ]
+    },
+    "megakernel": {
+      "source": "~/assets/images/megakernel.png",
+      "url": "https://rajatpandit.com/_astro/megakernel.DmucELlY_ZH1wDj.webp",
+      "format": "webp",
+      "bytes": 200592,
+      "variants": [
+        "megakernel.DmucELlY_ZH1wDj.webp",
+        "megakernel.DmucELlY.png",
+        "megakernel.DmucELlY_Z1u2vWQ.jpg",
+        "megakernel.DmucELlY_e4eCh.webp",
+        "megakernel.DmucELlY_xCVfi.webp",
+        "megakernel.DmucELlY_yu2jI.webp"
+      ]
+    },
+    "memory-wall-infographic": {
+      "source": "~/assets/images/memory-wall-infographic.png",
+      "url": "https://rajatpandit.com/_astro/memory-wall-infographic.DX8GWueR_Z1MLYxQ.webp",
+      "format": "webp",
+      "bytes": 194752,
+      "variants": [
+        "memory-wall-infographic.DX8GWueR_Z1MLYxQ.webp"
+      ]
+    },
+    "mems-switch": {
+      "source": "~/assets/images/mems-switch.png",
+      "url": "https://rajatpandit.com/_astro/mems-switch.lJSyPmil_WSKN2.webp",
+      "format": "webp",
+      "bytes": 67200,
+      "variants": [
+        "mems-switch.lJSyPmil_WSKN2.webp"
+      ]
+    },
+    "migs": {
+      "source": "~/assets/images/migs.png",
+      "url": "https://rajatpandit.com/_astro/migs.DSE8zUYu_2nVKoJ.webp",
+      "format": "webp",
+      "bytes": 15240,
+      "variants": [
+        "migs.DSE8zUYu_2nVKoJ.webp"
+      ]
+    },
     "model-distillation": {
       "source": "~/assets/images/model-distillation-hero.png",
       "url": "https://rajatpandit.com/_astro/model-distillation-hero.CWNn9Gg5_2tK6QO.webp",
@@ -298,6 +1520,61 @@
         "model-distillation-hero.CWNn9Gg5_Z1SeYM5.webp",
         "model-distillation-hero.CWNn9Gg5_Z2eB0PM.webp",
         "model-distillation-hero.CWNn9Gg5_ZvlM0W.webp"
+      ]
+    },
+    "moe-routing-collapse": {
+      "source": "~/assets/images/moe-routing-collapse.png",
+      "url": "https://rajatpandit.com/_astro/moe-routing-collapse.DjOU57c1_Z1V9VyK.webp",
+      "format": "webp",
+      "bytes": 235888,
+      "variants": [
+        "moe-routing-collapse.DjOU57c1_Z1V9VyK.webp",
+        "moe-routing-collapse.DjOU57c1.png",
+        "moe-routing-collapse.DjOU57c1_1EiI1p.webp",
+        "moe-routing-collapse.DjOU57c1_Jxmre.webp",
+        "moe-routing-collapse.DjOU57c1_Z1sPK8S.jpg",
+        "moe-routing-collapse.DjOU57c1_Z2vNpku.webp"
+      ]
+    },
+    "month-1-foundation": {
+      "source": "~/assets/images/month-1-foundation.png",
+      "url": "https://rajatpandit.com/_astro/month-1-foundation.pc8YQNwP.png",
+      "format": "png",
+      "bytes": 1833134,
+      "variants": [
+        "month-1-foundation.pc8YQNwP.png"
+      ]
+    },
+    "month-2-scale": {
+      "source": "~/assets/images/month-2-scale.png",
+      "url": "https://rajatpandit.com/_astro/month-2-scale.CU1TGaT_.png",
+      "format": "png",
+      "bytes": 1854359,
+      "variants": [
+        "month-2-scale.CU1TGaT_.png"
+      ]
+    },
+    "month-3-optimize": {
+      "source": "~/assets/images/month-3-optimize.png",
+      "url": "https://rajatpandit.com/_astro/month-3-optimize.BNrR8tc6.png",
+      "format": "png",
+      "bytes": 1924677,
+      "variants": [
+        "month-3-optimize.BNrR8tc6.png"
+      ]
+    },
+    "multi-agent-conflict-resolution": {
+      "source": "~/assets/images/multi-agent-conflict-resolution.png",
+      "url": "https://rajatpandit.com/_astro/multi-agent-conflict-resolution.BNV2CDSN_Z27Oh5I.webp",
+      "format": "webp",
+      "bytes": 170444,
+      "variants": [
+        "multi-agent-conflict-resolution.BNV2CDSN_Z27Oh5I.webp",
+        "multi-agent-conflict-resolution.BNV2CDSN.png",
+        "multi-agent-conflict-resolution.BNV2CDSN_1uMjFn.webp",
+        "multi-agent-conflict-resolution.BNV2CDSN_Z1Kqyw6.jpg",
+        "multi-agent-conflict-resolution.BNV2CDSN_Z1LHmid.webp",
+        "multi-agent-conflict-resolution.BNV2CDSN_Z26StiH.webp"
       ]
     },
     "multi-cloud-gpu-arbitrage": {
@@ -314,6 +1591,66 @@
         "multi-cloud-gpu-arbitrage-hero.D0A418xS_tQP7c.webp"
       ]
     },
+    "multi-instance-gpu-tech-works-1cc-d-2x": {
+      "source": "~/assets/images/multi-instance-gpu-tech-works-1cc-d-2x.png",
+      "url": "https://rajatpandit.com/_astro/multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_Z11N3Ne.webp",
+      "format": "webp",
+      "bytes": 83640,
+      "variants": [
+        "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_Z11N3Ne.webp",
+        "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm.png",
+        "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_Z1wOjuM.webp",
+        "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_Z2cfsoK.webp",
+        "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_Z2daKuY.jpg",
+        "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_Z2o94Uq.webp"
+      ]
+    },
+    "nccl_algorithms_diagram_1769394291698": {
+      "source": "~/assets/images/nccl_algorithms_diagram_1769394291698.png",
+      "url": "https://rajatpandit.com/_astro/nccl_algorithms_diagram_1769394291698.C9dveWHF_1mA0Fc.webp",
+      "format": "webp",
+      "bytes": 183194,
+      "variants": [
+        "nccl_algorithms_diagram_1769394291698.C9dveWHF_1mA0Fc.webp"
+      ]
+    },
+    "nccl_ring_failure_notebook_1769265047506": {
+      "source": "~/assets/images/nccl_ring_failure_notebook_1769265047506.png",
+      "url": "https://rajatpandit.com/_astro/nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_WG2L7.webp",
+      "format": "webp",
+      "bytes": 219438,
+      "variants": [
+        "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_WG2L7.webp",
+        "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q.png",
+        "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_1T7Jjd.jpg",
+        "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_28R4U6.webp",
+        "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_Z1PscmV.webp",
+        "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_nfAqP.webp"
+      ]
+    },
+    "network_jitter_lab_vs_factory_1769265008999": {
+      "source": "~/assets/images/network_jitter_lab_vs_factory_1769265008999.png",
+      "url": "https://rajatpandit.com/_astro/network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_2vI1jN.webp",
+      "format": "webp",
+      "bytes": 224286,
+      "variants": [
+        "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_2vI1jN.webp",
+        "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN.png",
+        "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_10nIis.jpg",
+        "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_15F0n7.webp",
+        "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_Z1r4bLz.webp",
+        "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_ZNVYpo.webp"
+      ]
+    },
+    "network_topology_blueprint_1769394319561": {
+      "source": "~/assets/images/network_topology_blueprint_1769394319561.png",
+      "url": "https://rajatpandit.com/_astro/network_topology_blueprint_1769394319561.2_bV1Yt__Z1cs00A.webp",
+      "format": "webp",
+      "bytes": 187678,
+      "variants": [
+        "network_topology_blueprint_1769394319561.2_bV1Yt__Z1cs00A.webp"
+      ]
+    },
     "nist-ai-rmf-in-practice": {
       "source": "~/assets/images/nist-ai-rmf-in-practice-hero.png",
       "url": "https://rajatpandit.com/_astro/nist-ai-rmf-in-practice-hero.z02VcoQt_19eG0y.webp",
@@ -328,6 +1665,141 @@
         "nist-ai-rmf-in-practice-hero.z02VcoQt_QXxHF.webp"
       ]
     },
+    "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x": {
+      "source": "~/assets/images/nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.png",
+      "url": "https://rajatpandit.com/_astro/nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_21h3gO.webp",
+      "format": "webp",
+      "bytes": 19748,
+      "variants": [
+        "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_21h3gO.webp",
+        "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy.jpg",
+        "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_1lDbuB.webp",
+        "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_Z22kYL8.jpg",
+        "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_ZYn0DC.webp",
+        "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_ZYoMbr.webp"
+      ]
+    },
+    "og-image": {
+      "source": "~/assets/images/og-image.png",
+      "url": "https://rajatpandit.com/_astro/og-image.CapVh-S8.png",
+      "format": "png",
+      "bytes": 95217,
+      "variants": [
+        "og-image.CapVh-S8.png",
+        "og-image.CapVh-S8_ZRHRvN.jpg"
+      ]
+    },
+    "optical-switch": {
+      "source": "~/assets/images/optical-switch.png",
+      "url": "https://rajatpandit.com/_astro/optical-switch.Bvwf8PZC_Zkrlmj.webp",
+      "format": "webp",
+      "bytes": 42372,
+      "variants": [
+        "optical-switch.Bvwf8PZC_Zkrlmj.webp"
+      ]
+    },
+    "optimisation": {
+      "source": "~/assets/images/optimisation.png",
+      "url": "https://rajatpandit.com/_astro/optimisation.DsNgyhu0_Z1UjXoh.webp",
+      "format": "webp",
+      "bytes": 257224,
+      "variants": [
+        "optimisation.DsNgyhu0_Z1UjXoh.webp",
+        "optimisation.DsNgyhu0.png",
+        "optimisation.DsNgyhu0_Z12dFOk.webp",
+        "optimisation.DsNgyhu0_Z2fuyMM.webp",
+        "optimisation.DsNgyhu0_eU2z8.webp",
+        "optimisation.DsNgyhu0_vHvsz.jpg"
+      ]
+    },
+    "optimizing-langgraph-cycles": {
+      "source": "~/assets/images/optimizing-langgraph-cycles.png",
+      "url": "https://rajatpandit.com/_astro/optimizing-langgraph-cycles.BD6ttRCC_HvbP7.webp",
+      "format": "webp",
+      "bytes": 229560,
+      "variants": [
+        "optimizing-langgraph-cycles.BD6ttRCC_HvbP7.webp",
+        "optimizing-langgraph-cycles.BD6ttRCC.png",
+        "optimizing-langgraph-cycles.BD6ttRCC_22N2sb.webp",
+        "optimizing-langgraph-cycles.BD6ttRCC_2dREE8.webp",
+        "optimizing-langgraph-cycles.BD6ttRCC_ZJBvEo.jpg",
+        "optimizing-langgraph-cycles.BD6ttRCC_ZmH7ay.webp"
+      ]
+    },
+    "pagedattention-vs-ringattention": {
+      "source": "~/assets/images/pagedattention-vs-ringattention.png",
+      "url": "https://rajatpandit.com/_astro/pagedattention-vs-ringattention.B9LzBWuG_Z2cLizE.webp",
+      "format": "webp",
+      "bytes": 186612,
+      "variants": [
+        "pagedattention-vs-ringattention.B9LzBWuG_Z2cLizE.webp",
+        "pagedattention-vs-ringattention.B9LzBWuG.png",
+        "pagedattention-vs-ringattention.B9LzBWuG_10exDG.webp",
+        "pagedattention-vs-ringattention.B9LzBWuG_F3qDc.webp",
+        "pagedattention-vs-ringattention.B9LzBWuG_Z1PnA12.jpg",
+        "pagedattention-vs-ringattention.B9LzBWuG_ZMrTbE.webp"
+      ]
+    },
+    "pillar-agentic-ai": {
+      "source": "~/assets/images/pillar-agentic-ai.png",
+      "url": "https://rajatpandit.com/_astro/pillar-agentic-ai.CLoXLpTI_2cAmLy.webp",
+      "format": "webp",
+      "bytes": 484726,
+      "variants": [
+        "pillar-agentic-ai.CLoXLpTI_2cAmLy.webp",
+        "pillar-agentic-ai.CLoXLpTI.png",
+        "pillar-agentic-ai.CLoXLpTI_12ByHJ.webp",
+        "pillar-agentic-ai.CLoXLpTI_2uIEj6.webp",
+        "pillar-agentic-ai.CLoXLpTI_Rjahb.webp",
+        "pillar-agentic-ai.CLoXLpTI_Z1JCHsB.webp",
+        "pillar-agentic-ai.CLoXLpTI_ZWTMys.webp"
+      ]
+    },
+    "pillar-ai-engineering": {
+      "source": "~/assets/images/pillar-ai-engineering.png",
+      "url": "https://rajatpandit.com/_astro/pillar-ai-engineering.DLz3raF7_ZuJeFm.webp",
+      "format": "webp",
+      "bytes": 501518,
+      "variants": [
+        "pillar-ai-engineering.DLz3raF7_ZuJeFm.webp",
+        "pillar-ai-engineering.DLz3raF7.png",
+        "pillar-ai-engineering.DLz3raF7_1YpSb9.webp",
+        "pillar-ai-engineering.DLz3raF7_1iHyGd.webp",
+        "pillar-ai-engineering.DLz3raF7_1rerX6.webp",
+        "pillar-ai-engineering.DLz3raF7_Z1S71nL.webp",
+        "pillar-ai-engineering.DLz3raF7_Z2k63Ie.webp"
+      ]
+    },
+    "pillar-ai-infrastructure": {
+      "source": "~/assets/images/pillar-ai-infrastructure.png",
+      "url": "https://rajatpandit.com/_astro/pillar-ai-infrastructure.BO1g7zoi_Z18QLh1.webp",
+      "format": "webp",
+      "bytes": 428552,
+      "variants": [
+        "pillar-ai-infrastructure.BO1g7zoi_Z18QLh1.webp",
+        "pillar-ai-infrastructure.BO1g7zoi.png",
+        "pillar-ai-infrastructure.BO1g7zoi_1ALqrI.webp",
+        "pillar-ai-infrastructure.BO1g7zoi_6umQH.webp",
+        "pillar-ai-infrastructure.BO1g7zoi_Z1E3Bnv.webp",
+        "pillar-ai-infrastructure.BO1g7zoi_Z1kmROO.webp",
+        "pillar-ai-infrastructure.BO1g7zoi_yFfm4.webp"
+      ]
+    },
+    "pillar-strategy": {
+      "source": "~/assets/images/pillar-strategy.png",
+      "url": "https://rajatpandit.com/_astro/pillar-strategy.Dd92ZIle_2036hM.webp",
+      "format": "webp",
+      "bytes": 417366,
+      "variants": [
+        "pillar-strategy.Dd92ZIle_2036hM.webp",
+        "pillar-strategy.Dd92ZIle.png",
+        "pillar-strategy.Dd92ZIle_2gX7Lv.webp",
+        "pillar-strategy.Dd92ZIle_PR0Gt.webp",
+        "pillar-strategy.Dd92ZIle_Z11xfhs.webp",
+        "pillar-strategy.Dd92ZIle_Z1n8OEC.webp",
+        "pillar-strategy.Dd92ZIle_o0n80.webp"
+      ]
+    },
     "portfolio-based-budgeting": {
       "source": "~/assets/images/portfolio-based-budgeting-hero.png",
       "url": "https://rajatpandit.com/_astro/portfolio-based-budgeting-hero.C2PgQnaQ_Z1fev8D.webp",
@@ -340,6 +1812,58 @@
         "portfolio-based-budgeting-hero.C2PgQnaQ_XXLbj.webp",
         "portfolio-based-budgeting-hero.C2PgQnaQ_Z1AtayW.jpg",
         "portfolio-based-budgeting-hero.C2PgQnaQ_jfRgy.webp"
+      ]
+    },
+    "predictive-auto-scaling-queue-depth": {
+      "source": "~/assets/images/predictive-auto-scaling-queue-depth.png",
+      "url": "https://rajatpandit.com/_astro/predictive-auto-scaling-queue-depth.i-pcxmGk_Z1JoGng.webp",
+      "format": "webp",
+      "bytes": 202444,
+      "variants": [
+        "predictive-auto-scaling-queue-depth.i-pcxmGk_Z1JoGng.webp",
+        "predictive-auto-scaling-queue-depth.i-pcxmGk.png",
+        "predictive-auto-scaling-queue-depth.i-pcxmGk_1qR4ue.webp",
+        "predictive-auto-scaling-queue-depth.i-pcxmGk_1x0Cv7.webp",
+        "predictive-auto-scaling-queue-depth.i-pcxmGk_26vyEh.webp",
+        "predictive-auto-scaling-queue-depth.i-pcxmGk_2gBMoq.jpg"
+      ]
+    },
+    "preface": {
+      "source": "~/assets/images/preface.png",
+      "url": "https://rajatpandit.com/_astro/preface.CAZ6TM1V_Zxc8yP.webp",
+      "format": "webp",
+      "bytes": 320744,
+      "variants": [
+        "preface.CAZ6TM1V_Zxc8yP.webp",
+        "preface.CGZgBjDr_P1gsb.webp"
+      ]
+    },
+    "prune_the_board": {
+      "source": "~/assets/images/prune_the_board.png",
+      "url": "https://rajatpandit.com/_astro/prune_the_board.DV-6yUrS_rN8To.webp",
+      "format": "webp",
+      "bytes": 346194,
+      "variants": [
+        "prune_the_board.DV-6yUrS_rN8To.webp",
+        "prune_the_board.DV-6yUrS.png",
+        "prune_the_board.DV-6yUrS_1WDn6j.webp",
+        "prune_the_board.DV-6yUrS_Z1k27aP.jpg",
+        "prune_the_board.DV-6yUrS_ZDLtuq.webp",
+        "prune_the_board.DV-6yUrS_ZTExi5.webp"
+      ]
+    },
+    "quant": {
+      "source": "~/assets/images/quant.png",
+      "url": "https://rajatpandit.com/_astro/quant.tIzh2WRX_ZwRP8u.webp",
+      "format": "webp",
+      "bytes": 128450,
+      "variants": [
+        "quant.tIzh2WRX_ZwRP8u.webp",
+        "quant.tIzh2WRX.jpg",
+        "quant.tIzh2WRX_2gXt3e.webp",
+        "quant.tIzh2WRX_Z1W2XvF.webp",
+        "quant.tIzh2WRX_Z1a8xvB.jpg",
+        "quant.tIzh2WRX_Z2j9PB2.webp"
       ]
     },
     "qwen3-tpu": {
@@ -370,6 +1894,43 @@
         "rack-scale-ai-hero.Opzneata_ZyTIj3.webp"
       ]
     },
+    "radix_attention_diagram": {
+      "source": "~/assets/images/radix_attention_diagram.png",
+      "url": "https://rajatpandit.com/_astro/radix_attention_diagram.CQwk3YXG_1fTHLx.webp",
+      "format": "webp",
+      "bytes": 159204,
+      "variants": [
+        "radix_attention_diagram.CQwk3YXG_1fTHLx.webp"
+      ]
+    },
+    "radix_attn_cinematic": {
+      "source": "~/assets/images/radix_attn_cinematic.png",
+      "url": "https://rajatpandit.com/_astro/radix_attn_cinematic.0Hk7HriN_ZIi0L8.webp",
+      "format": "webp",
+      "bytes": 435078,
+      "variants": [
+        "radix_attn_cinematic.0Hk7HriN_ZIi0L8.webp",
+        "radix_attn_cinematic.0Hk7HriN.png",
+        "radix_attn_cinematic.0Hk7HriN_2sn02s.webp",
+        "radix_attn_cinematic.0Hk7HriN_Z1EWIeW.jpg",
+        "radix_attn_cinematic.0Hk7HriN_Z1QLcx4.webp",
+        "radix_attn_cinematic.0Hk7HriN_ZtIzUY.webp"
+      ]
+    },
+    "real-time-audio-vad": {
+      "source": "~/assets/images/real-time-audio-vad.png",
+      "url": "https://rajatpandit.com/_astro/real-time-audio-vad.ngj8WKW8_Z1gDzey.webp",
+      "format": "webp",
+      "bytes": 261292,
+      "variants": [
+        "real-time-audio-vad.ngj8WKW8_Z1gDzey.webp",
+        "real-time-audio-vad.ngj8WKW8.png",
+        "real-time-audio-vad.ngj8WKW8_1Aw0Cj.webp",
+        "real-time-audio-vad.ngj8WKW8_Poi4E.jpg",
+        "real-time-audio-vad.ngj8WKW8_Z2wrMeL.webp",
+        "real-time-audio-vad.ngj8WKW8_ZMaKaG.webp"
+      ]
+    },
     "real-time-text-clustering-cache": {
       "source": "~/assets/images/real-time-text-clustering-cache-hero.png",
       "url": "https://rajatpandit.com/_astro/real-time-text-clustering-cache-hero.DmGALItA_1MLlT5.webp",
@@ -391,11 +1952,26 @@
       "bytes": 451600,
       "variants": [
         "real-time-video-vision-pipelines-hero.CXAl1q1s_Z1jKJo0.webp",
+        "real-time-video-vision-pipelines-explainer.Qljzla6I_Z2r89zY.webp",
         "real-time-video-vision-pipelines-hero.CXAl1q1s.png",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_443N1.webp",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_A7iNQ.webp",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_Z1CWrt6.webp",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_Z1uJtdb.jpg"
+      ]
+    },
+    "reliability_tax_scale_1769264919484": {
+      "source": "~/assets/images/reliability_tax_scale_1769264919484.png",
+      "url": "https://rajatpandit.com/_astro/reliability_tax_scale_1769264919484.CoUbY75l_1xp0Yb.webp",
+      "format": "webp",
+      "bytes": 225038,
+      "variants": [
+        "reliability_tax_scale_1769264919484.CoUbY75l_1xp0Yb.webp",
+        "reliability_tax_scale_1769264919484.CoUbY75l.png",
+        "reliability_tax_scale_1769264919484.CoUbY75l_Z9zw5y.webp",
+        "reliability_tax_scale_1769264919484.CoUbY75l_ZfI56r.webp",
+        "reliability_tax_scale_1769264919484.CoUbY75l_oUp3B.webp",
+        "reliability_tax_scale_1769264919484.CoUbY75l_telVV.jpg"
       ]
     },
     "roi-of-edge-ai": {
@@ -405,11 +1981,30 @@
       "bytes": 360818,
       "variants": [
         "roi-of-edge-ai-hero.BLLFh2Na_Z9VOUC.webp",
+        "roi-of-edge-ai-explainer.CUqr5BOV_1UPWDm.webp",
         "roi-of-edge-ai-hero.BLLFh2Na.png",
         "roi-of-edge-ai-hero.BLLFh2Na_APzW4.webp",
         "roi-of-edge-ai-hero.BLLFh2Na_Z20pgdE.jpg",
         "roi-of-edge-ai-hero.BLLFh2Na_ZAEbB3.webp",
         "roi-of-edge-ai-hero.BLLFh2Na_ZUeg4y.webp"
+      ]
+    },
+    "room": {
+      "source": "~/assets/images/room.png",
+      "url": "https://rajatpandit.com/_astro/room.CCA_UZYj.png",
+      "format": "png",
+      "bytes": 1184800,
+      "variants": [
+        "room.CCA_UZYj.png"
+      ]
+    },
+    "sc": {
+      "source": "~/assets/images/sc.png",
+      "url": "https://rajatpandit.com/_astro/sc.D3pxkvfR.png",
+      "format": "png",
+      "bytes": 167638,
+      "variants": [
+        "sc.D3pxkvfR.png"
       ]
     },
     "scaling-vector-db-text-clustering": {
@@ -424,6 +2019,15 @@
         "scaling-vector-db-text-clustering-hero.BUAKV6QL_1e3yqu.webp",
         "scaling-vector-db-text-clustering-hero.BUAKV6QL_ZMYSGh.webp",
         "scaling-vector-db-text-clustering-hero.BUAKV6QL_aF9pe.webp"
+      ]
+    },
+    "secret": {
+      "source": "~/assets/images/secret.png",
+      "url": "https://rajatpandit.com/_astro/secret.BbjegOQ0_1Ogoh6.webp",
+      "format": "webp",
+      "bytes": 64794,
+      "variants": [
+        "secret.BbjegOQ0_1Ogoh6.webp"
       ]
     },
     "semantic-caching-at-scale": {
@@ -447,11 +2051,63 @@
       "bytes": 428340,
       "variants": [
         "serverless-inference-cold-start-hero.ByHvqqne_dA0g3.webp",
+        "serverless-inference-cold-start-explainer.B4lL8ius_1rUeJz.webp",
         "serverless-inference-cold-start-hero.ByHvqqne.png",
         "serverless-inference-cold-start-hero.ByHvqqne_1bU8j1.webp",
         "serverless-inference-cold-start-hero.ByHvqqne_2tmVW2.jpg",
         "serverless-inference-cold-start-hero.ByHvqqne_7tTXa.webp",
         "serverless-inference-cold-start-hero.ByHvqqne_Z1pbFqv.webp"
+      ]
+    },
+    "silence": {
+      "source": "~/assets/images/silence.png",
+      "url": "https://rajatpandit.com/_astro/silence.Budx2pVf_1vNcUn.webp",
+      "format": "webp",
+      "bytes": 148588,
+      "variants": [
+        "silence.Budx2pVf_1vNcUn.webp",
+        "silence.Budx2pVf.png",
+        "silence.Budx2pVf_2sDupD.webp",
+        "silence.Budx2pVf_2tYAdX.webp",
+        "silence.Budx2pVf_Z1RnFv2.webp",
+        "silence.Budx2pVf_ZzMbee.jpg"
+      ]
+    },
+    "simulation-based-red-teaming": {
+      "source": "~/assets/images/simulation-based-red-teaming.png",
+      "url": "https://rajatpandit.com/_astro/simulation-based-red-teaming.HmaTfdkG_ZWHsbH.webp",
+      "format": "webp",
+      "bytes": 254792,
+      "variants": [
+        "simulation-based-red-teaming.HmaTfdkG_ZWHsbH.webp",
+        "simulation-based-red-teaming.HmaTfdkG.png",
+        "simulation-based-red-teaming.HmaTfdkG_1SqMGP.webp",
+        "simulation-based-red-teaming.HmaTfdkG_2nnUQ0.webp",
+        "simulation-based-red-teaming.HmaTfdkG_Z2oq7Il.webp",
+        "simulation-based-red-teaming.HmaTfdkG_uAGXm.jpg"
+      ]
+    },
+    "sparse_attention_silicon_biology_1769264937699": {
+      "source": "~/assets/images/sparse_attention_silicon_biology_1769264937699.png",
+      "url": "https://rajatpandit.com/_astro/sparse_attention_silicon_biology_1769264937699.DTYDwnT8_XBoVp.webp",
+      "format": "webp",
+      "bytes": 179126,
+      "variants": [
+        "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_XBoVp.webp",
+        "sparse_attention_silicon_biology_1769264937699.DTYDwnT8.png",
+        "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_10LbCF.jpg",
+        "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_1BIuGr.webp",
+        "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_Z2nfoMt.webp",
+        "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_ZLkU9B.webp"
+      ]
+    },
+    "sparsecore": {
+      "source": "~/assets/images/sparsecore.png",
+      "url": "https://rajatpandit.com/_astro/sparsecore.CSvwP01Q_MS6ft.webp",
+      "format": "webp",
+      "bytes": 31806,
+      "variants": [
+        "sparsecore.CSvwP01Q_MS6ft.webp"
       ]
     },
     "speculative-decoding-llm-inference": {
@@ -468,6 +2124,71 @@
         "speculative-decoding-llm-inference-hero.BL7sLMsY_Z24qqiS.webp"
       ]
     },
+    "speculative-decoding-mechanics": {
+      "source": "~/assets/images/speculative-decoding-mechanics.png",
+      "url": "https://rajatpandit.com/_astro/speculative-decoding-mechanics.BFzI6eRA_2cUhTS.webp",
+      "format": "webp",
+      "bytes": 207564,
+      "variants": [
+        "speculative-decoding-mechanics.BFzI6eRA_2cUhTS.webp",
+        "speculative-decoding-mechanics.BFzI6eRA.png",
+        "speculative-decoding-mechanics.BFzI6eRA_1QFCtz.jpg",
+        "speculative-decoding-mechanics.BFzI6eRA_1ke2o0.webp",
+        "speculative-decoding-mechanics.BFzI6eRA_ZRXJNl.webp",
+        "speculative-decoding-mechanics.BFzI6eRA_ZdfPSA.webp"
+      ]
+    },
+    "spot-market-arbitrage-noir": {
+      "source": "~/assets/images/spot-market-arbitrage-noir.png",
+      "url": "https://rajatpandit.com/_astro/spot-market-arbitrage-noir.D127VgOV_HH8R1.webp",
+      "format": "webp",
+      "bytes": 270292,
+      "variants": [
+        "spot-market-arbitrage-noir.D127VgOV_HH8R1.webp",
+        "spot-market-arbitrage-noir.D127VgOV.png",
+        "spot-market-arbitrage-noir.D127VgOV_1DBxFu.webp",
+        "spot-market-arbitrage-noir.D127VgOV_2gVJLR.jpg",
+        "spot-market-arbitrage-noir.D127VgOV_Z2mnyqy.webp",
+        "spot-market-arbitrage-noir.D127VgOV_nk7IT.webp"
+      ]
+    },
+    "stateful-agents-on-k8s": {
+      "source": "~/assets/images/stateful-agents-on-k8s.png",
+      "url": "https://rajatpandit.com/_astro/stateful-agents-on-k8s.Cg8fkCc-_14FeGm.webp",
+      "format": "webp",
+      "bytes": 119360,
+      "variants": [
+        "stateful-agents-on-k8s.Cg8fkCc-_14FeGm.webp",
+        "stateful-agents-on-k8s.Cg8fkCc-.png",
+        "stateful-agents-on-k8s.Cg8fkCc-_1QKy91.webp",
+        "stateful-agents-on-k8s.Cg8fkCc-_2t3U6F.webp",
+        "stateful-agents-on-k8s.Cg8fkCc-_PnIVB.jpg",
+        "stateful-agents-on-k8s.Cg8fkCc-_ZHFfEU.webp"
+      ]
+    },
+    "sutdio": {
+      "source": "~/assets/images/sutdio.png",
+      "url": "https://rajatpandit.com/_astro/sutdio.6RJc48Ku_1FFyFn.webp",
+      "format": "webp",
+      "bytes": 68102,
+      "variants": [
+        "sutdio.6RJc48Ku_1FFyFn.webp"
+      ]
+    },
+    "technical-debt-sandcastle": {
+      "source": "~/assets/images/technical-debt-sandcastle.png",
+      "url": "https://rajatpandit.com/_astro/technical-debt-sandcastle.Kjt1d9iP_28xvDt.webp",
+      "format": "webp",
+      "bytes": 205898,
+      "variants": [
+        "technical-debt-sandcastle.Kjt1d9iP_28xvDt.webp",
+        "technical-debt-sandcastle.Kjt1d9iP.png",
+        "technical-debt-sandcastle.Kjt1d9iP_21yBPO.webp",
+        "technical-debt-sandcastle.Kjt1d9iP_ZWrrB9.jpg",
+        "technical-debt-sandcastle.Kjt1d9iP_k7Q8C.webp",
+        "technical-debt-sandcastle.Kjt1d9iP_rYksq.webp"
+      ]
+    },
     "the-2026-enterprise-stack": {
       "source": "~/assets/images/the-2026-enterprise-stack-hero.png",
       "url": "https://rajatpandit.com/_astro/the-2026-enterprise-stack-hero.zHVtaPRa_Z1IgTET.webp",
@@ -475,6 +2196,7 @@
       "bytes": 440774,
       "variants": [
         "the-2026-enterprise-stack-hero.zHVtaPRa_Z1IgTET.webp",
+        "the-2026-enterprise-stack-explainer.D8df3VTR_1tL5Qb.webp",
         "the-2026-enterprise-stack-hero.zHVtaPRa.png",
         "the-2026-enterprise-stack-hero.zHVtaPRa_1xRrGj.jpg",
         "the-2026-enterprise-stack-hero.zHVtaPRa_Z1bPHLU.webp",
@@ -496,6 +2218,45 @@
         "the-a2a-protocol-hero.B8VNr20A_ZnPVt.webp"
       ]
     },
+    "the-blackboard-architecture": {
+      "source": "~/assets/images/the-blackboard-architecture.png",
+      "url": "https://rajatpandit.com/_astro/the-blackboard-architecture.C9oMJYAC_Z1tW7qz.webp",
+      "format": "webp",
+      "bytes": 204326,
+      "variants": [
+        "the-blackboard-architecture.C9oMJYAC_Z1tW7qz.webp",
+        "the-blackboard-architecture.C9oMJYAC.png",
+        "the-blackboard-architecture.C9oMJYAC_1Ns3vV.webp",
+        "the-blackboard-architecture.C9oMJYAC_1YwFHS.webp",
+        "the-blackboard-architecture.C9oMJYAC_287iRQ.jpg",
+        "the-blackboard-architecture.C9oMJYAC_ZB366N.webp"
+      ]
+    },
+    "the-context-window-roi": {
+      "source": "~/assets/images/the-context-window-roi.png",
+      "url": "https://rajatpandit.com/_astro/the-context-window-roi.DNeyDl3X_Z1OuV7L.webp",
+      "format": "webp",
+      "bytes": 342004,
+      "variants": [
+        "the-context-window-roi.DNeyDl3X_Z1OuV7L.webp",
+        "the-context-window-roi.DNeyDl3X.png",
+        "the-context-window-roi.DNeyDl3X_28I8Ls.webp",
+        "the-context-window-roi.DNeyDl3X_Z23MqRw.jpg",
+        "the-context-window-roi.DNeyDl3X_Zm2bdx.webp",
+        "the-context-window-roi.DNeyDl3X_fgaJ7.webp"
+      ]
+    },
+    "the-displacement-doctrine-cover": {
+      "source": "~/assets/images/the-displacement-doctrine-cover.png",
+      "url": "https://rajatpandit.com/_astro/the-displacement-doctrine-cover.Cl5gFAnI_Z13fOhP.webp",
+      "format": "webp",
+      "bytes": 212714,
+      "variants": [
+        "the-displacement-doctrine-cover.Cl5gFAnI_Z13fOhP.webp",
+        "the-displacement-doctrine-cover.Cl5gFAnI.png",
+        "the-displacement-doctrine-cover.Cl5gFAnI_ZDVfLh.jpg"
+      ]
+    },
     "the-end-of-prompting": {
       "source": "~/assets/images/the-end-of-prompting-hero.png",
       "url": "https://rajatpandit.com/_astro/the-end-of-prompting-hero.XdfbvAXq_1noEVz.webp",
@@ -503,6 +2264,7 @@
       "bytes": 236626,
       "variants": [
         "the-end-of-prompting-hero.XdfbvAXq_1noEVz.webp",
+        "the-end-of-prompting-explainer.Bilg4Xsf_FBsI6.webp",
         "the-end-of-prompting-hero.XdfbvAXq.png",
         "the-end-of-prompting-hero.XdfbvAXq_1zauq9.webp",
         "the-end-of-prompting-hero.XdfbvAXq_XXf3G.webp",
@@ -522,6 +2284,15 @@
         "the-end-of-tooling-hero.CRm6ldrF_Z2f4iJi.webp",
         "the-end-of-tooling-hero.CRm6ldrF_ZRb5Xa.webp",
         "the-end-of-tooling-hero.CRm6ldrF_nkfM3.jpg"
+      ]
+    },
+    "the-end-of-tooling-infographic": {
+      "source": "~/assets/images/the-end-of-tooling-infographic.png",
+      "url": "https://rajatpandit.com/_astro/the-end-of-tooling-infographic.CEF_Nn9g_1Ebxt4.webp",
+      "format": "webp",
+      "bytes": 137366,
+      "variants": [
+        "the-end-of-tooling-infographic.CEF_Nn9g_1Ebxt4.webp"
       ]
     },
     "the-kubernetes-for-ai-paradigm": {
@@ -552,6 +2323,34 @@
         "the-pl-mandate-hero.S0sANINO_ZKaSzD.webp"
       ]
     },
+    "the-shift-to-genui": {
+      "source": "~/assets/images/the-shift-to-genui.png",
+      "url": "https://rajatpandit.com/_astro/the-shift-to-genui.dxXUZFA2_ZMeCid.webp",
+      "format": "webp",
+      "bytes": 251252,
+      "variants": [
+        "the-shift-to-genui.dxXUZFA2_ZMeCid.webp",
+        "the-shift-to-genui.dxXUZFA2.png",
+        "the-shift-to-genui.dxXUZFA2_N7DVA.webp",
+        "the-shift-to-genui.dxXUZFA2_Z1f2Nbd.jpg",
+        "the-shift-to-genui.dxXUZFA2_Z2cfTDv.webp",
+        "the-shift-to-genui.dxXUZFA2_rFi1N.webp"
+      ]
+    },
+    "the-supervisor-vs-swarm": {
+      "source": "~/assets/images/the-supervisor-vs-swarm.png",
+      "url": "https://rajatpandit.com/_astro/the-supervisor-vs-swarm.DRy-6rkP_ZEVSjE.webp",
+      "format": "webp",
+      "bytes": 146082,
+      "variants": [
+        "the-supervisor-vs-swarm.DRy-6rkP_ZEVSjE.webp",
+        "the-supervisor-vs-swarm.DRy-6rkP.png",
+        "the-supervisor-vs-swarm.DRy-6rkP_Z1PN1X8.webp",
+        "the-supervisor-vs-swarm.DRy-6rkP_Z1QcorG.jpg",
+        "the-supervisor-vs-swarm.DRy-6rkP_Z1ur0Tq.webp",
+        "the-supervisor-vs-swarm.DRy-6rkP_Z7xN8i.webp"
+      ]
+    },
     "the-true-cost-of-agentic-workflows": {
       "source": "~/assets/images/the-true-cost-of-agentic-workflows-hero.png",
       "url": "https://rajatpandit.com/_astro/the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_1DXFxC.webp",
@@ -566,6 +2365,34 @@
         "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_ZlC0jn.webp"
       ]
     },
+    "timemoney": {
+      "source": "~/assets/images/timemoney.png",
+      "url": "https://rajatpandit.com/_astro/timemoney.9Jl48t46_ZHzqHx.webp",
+      "format": "webp",
+      "bytes": 104266,
+      "variants": [
+        "timemoney.9Jl48t46_ZHzqHx.webp",
+        "timemoney.9Jl48t46.png",
+        "timemoney.9Jl48t46_3SU7V.webp",
+        "timemoney.9Jl48t46_Z22Lsgu.jpg",
+        "timemoney.9Jl48t46_ZQQoRQ.webp",
+        "timemoney.9Jl48t46_ZVKfoz.webp"
+      ]
+    },
+    "tool-correctness": {
+      "source": "~/assets/images/tool-correctness.png",
+      "url": "https://rajatpandit.com/_astro/tool-correctness.DzoJuOHd_1Cf5rt.webp",
+      "format": "webp",
+      "bytes": 195538,
+      "variants": [
+        "tool-correctness.DzoJuOHd_1Cf5rt.webp",
+        "tool-correctness.DzoJuOHd.png",
+        "tool-correctness.DzoJuOHd_1SPqqg.webp",
+        "tool-correctness.DzoJuOHd_1YebC2.webp",
+        "tool-correctness.DzoJuOHd_2cXhFk.jpg",
+        "tool-correctness.DzoJuOHd_ZbLHxu.webp"
+      ]
+    },
     "tpu-sparsecore": {
       "source": "~/assets/images/tpu-sparsecore-hero.png",
       "url": "https://rajatpandit.com/_astro/tpu-sparsecore-hero.D_zBh6kY_Z1YxHw2.webp",
@@ -577,7 +2404,58 @@
         "tpu-sparsecore-hero.D_zBh6kY_1T7ox6.webp",
         "tpu-sparsecore-hero.D_zBh6kY_7u9Mb.jpg",
         "tpu-sparsecore-hero.D_zBh6kY_Z2dQojY.webp",
-        "tpu-sparsecore-hero.D_zBh6kY_ZtzmfT.webp"
+        "tpu-sparsecore-hero.D_zBh6kY_ZtzmfT.webp",
+        "tpu-sparsecore.D5guqtTP.png"
+      ]
+    },
+    "tpu-v4": {
+      "source": "~/assets/images/tpu-v4.png",
+      "url": "https://rajatpandit.com/_astro/tpu-v4.ByShgk22_Z88LEW.webp",
+      "format": "webp",
+      "bytes": 78430,
+      "variants": [
+        "tpu-v4.ByShgk22_Z88LEW.webp",
+        "tpu-v4.ByShgk22.png",
+        "tpu-v4.ByShgk22_1uTswM.webp",
+        "tpu-v4.ByShgk22_Xq1G5.webp",
+        "tpu-v4.ByShgk22_Z1d0Wt9.webp",
+        "tpu-v4.ByShgk22_ZBU9cz.jpg"
+      ]
+    },
+    "track-agents": {
+      "source": "~/assets/images/track-agents.png",
+      "url": "https://rajatpandit.com/_astro/track-agents.1G5q5rQg.png",
+      "format": "png",
+      "bytes": 1699208,
+      "variants": [
+        "track-agents.1G5q5rQg.png"
+      ]
+    },
+    "track-hands-on": {
+      "source": "~/assets/images/track-hands-on.png",
+      "url": "https://rajatpandit.com/_astro/track-hands-on.CgMujBy6.png",
+      "format": "png",
+      "bytes": 1750476,
+      "variants": [
+        "track-hands-on.CgMujBy6.png"
+      ]
+    },
+    "track-silicon": {
+      "source": "~/assets/images/track-silicon.png",
+      "url": "https://rajatpandit.com/_astro/track-silicon.CCQAkquV.png",
+      "format": "png",
+      "bytes": 1780424,
+      "variants": [
+        "track-silicon.CCQAkquV.png"
+      ]
+    },
+    "track-strategy": {
+      "source": "~/assets/images/track-strategy.png",
+      "url": "https://rajatpandit.com/_astro/track-strategy.DFjDcT6t.png",
+      "format": "png",
+      "bytes": 1815161,
+      "variants": [
+        "track-strategy.DFjDcT6t.png"
       ]
     },
     "ttft-vs-itl": {
@@ -606,6 +2484,113 @@
         "ultra-ethernet-bandwidth-wall-hero.BdfPX-4m_Z1uCXKJ.webp",
         "ultra-ethernet-bandwidth-wall-hero.BdfPX-4m_Z1wOBBC.webp",
         "ultra-ethernet-bandwidth-wall-hero.BdfPX-4m_Z7U2nU.jpg"
+      ]
+    },
+    "valuation-open-weights": {
+      "source": "~/assets/images/valuation-open-weights.png",
+      "url": "https://rajatpandit.com/_astro/valuation-open-weights.X4L3kpm1_Th6Vz.webp",
+      "format": "webp",
+      "bytes": 200806,
+      "variants": [
+        "valuation-open-weights.X4L3kpm1_Th6Vz.webp",
+        "valuation-open-weights.X4L3kpm1.png",
+        "valuation-open-weights.X4L3kpm1_1GpHrz.webp",
+        "valuation-open-weights.X4L3kpm1_2iI4pe.webp",
+        "valuation-open-weights.X4L3kpm1_EYBbO.jpg",
+        "valuation-open-weights.X4L3kpm1_ZS16mm.webp"
+      ]
+    },
+    "vision-transformer-vit-latency": {
+      "source": "~/assets/images/vision-transformer-vit-latency.png",
+      "url": "https://rajatpandit.com/_astro/vision-transformer-vit-latency.PwhlDBDQ_ZvGdwR.webp",
+      "format": "webp",
+      "bytes": 214078,
+      "variants": [
+        "vision-transformer-vit-latency.PwhlDBDQ_ZvGdwR.webp",
+        "vision-transformer-vit-latency.PwhlDBDQ.png",
+        "vision-transformer-vit-latency.PwhlDBDQ_2dSwAH.webp",
+        "vision-transformer-vit-latency.PwhlDBDQ_FJom.webp",
+        "vision-transformer-vit-latency.PwhlDBDQ_FoDj7.webp",
+        "vision-transformer-vit-latency.PwhlDBDQ_ZQURXb.jpg"
+      ]
+    },
+    "vonimage": {
+      "source": "~/assets/images/vonimage.png",
+      "url": "https://rajatpandit.com/_astro/vonimage.DKKl1sBO_29ysxj.webp",
+      "format": "webp",
+      "bytes": 107500,
+      "variants": [
+        "vonimage.DKKl1sBO_29ysxj.webp"
+      ]
+    },
+    "warp_stall_flame_graph_1769265105000": {
+      "source": "~/assets/images/warp_stall_flame_graph_1769265105000.png",
+      "url": "https://rajatpandit.com/_astro/warp_stall_flame_graph_1769265105000.DJ-wRgJ7_Z1elbCs.webp",
+      "format": "webp",
+      "bytes": 210598,
+      "variants": [
+        "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_Z1elbCs.webp",
+        "warp_stall_flame_graph_1769265105000.DJ-wRgJ7.png",
+        "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_2e4rfR.jpg",
+        "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_Z2termc.webp",
+        "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_Zdr3d4.webp",
+        "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_unAlQ.webp"
+      ]
+    },
+    "why-enterprises-need-caio": {
+      "source": "~/assets/images/why-enterprises-need-caio.png",
+      "url": "https://rajatpandit.com/_astro/why-enterprises-need-caio.C6h1d4Zi_Z1L30Mt.webp",
+      "format": "webp",
+      "bytes": 219532,
+      "variants": [
+        "why-enterprises-need-caio.C6h1d4Zi_Z1L30Mt.webp",
+        "why-enterprises-need-caio.C6h1d4Zi.png",
+        "why-enterprises-need-caio.C6h1d4Zi_5MNpm.webp",
+        "why-enterprises-need-caio.C6h1d4Zi_Z1ACWhP.webp",
+        "why-enterprises-need-caio.C6h1d4Zi_Z1sLsX2.webp",
+        "why-enterprises-need-caio.C6h1d4Zi_d99KP.jpg"
+      ]
+    },
+    "wide-image": {
+      "source": "~/assets/images/wide-image.png",
+      "url": "https://rajatpandit.com/_astro/wide-image.DGwgFWXS_Z2erFk0.webp",
+      "format": "webp",
+      "bytes": 205632,
+      "variants": [
+        "wide-image.DGwgFWXS_Z2erFk0.webp",
+        "wide-image.DGwgFWXS.png",
+        "wide-image.DGwgFWXS_Z1gvvte.webp",
+        "wide-image.DGwgFWXS_Z257Sub.webp",
+        "wide-image.DGwgFWXS_Z4WASr.webp",
+        "wide-image.DGwgFWXS_ZYhFRT.webp"
+      ]
+    },
+    "writing-pallas-kernels-for-jax": {
+      "source": "~/assets/images/writing-pallas-kernels-for-jax.png",
+      "url": "https://rajatpandit.com/_astro/writing-pallas-kernels-for-jax.DWFxF-ox_gVy0H.webp",
+      "format": "webp",
+      "bytes": 221222,
+      "variants": [
+        "writing-pallas-kernels-for-jax.DWFxF-ox_gVy0H.webp",
+        "writing-pallas-kernels-for-jax.DWFxF-ox.png",
+        "writing-pallas-kernels-for-jax.DWFxF-ox_16puaL.webp",
+        "writing-pallas-kernels-for-jax.DWFxF-ox_Z16Mi1z.webp",
+        "writing-pallas-kernels-for-jax.DWFxF-ox_Z4i6pB.jpg",
+        "writing-pallas-kernels-for-jax.DWFxF-ox_Zr4o6O.webp"
+      ]
+    },
+    "xai_stack_cinematic": {
+      "source": "~/assets/images/xai_stack_cinematic.png",
+      "url": "https://rajatpandit.com/_astro/xai_stack_cinematic.zoElLh0j_Z1zK2rI.webp",
+      "format": "webp",
+      "bytes": 200042,
+      "variants": [
+        "xai_stack_cinematic.zoElLh0j_Z1zK2rI.webp",
+        "xai_stack_cinematic.zoElLh0j.png",
+        "xai_stack_cinematic.zoElLh0j_1y5oQC.webp",
+        "xai_stack_cinematic.zoElLh0j_AR3TL.webp",
+        "xai_stack_cinematic.zoElLh0j_Z1LOGSe.webp",
+        "xai_stack_cinematic.zoElLh0j_whOQu.jpg"
       ]
     }
   }
