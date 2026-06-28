@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T01:08:30.929Z",
+  "generatedAt": "2026-06-28T07:57:16.797Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
     "1": {
@@ -214,6 +214,21 @@
         "agency-saas.BPYPeouj_Z26bJ4r.webp"
       ]
     },
+    "agent-correctness-production": {
+      "source": "~/assets/images/agent-correctness-production-hero.png",
+      "url": "https://rajatpandit.com/_astro/agent-correctness-production-hero.EecU4Y3t_Z1MyX5X.webp",
+      "format": "webp",
+      "bytes": 151276,
+      "variants": [
+        "agent-correctness-production-hero.EecU4Y3t_Z1MyX5X.webp",
+        "agent-correctness-production-explainer.Dn-O2LcJ.png",
+        "agent-correctness-production-hero.EecU4Y3t.png",
+        "agent-correctness-production-hero.EecU4Y3t_1HXqM.webp",
+        "agent-correctness-production-hero.EecU4Y3t_1YRyLK.webp",
+        "agent-correctness-production-hero.EecU4Y3t_1eeEBI.jpg",
+        "agent-correctness-production-hero.EecU4Y3t_jESrD.webp"
+      ]
+    },
     "agent-correctness-tool-use": {
       "source": "~/assets/images/agent-correctness-tool-use-hero.png",
       "url": "https://rajatpandit.com/_astro/agent-correctness-tool-use-hero.CULqAD-K_Z29Ki54.webp",
@@ -312,6 +327,21 @@
         "agentic-sdlc-orchestrator.1IKjVCVx_Z2jCC14.webp"
       ]
     },
+    "ai-capital-wall": {
+      "source": "~/assets/images/ai-capital-wall-hero.png",
+      "url": "https://rajatpandit.com/_astro/ai-capital-wall-hero.Dgc-cNPh_ij1WF.webp",
+      "format": "webp",
+      "bytes": 223644,
+      "variants": [
+        "ai-capital-wall-hero.Dgc-cNPh_ij1WF.webp",
+        "ai-capital-wall-explainer.DWCyVkTO.png",
+        "ai-capital-wall-hero.Dgc-cNPh.png",
+        "ai-capital-wall-hero.Dgc-cNPh_KCdnx.jpg",
+        "ai-capital-wall-hero.Dgc-cNPh_Z13onOv.webp",
+        "ai-capital-wall-hero.Dgc-cNPh_Z1X9JoG.webp",
+        "ai-capital-wall-hero.Dgc-cNPh_Z9jnmt.webp"
+      ]
+    },
     "ai-compute-scaling": {
       "source": "~/assets/images/ai-compute-scaling-hero.png",
       "url": "https://rajatpandit.com/_astro/ai-compute-scaling-hero.Ds-FtHGe_2wcaG7.webp",
@@ -333,6 +363,7 @@
       "bytes": 195744,
       "variants": [
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_ZhQkJD.webp",
+        "ai-governance-autonomous-systems-explainer.v7NNcic6.png",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-.png",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_24axAa.webp",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_Z2tXlcV.webp",
@@ -524,7 +555,7 @@
       "bytes": 195226,
       "variants": [
         "architecting-ai-gateway-hero.MBsCZgrE_Z1aaA6b.webp",
-        "architecting-ai-gateway-explainer.DwuYSX4X_1jvUdg.webp",
+        "architecting-ai-gateway-explainer.DwuYSX4X.png",
         "architecting-ai-gateway-hero.MBsCZgrE.png",
         "architecting-ai-gateway-hero.MBsCZgrE_Z1EnnmH.jpg",
         "architecting-ai-gateway-hero.MBsCZgrE_Z1QEgzl.webp",
@@ -847,6 +878,21 @@
         "cloud-storage-io-bottlenecks.Bb3LvZgZ_Z20o5ca.jpg"
       ]
     },
+    "cloudflare-crawl-budget": {
+      "source": "~/assets/images/cloudflare-crawl-budget-hero.png",
+      "url": "https://rajatpandit.com/_astro/cloudflare-crawl-budget-hero.ClzqiXe__12rpA6.webp",
+      "format": "webp",
+      "bytes": 233442,
+      "variants": [
+        "cloudflare-crawl-budget-hero.ClzqiXe__12rpA6.webp",
+        "cloudflare-crawl-budget-explainer.CTaV17VH.png",
+        "cloudflare-crawl-budget-hero.ClzqiXe_.png",
+        "cloudflare-crawl-budget-hero.ClzqiXe__2uKzKa.jpg",
+        "cloudflare-crawl-budget-hero.ClzqiXe__9iRcS.webp",
+        "cloudflare-crawl-budget-hero.ClzqiXe__Dg0m3.webp",
+        "cloudflare-crawl-budget-hero.ClzqiXe__VD5AD.webp"
+      ]
+    },
     "compiling-tensorrt-engines-calibration-trap": {
       "source": "~/assets/images/compiling-tensorrt-engines-calibration-trap.png",
       "url": "https://rajatpandit.com/_astro/compiling-tensorrt-engines-calibration-trap.DESeNGQB_Zj9sUw.webp",
@@ -903,6 +949,21 @@
         "continuous-batching-in-vllm.CxxmducY_Z1py52n.webp"
       ]
     },
+    "contrarian-takes-infrastructure": {
+      "source": "~/assets/images/contrarian-takes-infrastructure-hero.png",
+      "url": "https://rajatpandit.com/_astro/contrarian-takes-infrastructure-hero.Ce58JXBs_Z1k7teU.webp",
+      "format": "webp",
+      "bytes": 161406,
+      "variants": [
+        "contrarian-takes-infrastructure-hero.Ce58JXBs_Z1k7teU.webp",
+        "contrarian-takes-infrastructure-explainer.Dk0ntV31.png",
+        "contrarian-takes-infrastructure-hero.Ce58JXBs.png",
+        "contrarian-takes-infrastructure-hero.Ce58JXBs_1DeXq1.webp",
+        "contrarian-takes-infrastructure-hero.Ce58JXBs_28i9Dp.jpg",
+        "contrarian-takes-infrastructure-hero.Ce58JXBs_UpjQ6.webp",
+        "contrarian-takes-infrastructure-hero.Ce58JXBs_Z1kn4i2.webp"
+      ]
+    },
     "cover": {
       "source": "~/assets/images/cover.png",
       "url": "https://rajatpandit.com/_astro/cover.v_3BAss6.png",
@@ -911,6 +972,21 @@
       "variants": [
         "cover.v_3BAss6.png",
         "cover.v_3BAss6_ZTJoYF.jpg"
+      ]
+    },
+    "cuda-monopoly-breaks-scale-amd": {
+      "source": "~/assets/images/cuda-monopoly-breaks-scale-amd-hero.png",
+      "url": "https://rajatpandit.com/_astro/cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_ZeXtcj.webp",
+      "format": "webp",
+      "bytes": 167616,
+      "variants": [
+        "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_ZeXtcj.webp",
+        "cuda-monopoly-breaks-scale-amd-explainer.BIEnDKeq_56IaH.webp",
+        "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np.png",
+        "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_Z128IjS.webp",
+        "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_Z18hhkL.webp",
+        "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_Z1j98ey.jpg",
+        "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_ZsCMaI.webp"
       ]
     },
     "data-gravity-cloud-agnostic": {
@@ -925,6 +1001,15 @@
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_22cL6W.webp",
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_ZWSdWa.webp",
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_hcdAy.webp"
+      ]
+    },
+    "data-gravity-cloud-agnostic-llms": {
+      "source": "~/assets/images/data-gravity-cloud-agnostic-llms.png",
+      "url": "https://rajatpandit.com/_astro/data-gravity-cloud-agnostic-llms-explainer.aaFTmBfi.png",
+      "format": "png",
+      "bytes": 738497,
+      "variants": [
+        "data-gravity-cloud-agnostic-llms-explainer.aaFTmBfi.png"
       ]
     },
     "debugging-audio-buffer-overruns": {
@@ -962,6 +1047,21 @@
       "bytes": 405450,
       "variants": [
         "default.CZ816Hke.png"
+      ]
+    },
+    "democratization-of-quant-finance": {
+      "source": "~/assets/images/democratization-of-quant-finance-hero.png",
+      "url": "https://rajatpandit.com/_astro/democratization-of-quant-finance-hero.DcVPtS2D_Z1ASYYI.webp",
+      "format": "webp",
+      "bytes": 277548,
+      "variants": [
+        "democratization-of-quant-finance-hero.DcVPtS2D_Z1ASYYI.webp",
+        "democratization-of-quant-finance-explainer.Dw3izT_I_Z1OEXVz.webp",
+        "democratization-of-quant-finance-hero.DcVPtS2D.png",
+        "democratization-of-quant-finance-hero.DcVPtS2D_2nGIe.jpg",
+        "democratization-of-quant-finance-hero.DcVPtS2D_NkVc8.webp",
+        "democratization-of-quant-finance-hero.DcVPtS2D_Z2ukeBx.webp",
+        "democratization-of-quant-finance-hero.DcVPtS2D_Znb1F2.webp"
       ]
     },
     "deploying-multi-lora-adapters-vllm": {
@@ -1019,7 +1119,6 @@
       "variants": [
         "flashattention-vs-ringattention-hero.C_7gZzk1_Z1vEizk.webp",
         "flashattention-vs-ringattention-hero.C_7gZzk1.png",
-        "flashattention-vs-ringattention-hero.C_7gZzk1_1RN3a.webp",
         "flashattention-vs-ringattention-hero.C_7gZzk1_DsS4E.webp",
         "flashattention-vs-ringattention-hero.C_7gZzk1_J7D6E.jpg",
         "flashattention-vs-ringattention-hero.C_7gZzk1_Z1WCUER.webp",
@@ -1144,6 +1243,7 @@
       "bytes": 233532,
       "variants": [
         "governance-human-in-the-loop-fallacy.BBTGzBgz_20269N.webp",
+        "governance-human-in-the-loop-fallacy-explainer.WdwiW09F.png",
         "governance-human-in-the-loop-fallacy.BBTGzBgz.png",
         "governance-human-in-the-loop-fallacy.BBTGzBgz_Z2wRr4x.webp",
         "governance-human-in-the-loop-fallacy.BBTGzBgz_Zh52Up.webp",
@@ -1158,7 +1258,7 @@
       "bytes": 430884,
       "variants": [
         "handling-context-window-limits-hero.C3fJxWgq_Z1Osrtn.webp",
-        "handling-context-window-limits-explainer.BFCQjMcV_1DAd5s.webp",
+        "handling-context-window-limits-explainer.BFCQjMcV.png",
         "handling-context-window-limits-hero.C3fJxWgq.png",
         "handling-context-window-limits-hero.C3fJxWgq_1RSIDK.webp",
         "handling-context-window-limits-hero.C3fJxWgq_Z1VXDC6.jpg",
@@ -1177,7 +1277,6 @@
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh_1GeXpW.webp",
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh_1abIp7.webp",
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh_25WhIg.jpg",
-        "hardware-acceleration-vector-dbs-hero.D9oAYuxh_2iBjAP.webp",
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh_ZwOLR0.webp"
       ]
     },
@@ -1228,6 +1327,36 @@
         "image.DEPooxcH_Z1bELrP.webp"
       ]
     },
+    "inference-cost-architecture": {
+      "source": "~/assets/images/inference-cost-architecture-hero.png",
+      "url": "https://rajatpandit.com/_astro/inference-cost-architecture-hero.rbZd7I8c_1nDKVp.webp",
+      "format": "webp",
+      "bytes": 171832,
+      "variants": [
+        "inference-cost-architecture-hero.rbZd7I8c_1nDKVp.webp",
+        "inference-cost-architecture-explainer.BzPTpYCk.png",
+        "inference-cost-architecture-hero.rbZd7I8c.png",
+        "inference-cost-architecture-hero.rbZd7I8c_OsD9k.webp",
+        "inference-cost-architecture-hero.rbZd7I8c_Z1urxBF.jpg",
+        "inference-cost-architecture-hero.rbZd7I8c_Zofc9Y.webp",
+        "inference-cost-architecture-hero.rbZd7I8c_ZsafId.webp"
+      ]
+    },
+    "inference-cost-wall": {
+      "source": "~/assets/images/inference-cost-wall-hero.png",
+      "url": "https://rajatpandit.com/_astro/inference-cost-wall-hero.cjXNUMj9_ZkmNa.webp",
+      "format": "webp",
+      "bytes": 272852,
+      "variants": [
+        "inference-cost-wall-hero.cjXNUMj9_ZkmNa.webp",
+        "inference-cost-wall-explainer.Cwcm7RKe.png",
+        "inference-cost-wall-hero.cjXNUMj9.png",
+        "inference-cost-wall-hero.cjXNUMj9_27swKj.webp",
+        "inference-cost-wall-hero.cjXNUMj9_9aYiz.webp",
+        "inference-cost-wall-hero.cjXNUMj9_Z8ncQe.jpg",
+        "inference-cost-wall-hero.cjXNUMj9_uu8si.webp"
+      ]
+    },
     "inference-lever-victorian": {
       "source": "~/assets/images/inference-lever-victorian.png",
       "url": "https://rajatpandit.com/_astro/inference-lever-victorian.Cp1ntWJX_ZWcAbi.webp",
@@ -1249,6 +1378,21 @@
       "bytes": 31388,
       "variants": [
         "internal.CXzH3i4y_ZDVRpf.webp"
+      ]
+    },
+    "investment-thesis-ai": {
+      "source": "~/assets/images/investment-thesis-ai-hero.png",
+      "url": "https://rajatpandit.com/_astro/investment-thesis-ai-hero.eqqmk3wl_1OxPGq.webp",
+      "format": "webp",
+      "bytes": 222302,
+      "variants": [
+        "investment-thesis-ai-hero.eqqmk3wl_1OxPGq.webp",
+        "investment-thesis-ai-explainer.BHv4TWdM.png",
+        "investment-thesis-ai-hero.eqqmk3wl.png",
+        "investment-thesis-ai-hero.eqqmk3wl_1Mz0fl.webp",
+        "investment-thesis-ai-hero.eqqmk3wl_1Uqtz9.webp",
+        "investment-thesis-ai-hero.eqqmk3wl_Z1AbmQo.webp",
+        "investment-thesis-ai-hero.eqqmk3wl_Z1gr7yc.jpg"
       ]
     },
     "jax_xla_idle_timeline_1769265102000": {
@@ -1327,8 +1471,7 @@
         "langgraph-state-management-checkpoints-hero.e79s88vq_2wfi8r.webp",
         "langgraph-state-management-checkpoints-hero.e79s88vq_MObhL.webp",
         "langgraph-state-management-checkpoints-hero.e79s88vq_R5kKp.webp",
-        "langgraph-state-management-checkpoints-hero.e79s88vq_Z7PipE.jpg",
-        "langgraph-state-management-checkpoints-hero.e79s88vq_ZP8SYT.webp"
+        "langgraph-state-management-checkpoints-hero.e79s88vq_Z7PipE.jpg"
       ]
     },
     "library": {
@@ -1356,7 +1499,6 @@
         "litert-lm-deep-dive-hero.CYrf8GeX_1p8fTi.jpg",
         "litert-lm-deep-dive-hero.CYrf8GeX_1sdb5b.webp",
         "litert-lm-deep-dive-hero.CYrf8GeX_1vxOfO.webp",
-        "litert-lm-deep-dive-hero.CYrf8GeX_Z1wYgph.webp",
         "litert-lm-deep-dive-hero.CYrf8GeX_Z1x3E9u.webp"
       ]
     },
@@ -1423,6 +1565,21 @@
         "local-70b-hardware-etching.B2wDCuDr_Z1gcH2F.webp",
         "local-70b-hardware-etching.B2wDCuDr_Z2wu7Yg.webp",
         "local-70b-hardware-etching.B2wDCuDr_Zc0FkM.webp"
+      ]
+    },
+    "mcp-eating-ai-tooling-stack": {
+      "source": "~/assets/images/mcp-eating-ai-tooling-stack-hero.png",
+      "url": "https://rajatpandit.com/_astro/mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_1TcWvA.webp",
+      "format": "webp",
+      "bytes": 217164,
+      "variants": [
+        "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_1TcWvA.webp",
+        "mcp-eating-ai-tooling-stack-explainer.DqI_Q-2r_1NwpzU.webp",
+        "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ.png",
+        "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_1uvj1a.webp",
+        "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_ZXSm2u.jpg",
+        "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_cRp8C.webp",
+        "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_gMsGQ.webp"
       ]
     },
     "mcp_telegraph_exchange_1769265030156": {
@@ -1665,6 +1822,16 @@
         "nist-ai-rmf-in-practice-hero.z02VcoQt_QXxHF.webp"
       ]
     },
+    "nvidia-open-source-gpu-kernel-pivot": {
+      "source": "~/assets/images/nvidia-open-source-gpu-kernel-pivot-hero.png",
+      "url": "https://rajatpandit.com/_astro/nvidia-open-source-gpu-kernel-pivot-hero.D6SjzBqG.png",
+      "format": "png",
+      "bytes": 1933060,
+      "variants": [
+        "nvidia-open-source-gpu-kernel-pivot-hero.D6SjzBqG.png",
+        "nvidia-open-source-gpu-kernel-pivot-explainer.CVoU78pp.png"
+      ]
+    },
     "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x": {
       "source": "~/assets/images/nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.png",
       "url": "https://rajatpandit.com/_astro/nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_21h3gO.webp",
@@ -1687,6 +1854,21 @@
       "variants": [
         "og-image.CapVh-S8.png",
         "og-image.CapVh-S8_ZRHRvN.jpg"
+      ]
+    },
+    "open-source-ai-tipping-point-2026": {
+      "source": "~/assets/images/open-source-ai-tipping-point-2026-hero.png",
+      "url": "https://rajatpandit.com/_astro/open-source-ai-tipping-point-2026-hero.DX2q6zf7_19MGNv.webp",
+      "format": "webp",
+      "bytes": 280950,
+      "variants": [
+        "open-source-ai-tipping-point-2026-hero.DX2q6zf7_19MGNv.webp",
+        "open-source-ai-tipping-point-2026-explainer.BtnNBU7V_Z45AzG.webp",
+        "open-source-ai-tipping-point-2026-hero.DX2q6zf7.png",
+        "open-source-ai-tipping-point-2026-hero.DX2q6zf7_2geVg3.jpg",
+        "open-source-ai-tipping-point-2026-hero.DX2q6zf7_56rA3.webp",
+        "open-source-ai-tipping-point-2026-hero.DX2q6zf7_Z1pTfe3.webp",
+        "open-source-ai-tipping-point-2026-hero.DX2q6zf7_Z8I7Sm.webp"
       ]
     },
     "optical-switch": {
@@ -1738,6 +1920,21 @@
         "pagedattention-vs-ringattention.B9LzBWuG_F3qDc.webp",
         "pagedattention-vs-ringattention.B9LzBWuG_Z1PnA12.jpg",
         "pagedattention-vs-ringattention.B9LzBWuG_ZMrTbE.webp"
+      ]
+    },
+    "pandl-deep-dive": {
+      "source": "~/assets/images/pandl-deep-dive-hero.png",
+      "url": "https://rajatpandit.com/_astro/pandl-deep-dive-hero.CTg6pFEL_Z2sikGH.webp",
+      "format": "webp",
+      "bytes": 359948,
+      "variants": [
+        "pandl-deep-dive-hero.CTg6pFEL_Z2sikGH.webp",
+        "pandl-deep-dive-explainer.DApiIQEi.png",
+        "pandl-deep-dive-hero.CTg6pFEL.png",
+        "pandl-deep-dive-hero.CTg6pFEL_Z1YY9gP.jpg",
+        "pandl-deep-dive-hero.CTg6pFEL_Z1yzlEP.webp",
+        "pandl-deep-dive-hero.CTg6pFEL_ZDO05E.webp",
+        "pandl-deep-dive-hero.CTg6pFEL_fg0mn.webp"
       ]
     },
     "pillar-agentic-ai": {
@@ -1952,7 +2149,7 @@
       "bytes": 451600,
       "variants": [
         "real-time-video-vision-pipelines-hero.CXAl1q1s_Z1jKJo0.webp",
-        "real-time-video-vision-pipelines-explainer.Qljzla6I_Z2r89zY.webp",
+        "real-time-video-vision-pipelines-explainer.Qljzla6I.png",
         "real-time-video-vision-pipelines-hero.CXAl1q1s.png",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_443N1.webp",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_A7iNQ.webp",
@@ -1981,7 +2178,7 @@
       "bytes": 360818,
       "variants": [
         "roi-of-edge-ai-hero.BLLFh2Na_Z9VOUC.webp",
-        "roi-of-edge-ai-explainer.CUqr5BOV_1UPWDm.webp",
+        "roi-of-edge-ai-explainer.CUqr5BOV.png",
         "roi-of-edge-ai-hero.BLLFh2Na.png",
         "roi-of-edge-ai-hero.BLLFh2Na_APzW4.webp",
         "roi-of-edge-ai-hero.BLLFh2Na_Z20pgdE.jpg",
@@ -2051,7 +2248,7 @@
       "bytes": 428340,
       "variants": [
         "serverless-inference-cold-start-hero.ByHvqqne_dA0g3.webp",
-        "serverless-inference-cold-start-explainer.B4lL8ius_1rUeJz.webp",
+        "serverless-inference-cold-start-explainer.B4lL8ius.png",
         "serverless-inference-cold-start-hero.ByHvqqne.png",
         "serverless-inference-cold-start-hero.ByHvqqne_1bU8j1.webp",
         "serverless-inference-cold-start-hero.ByHvqqne_2tmVW2.jpg",
@@ -2117,6 +2314,7 @@
       "bytes": 294378,
       "variants": [
         "speculative-decoding-llm-inference-hero.BL7sLMsY_25RIfp.webp",
+        "speculative-decoding-llm-inference-explainer.C4JM7pp8.png",
         "speculative-decoding-llm-inference-hero.BL7sLMsY.png",
         "speculative-decoding-llm-inference-hero.BL7sLMsY_1Mk1uu.webp",
         "speculative-decoding-llm-inference-hero.BL7sLMsY_Z13P3wL.webp",
@@ -2264,7 +2462,7 @@
       "bytes": 236626,
       "variants": [
         "the-end-of-prompting-hero.XdfbvAXq_1noEVz.webp",
-        "the-end-of-prompting-explainer.Bilg4Xsf_FBsI6.webp",
+        "the-end-of-prompting-explainer.Bilg4Xsf.png",
         "the-end-of-prompting-hero.XdfbvAXq.png",
         "the-end-of-prompting-hero.XdfbvAXq_1zauq9.webp",
         "the-end-of-prompting-hero.XdfbvAXq_XXf3G.webp",
@@ -2311,16 +2509,17 @@
     },
     "the-pl-mandate": {
       "source": "~/assets/images/the-pl-mandate-hero.png",
-      "url": "https://rajatpandit.com/_astro/the-pl-mandate-hero.S0sANINO_ZfHPU2.webp",
+      "url": "https://rajatpandit.com/_astro/the-pl-mandate-hero.BxsfXn4H_ISs0z.webp",
       "format": "webp",
-      "bytes": 240712,
+      "bytes": 243662,
       "variants": [
-        "the-pl-mandate-hero.S0sANINO_ZfHPU2.webp",
-        "the-pl-mandate-hero.S0sANINO.png",
-        "the-pl-mandate-hero.S0sANINO_1CvRdm.webp",
-        "the-pl-mandate-hero.S0sANINO_1Qk1ob.jpg",
-        "the-pl-mandate-hero.S0sANINO_Z2urUDI.webp",
-        "the-pl-mandate-hero.S0sANINO_ZKaSzD.webp"
+        "the-pl-mandate-hero.BxsfXn4H_ISs0z.webp",
+        "the-pl-mandate-explainer.C5guzZYd.png",
+        "the-pl-mandate-hero.BxsfXn4H.png",
+        "the-pl-mandate-hero.BxsfXn4H_TPhJg.webp",
+        "the-pl-mandate-hero.BxsfXn4H_Z1LE5gF.webp",
+        "the-pl-mandate-hero.BxsfXn4H_Z2efNu9.jpg",
+        "the-pl-mandate-hero.BxsfXn4H_ZOqJjO.webp"
       ]
     },
     "the-shift-to-genui": {

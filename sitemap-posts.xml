@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://rajatpandit.com/ai-engineering/open-source-ai-tipping-point-2026</loc>
+    <lastmod>2026-07-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/governance-human-in-the-loop-fallacy</loc>
+    <lastmod>2026-07-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/agentic-ai/mcp-eating-ai-tooling-stack</loc>
+    <lastmod>2026-07-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-infrastructure/cuda-monopoly-breaks-scale-amd</loc>
+    <lastmod>2026-06-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/democratization-of-quant-finance</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://rajatpandit.com/agentic-ai/agent-correctness-tool-use-hallucination</loc>
     <lastmod>2026-06-12</lastmod>
     <priority>0.8</priority>
@@ -51,6 +76,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://rajatpandit.com/ai-infrastructure/inference-cost-architecture</loc>
+    <lastmod>2026-05-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/cloudflare-crawl-budget</loc>
+    <lastmod>2026-05-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-engineering/agent-correctness-production</loc>
+    <lastmod>2026-05-26</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-infrastructure/contrarian-takes-infrastructure</loc>
+    <lastmod>2026-05-25</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/pandl-deep-dive</loc>
+    <lastmod>2026-05-24</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-infrastructure/ai-capital-wall</loc>
+    <lastmod>2026-05-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://rajatpandit.com/ai-engineering/real-time-video-vision-pipelines</loc>
     <lastmod>2026-05-22</lastmod>
     <priority>0.8</priority>
@@ -58,6 +113,16 @@
   <url>
     <loc>https://rajatpandit.com/agentic-ai/handling-context-window-limits</loc>
     <lastmod>2026-05-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-infrastructure/inference-cost-wall</loc>
+    <lastmod>2026-05-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/investment-thesis-ai</loc>
+    <lastmod>2026-05-20</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -348,11 +413,6 @@
   <url>
     <loc>https://rajatpandit.com/ai-engineering/vision-transformer-vit-latency</loc>
     <lastmod>2026-03-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rajatpandit.com/strategy/governance-human-in-the-loop-fallacy</loc>
-    <lastmod>2026-03-02</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
