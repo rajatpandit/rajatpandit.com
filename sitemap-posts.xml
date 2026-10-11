@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://rajatpandit.com/agentic-ai/agent-memory-layers-persistent-memory-vs-re-retrieval</loc>
+    <lastmod>2026-10-09</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/open-weights-frontier-apis-self-hosting-decision-matrix</loc>
+    <lastmod>2026-10-08</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-infrastructure/open-gpu-kernel-modules-platform-teams</loc>
+    <lastmod>2026-10-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-engineering/agent-reliability-patterns-retries-idempotency-observability</loc>
+    <lastmod>2026-10-06</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/mcp-server-security-tool-poisoning-access-control</loc>
+    <lastmod>2026-10-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/ai-engineering/local-first-mcp-air-gapped-tool-calling-llama-cpp</loc>
+    <lastmod>2026-10-02</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/agentic-coding-security-governing-ai-written-code</loc>
+    <lastmod>2026-10-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rajatpandit.com/strategy/open-weights-reshaped-the-model-moat</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://rajatpandit.com/strategy/agent-billing-crisis-cloud-cost-model</loc>
     <lastmod>2026-07-19</lastmod>
     <priority>0.8</priority>
@@ -426,11 +466,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rajatpandit.com/ai-infrastructure/agent-trajectory-evaluation-synthetic-adversaries</loc>
-    <lastmod>2026-03-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://rajatpandit.com/strategy/valuation-open-weights-intelligence-supply-chain</loc>
     <lastmod>2026-03-10</lastmod>
     <priority>0.8</priority>
@@ -643,11 +678,6 @@
   <url>
     <loc>https://rajatpandit.com/ai-infrastructure/getting-most-out-of-your-gpus</loc>
     <lastmod>2025-12-20</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rajatpandit.com/ai-infrastructure-leadership-caio/advice-for-boardmembers-thinking-about-hiring-caio</loc>
-    <lastmod>2025-12-17</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
