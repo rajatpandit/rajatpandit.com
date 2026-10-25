@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:10:43.705Z",
+  "generatedAt": "2026-10-25T12:17:26.006Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
     "1": {
@@ -499,6 +499,21 @@
         "all-reduce-physics-etching.BDolLGif_1SpCRT.webp",
         "all-reduce-physics-etching.BDolLGif_OdBb1.webp",
         "all-reduce-physics-etching.BDolLGif_Zr3NKz.webp"
+      ]
+    },
+    "apac-inference-placement-data-residency-latency-cost": {
+      "source": "~/assets/images/apac-inference-placement-data-residency-latency-cost-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_11wQWT.webp",
+      "format": "webp",
+      "bytes": 91704,
+      "variants": [
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_11wQWT.webp",
+        "apac-inference-placement-data-residency-latency-cost-explainer.PnP1iXZG_Z1vH8pA.webp",
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ.jpeg",
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_23Qkse.webp",
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_YkyiC.jpg",
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z18i44W.webp",
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z27Wz1S.webp"
       ]
     },
     "app-store": {
@@ -1489,6 +1504,36 @@
         "image.DEPooxcH_ZbBHMa.webp"
       ]
     },
+    "india-dpdp-act-llm-agent-pipelines-consent-erasure": {
+      "source": "~/assets/images/india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_Z21lloU.webp",
+      "format": "webp",
+      "bytes": 208454,
+      "variants": [
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_Z21lloU.webp",
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-explainer.EG2ETR61_Z2ooXOo.webp",
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g.jpeg",
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_1vfkea.webp",
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_2iyWwC.jpg",
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_2rjYdy.webp",
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_sjW7H.webp"
+      ]
+    },
+    "indic-language-tokenization-cost-quality-per-language": {
+      "source": "~/assets/images/indic-language-tokenization-cost-quality-per-language-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_23Q17C.webp",
+      "format": "webp",
+      "bytes": 165008,
+      "variants": [
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_23Q17C.webp",
+        "indic-language-tokenization-cost-quality-per-language-explainer.CwddCDcT_Z1Reyiw.webp",
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1.jpeg",
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_1AVsAp.webp",
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_1MvOge.jpg",
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_Z295CkB.webp",
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_ZCciqt.webp"
+      ]
+    },
     "inference-cost-architecture": {
       "source": "~/assets/images/inference-cost-architecture-hero.jpeg",
       "url": "https://rajatpandit.com/_astro/inference-cost-architecture-hero.rbZd7I8c_ZXYbNp.webp",
@@ -2292,6 +2337,21 @@
       "variants": [
         "preface.CAZ6TM1V_Z1QfuoJ.webp",
         "preface.CGZgBjDr_Zt25mI.webp"
+      ]
+    },
+    "prompt-injection-defense-tool-using-agents-layered-controls": {
+      "source": "~/assets/images/prompt-injection-defense-tool-using-agents-layered-controls-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_1k1wpy.webp",
+      "format": "webp",
+      "bytes": 97472,
+      "variants": [
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_1k1wpy.webp",
+        "prompt-injection-defense-tool-using-agents-layered-controls-explainer.BbCTYqvi_ZNEnfu.webp",
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715.jpeg",
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_1LE2DO.webp",
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_2ejcm.webp",
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_Z2pqdpm.webp",
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_e4y2Y.jpg"
       ]
     },
     "prune_the_board": {
