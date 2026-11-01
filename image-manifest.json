@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:24:53.115Z",
+  "generatedAt": "2026-11-01T16:45:36.263Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
     "1": {
@@ -49,37 +49,28 @@
     },
     "1516240524929": {
       "source": "~/assets/images/1516240524929.jpeg",
-      "url": "https://rajatpandit.com/_astro/1516240524929.BaIpiQW-_18LYAC.webp",
+      "url": "https://rajatpandit.com/_astro/1516240524929.BaIpiQW-_1dpz53.webp",
       "format": "webp",
-      "bytes": 1288,
+      "bytes": 700,
       "variants": [
-        "1516240524929.BaIpiQW-_18LYAC.webp",
-        "1516240524929.BaIpiQW-.jpeg",
-        "1516240524929.BaIpiQW-_1dpz53.webp",
-        "1516240524929.BaIpiQW-_ZRBM9n.webp"
+        "1516240524929.BaIpiQW-_1dpz53.webp"
       ]
     },
     "1708027511258": {
       "source": "~/assets/images/1708027511258.jpeg",
-      "url": "https://rajatpandit.com/_astro/1708027511258.COJGdmTZ_1zmoYD.webp",
+      "url": "https://rajatpandit.com/_astro/1708027511258.COJGdmTZ_1DYYt4.webp",
       "format": "webp",
-      "bytes": 1258,
+      "bytes": 680,
       "variants": [
-        "1708027511258.COJGdmTZ_1zmoYD.webp",
-        "1708027511258.COJGdmTZ.jpeg",
-        "1708027511258.COJGdmTZ_1DYYt4.webp",
-        "1708027511258.COJGdmTZ_Zr2mKm.webp"
+        "1708027511258.COJGdmTZ_1DYYt4.webp"
       ]
     },
     "1722207353866": {
       "source": "~/assets/images/1722207353866.jpeg",
-      "url": "https://rajatpandit.com/_astro/1722207353866.BKUXyzlY_9cNN7.webp",
+      "url": "https://rajatpandit.com/_astro/1722207353866.BKUXyzlY_dPohx.webp",
       "format": "webp",
-      "bytes": 1684,
+      "bytes": 936,
       "variants": [
-        "1722207353866.BKUXyzlY_9cNN7.webp",
-        "1722207353866.BKUXyzlY.jpeg",
-        "1722207353866.BKUXyzlY_Z1RbWVS.webp",
         "1722207353866.BKUXyzlY_dPohx.webp"
       ]
     },
@@ -1504,12 +1495,9 @@
       "bytes": 276942,
       "variants": [
         "image.DEPooxcH_bvV2J.webp",
-        "image.DEPooxcH.png",
         "image.DEPooxcH_1HQJv0.webp",
         "image.DEPooxcH_WkN7j.webp",
-        "image.DEPooxcH_Z1ywQGz.webp",
-        "image.DEPooxcH_Z2tVPTV.webp",
-        "image.DEPooxcH_ZbBHMa.webp"
+        "image.DEPooxcH_Z2tVPTV.webp"
       ]
     },
     "india-dpdp-act-llm-agent-pipelines-consent-erasure": {
