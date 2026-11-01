@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:17:26.006Z",
+  "generatedAt": "2026-11-01T16:24:53.115Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
     "1": {
@@ -55,6 +55,7 @@
       "variants": [
         "1516240524929.BaIpiQW-_18LYAC.webp",
         "1516240524929.BaIpiQW-.jpeg",
+        "1516240524929.BaIpiQW-_1dpz53.webp",
         "1516240524929.BaIpiQW-_ZRBM9n.webp"
       ]
     },
@@ -66,6 +67,7 @@
       "variants": [
         "1708027511258.COJGdmTZ_1zmoYD.webp",
         "1708027511258.COJGdmTZ.jpeg",
+        "1708027511258.COJGdmTZ_1DYYt4.webp",
         "1708027511258.COJGdmTZ_Zr2mKm.webp"
       ]
     },
@@ -77,7 +79,8 @@
       "variants": [
         "1722207353866.BKUXyzlY_9cNN7.webp",
         "1722207353866.BKUXyzlY.jpeg",
-        "1722207353866.BKUXyzlY_Z1RbWVS.webp"
+        "1722207353866.BKUXyzlY_Z1RbWVS.webp",
+        "1722207353866.BKUXyzlY_dPohx.webp"
       ]
     },
     "1serverless-inference-cold-start": {
@@ -513,7 +516,9 @@
         "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_23Qkse.webp",
         "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_YkyiC.jpg",
         "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z18i44W.webp",
-        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z27Wz1S.webp"
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z27Wz1S.webp",
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z2qWgVx.webp",
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_ZH8WIS.webp"
       ]
     },
     "app-store": {
@@ -1275,7 +1280,9 @@
       "format": "webp",
       "bytes": 153030,
       "variants": [
-        "engineered-evolution-cover.R-MichYB_1QwyRC.webp"
+        "engineered-evolution-cover.R-MichYB_1QwyRC.webp",
+        "engineered-evolution-cover.R-MichYB_1R2Xgy.webp",
+        "engineered-evolution-cover.R-MichYB_e1n4L.webp"
       ]
     },
     "final_cover_variation_02": {
@@ -1492,14 +1499,15 @@
     },
     "image": {
       "source": "~/assets/images/image.jpeg",
-      "url": "https://rajatpandit.com/_astro/image.DEPooxcH_Z1ywQGz.webp",
+      "url": "https://rajatpandit.com/_astro/image.DEPooxcH_bvV2J.webp",
       "format": "webp",
-      "bytes": 133160,
+      "bytes": 276942,
       "variants": [
-        "image.DEPooxcH_Z1ywQGz.webp",
+        "image.DEPooxcH_bvV2J.webp",
         "image.DEPooxcH.png",
         "image.DEPooxcH_1HQJv0.webp",
         "image.DEPooxcH_WkN7j.webp",
+        "image.DEPooxcH_Z1ywQGz.webp",
         "image.DEPooxcH_Z2tVPTV.webp",
         "image.DEPooxcH_ZbBHMa.webp"
       ]
@@ -1513,9 +1521,11 @@
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_Z21lloU.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-explainer.EG2ETR61_Z2ooXOo.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g.jpeg",
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_18J9Gn.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_1vfkea.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_2iyWwC.jpg",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_2rjYdy.webp",
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_Ozsz9.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_sjW7H.webp"
       ]
     },
@@ -1528,9 +1538,12 @@
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_23Q17C.webp",
         "indic-language-tokenization-cost-quality-per-language-explainer.CwddCDcT_Z1Reyiw.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1.jpeg",
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_14SOfW.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_1AVsAp.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_1MvOge.jpg",
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_Z10iEQs.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_Z295CkB.webp",
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_Z2kBmgM.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_ZCciqt.webp"
       ]
     },
@@ -2249,9 +2262,11 @@
       "variants": [
         "pillar-agentic-ai.CLoXLpTI_Z1HRQtf.webp",
         "pillar-agentic-ai.CLoXLpTI.png",
+        "pillar-agentic-ai.CLoXLpTI_Z1E2j2m.webp",
         "pillar-agentic-ai.CLoXLpTI_Z1UhRug.webp",
         "pillar-agentic-ai.CLoXLpTI_Z1dlJKi.webp",
         "pillar-agentic-ai.CLoXLpTI_Z204EEr.webp",
+        "pillar-agentic-ai.CLoXLpTI_ZHflRo.webp",
         "pillar-agentic-ai.CLoXLpTI_ZhRnsl.webp",
         "pillar-agentic-ai.CLoXLpTI_ZxT3pq.webp"
       ]
@@ -2267,7 +2282,9 @@
         "pillar-ai-engineering.DLz3raF7_1UWDGF.webp",
         "pillar-ai-engineering.DLz3raF7_YJI6X.webp",
         "pillar-ai-engineering.DLz3raF7_Z1VzfRf.webp",
+        "pillar-ai-engineering.DLz3raF7_Z1gRRU3.webp",
         "pillar-ai-engineering.DLz3raF7_Z2o99tj.webp",
+        "pillar-ai-engineering.DLz3raF7_Zea2l9.webp",
         "pillar-ai-engineering.DLz3raF7_Zj6T0D.webp"
       ]
     },
@@ -2280,9 +2297,11 @@
         "pillar-ai-infrastructure.BO1g7zoi_1XUsTd.webp",
         "pillar-ai-infrastructure.BO1g7zoi.png",
         "pillar-ai-infrastructure.BO1g7zoi_1Vpxz2.webp",
+        "pillar-ai-infrastructure.BO1g7zoi_1mYp81.webp",
         "pillar-ai-infrastructure.BO1g7zoi_IyjKu.webp",
         "pillar-ai-infrastructure.BO1g7zoi_PoYDp.webp",
         "pillar-ai-infrastructure.BO1g7zoi_Z26Fp9f.webp",
+        "pillar-ai-infrastructure.BO1g7zoi_ng5oX.webp",
         "pillar-ai-infrastructure.BO1g7zoi_vIg5I.webp"
       ]
     },
@@ -2296,7 +2315,9 @@
         "pillar-strategy.Dd92ZIle.png",
         "pillar-strategy.Dd92ZIle_1XtFMJ.webp",
         "pillar-strategy.Dd92ZIle_Tvg4p.webp",
+        "pillar-strategy.Dd92ZIle_Z1qfjPv.webp",
         "pillar-strategy.Dd92ZIle_ZMxVtE.webp",
+        "pillar-strategy.Dd92ZIle_ZOEjtP.webp",
         "pillar-strategy.Dd92ZIle_ZRGBE6.webp",
         "pillar-strategy.Dd92ZIle_ZXrtz6.webp"
       ]
@@ -2351,6 +2372,8 @@
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_1LE2DO.webp",
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_2ejcm.webp",
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_Z2pqdpm.webp",
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_Z2vxrN.webp",
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_b7rGA.webp",
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_e4y2Y.jpg"
       ]
     },
@@ -2785,7 +2808,9 @@
       "variants": [
         "the-displacement-doctrine-cover.Cl5gFAnI_1Yc0r2.webp",
         "the-displacement-doctrine-cover.Cl5gFAnI.png",
-        "the-displacement-doctrine-cover.Cl5gFAnI_ZxWk2x.jpg"
+        "the-displacement-doctrine-cover.Cl5gFAnI_Z1qLl97.webp",
+        "the-displacement-doctrine-cover.Cl5gFAnI_ZxWk2x.jpg",
+        "the-displacement-doctrine-cover.Cl5gFAnI_ZyADTH.webp"
       ]
     },
     "the-end-of-prompting": {
