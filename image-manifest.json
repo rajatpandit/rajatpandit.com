@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:45:36.263Z",
+  "generatedAt": "2026-11-15T16:48:59.093Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
     "1": {
@@ -226,6 +226,21 @@
         "agency-saas.BPYPeouj_GuhLV.jpg"
       ]
     },
+    "agent-audit-trails-what-to-log-retain-redact": {
+      "source": "~/assets/images/agent-audit-trails-what-to-log-retain-redact-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_Z1AOdGK.webp",
+      "format": "webp",
+      "bytes": 169226,
+      "variants": [
+        "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_Z1AOdGK.webp",
+        "agent-audit-trails-what-to-log-retain-redact-explainer.D3Z8bNde_Z1Hg6K8.webp",
+        "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ.jpeg",
+        "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_2qrA9D.webp",
+        "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_Z26Cinf.jpg",
+        "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_Z28zFQM.webp",
+        "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_ZLvevX.webp"
+      ]
+    },
     "agent-billing-crisis-cloud-cost-model": {
       "source": "~/assets/images/agent-billing-crisis-cloud-cost-model-hero.jpeg",
       "url": "https://rajatpandit.com/_astro/agent-billing-crisis-cloud-cost-model-hero.Cjgjsfo1_Z1mykQa.webp",
@@ -284,6 +299,21 @@
         "agent-finops-hero.RvR8CIIu_Z24qIzB.webp"
       ]
     },
+    "agent-identity-least-privilege-short-lived-tokens": {
+      "source": "~/assets/images/agent-identity-least-privilege-short-lived-tokens-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z2r7yRJ.webp",
+      "format": "webp",
+      "bytes": 226636,
+      "variants": [
+        "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z2r7yRJ.webp",
+        "agent-identity-least-privilege-short-lived-tokens-explainer.DMP001_I_qrGLq.webp",
+        "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP.jpeg",
+        "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z1Q6IPB.webp",
+        "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z1WFTdA.webp",
+        "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z1sxlr0.jpg",
+        "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z2fOKF2.webp"
+      ]
+    },
     "agent-memory-layers-persistent-memory-vs-re-retrieval": {
       "source": "~/assets/images/agent-memory-layers-persistent-memory-vs-re-retrieval-hero.jpeg",
       "url": "https://rajatpandit.com/_astro/agent-memory-layers-persistent-memory-vs-re-retrieval-hero.BKC8NZM4_Z1FWgyH.webp",
@@ -312,6 +342,38 @@
         "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ_Z1n4APi.webp",
         "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ_Z2gbtA3.webp",
         "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ_Z8CtcK.jpg"
+      ]
+    },
+    "agent-skills-vs-mcp-servers-instructions-or-service": {
+      "source": "~/assets/images/agent-skills-vs-mcp-servers-instructions-or-service-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z1Ya6BB.webp",
+      "format": "webp",
+      "bytes": 247196,
+      "variants": [
+        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z1Ya6BB.webp",
+        "agent-skills-vs-mcp-servers-instructions-or-service-explainer.G8gK_ArM_HLMH2.webp",
+        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl.jpeg",
+        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_1sPxjL.webp",
+        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_271eIT.jpg",
+        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z1Sbe9.webp",
+        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z1pFzVf.webp",
+        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z2910HK.webp",
+        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z2vnSFN.webp"
+      ]
+    },
+    "agent-slos-error-budgets-reliable-agentic-systems": {
+      "source": "~/assets/images/agent-slos-error-budgets-reliable-agentic-systems-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_ZmeUPk.webp",
+      "format": "webp",
+      "bytes": 204936,
+      "variants": [
+        "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_ZmeUPk.webp",
+        "agent-slos-error-budgets-reliable-agentic-systems-explainer.BnVxRROV_19tAWA.webp",
+        "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI.jpeg",
+        "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_BkhAp.jpg",
+        "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_Z14yh7q.webp",
+        "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_Z1mH8yR.webp",
+        "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_ZWY6Jr.webp"
       ]
     },
     "agent-supervisor-clockwork": {
@@ -507,9 +569,7 @@
         "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_23Qkse.webp",
         "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_YkyiC.jpg",
         "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z18i44W.webp",
-        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z27Wz1S.webp",
-        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z2qWgVx.webp",
-        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_ZH8WIS.webp"
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z27Wz1S.webp"
       ]
     },
     "app-store": {
@@ -1109,6 +1169,21 @@
         "contrarian-takes-infrastructure-hero.Ce58JXBs_ZCuAqL.webp"
       ]
     },
+    "cost-per-resolved-task-pricing-agentic-workflows-outcomes": {
+      "source": "~/assets/images/cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_1wPBNL.webp",
+      "format": "webp",
+      "bytes": 124742,
+      "variants": [
+        "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_1wPBNL.webp",
+        "cost-per-resolved-task-pricing-agentic-workflows-outcomes-explainer.B8OhkLs__Z1kbj2u.webp",
+        "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F.jpeg",
+        "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_1HEhrk.webp",
+        "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_1ybdDt.jpg",
+        "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_Z2dklHu.webp",
+        "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_ZSpmpf.webp"
+      ]
+    },
     "cover": {
       "source": "~/assets/images/cover.jpeg",
       "url": "https://rajatpandit.com/_astro/cover.v_3BAss6.png",
@@ -1274,6 +1349,21 @@
         "engineered-evolution-cover.R-MichYB_1QwyRC.webp",
         "engineered-evolution-cover.R-MichYB_1R2Xgy.webp",
         "engineered-evolution-cover.R-MichYB_e1n4L.webp"
+      ]
+    },
+    "eval-gates-ci-agent-releases-regression-suites": {
+      "source": "~/assets/images/eval-gates-ci-agent-releases-regression-suites-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_Z13Sl5l.webp",
+      "format": "webp",
+      "bytes": 193676,
+      "variants": [
+        "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_Z13Sl5l.webp",
+        "eval-gates-ci-agent-releases-regression-suites-explainer.CTtyZkfQ_12qYIR.webp",
+        "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso.jpeg",
+        "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_24eEd6.webp",
+        "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_Z1NmVmp.webp",
+        "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_Z24b6eG.jpg",
+        "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_Z2fH8ar.webp"
       ]
     },
     "final_cover_variation_02": {
@@ -1509,11 +1599,9 @@
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_Z21lloU.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-explainer.EG2ETR61_Z2ooXOo.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g.jpeg",
-        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_18J9Gn.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_1vfkea.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_2iyWwC.jpg",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_2rjYdy.webp",
-        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_Ozsz9.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_sjW7H.webp"
       ]
     },
@@ -1526,12 +1614,9 @@
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_23Q17C.webp",
         "indic-language-tokenization-cost-quality-per-language-explainer.CwddCDcT_Z1Reyiw.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1.jpeg",
-        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_14SOfW.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_1AVsAp.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_1MvOge.jpg",
-        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_Z10iEQs.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_Z295CkB.webp",
-        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_Z2kBmgM.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_ZCciqt.webp"
       ]
     },
@@ -1805,6 +1890,23 @@
         "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_Zxe03T.webp"
       ]
     },
+    "mcp-neutral-foundation-governance-enterprise-adopters": {
+      "source": "~/assets/images/mcp-neutral-foundation-governance-enterprise-adopters-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_ZWqdu7.webp",
+      "format": "webp",
+      "bytes": 177690,
+      "variants": [
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_ZWqdu7.webp",
+        "mcp-neutral-foundation-governance-enterprise-adopters-explainer.Cn65zDYm_Z29hUFM.webp",
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3.jpeg",
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_1G79kL.webp",
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_258y7H.webp",
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_D2mFA.jpg",
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_Z1RbEz2.webp",
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_Z1eCPhW.webp",
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_vCacL.webp"
+      ]
+    },
     "mcp-server-security-tool-poisoning-access-control": {
       "source": "~/assets/images/mcp-server-security-tool-poisoning-access-control-hero.jpeg",
       "url": "https://rajatpandit.com/_astro/mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_1veWFH.webp",
@@ -1818,6 +1920,21 @@
         "mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_Z18YRI7.webp",
         "mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_Z1Dbn0o.webp",
         "mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_Z1KTz41.jpg"
+      ]
+    },
+    "mcp-tool-schema-versioning-contract-testing-agents": {
+      "source": "~/assets/images/mcp-tool-schema-versioning-contract-testing-agents-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_ZW4B1U.webp",
+      "format": "webp",
+      "bytes": 124330,
+      "variants": [
+        "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_ZW4B1U.webp",
+        "mcp-tool-schema-versioning-contract-testing-agents-explainer.CaHRPSWE_9g6Jv.webp",
+        "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU.jpeg",
+        "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_2dyWUE.webp",
+        "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_PmvhR.webp",
+        "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_Z18CvMY.webp",
+        "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_ZbUF3f.jpg"
       ]
     },
     "mcp_telegraph_exchange_1769265030156": {
@@ -1915,6 +2032,39 @@
         "model-distillation-hero.CWNn9Gg5_Z2om7qJ.jpg",
         "model-distillation-hero.CWNn9Gg5_ZQgAcn.webp",
         "model-distillation-hero.CWNn9Gg5_ZuTz8F.webp"
+      ]
+    },
+    "model-portability-exit-plans-provider-model-swap": {
+      "source": "~/assets/images/model-portability-exit-plans-provider-model-swap-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_104M13.webp",
+      "format": "webp",
+      "bytes": 299856,
+      "variants": [
+        "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_104M13.webp",
+        "model-portability-exit-plans-provider-model-swap-explainer.xIOxgx3V_1f6VYp.webp",
+        "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz.jpeg",
+        "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_2olcKI.webp",
+        "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_Z1EbH1H.webp",
+        "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_Z1a0cJq.webp",
+        "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_Z2h4JIF.jpg"
+      ]
+    },
+    "model-routing-cascades-cheap-model-first-escalate": {
+      "source": "~/assets/images/model-routing-cascades-cheap-model-first-escalate-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_1DO43Q.webp",
+      "format": "webp",
+      "bytes": 111942,
+      "variants": [
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_1DO43Q.webp",
+        "model-routing-cascades-cheap-model-first-escalate-explainer.MVFrt0p4_Z1UJtW7.webp",
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI.jpeg",
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z10pp27.webp",
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z1cjUMK.jpg",
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z20AcNY.webp",
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z27anbX.webp",
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z2aT9eu.webp",
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z2jYH7h.webp",
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z2pjeDp.webp"
       ]
     },
     "moe-routing-collapse": {
@@ -2348,6 +2498,23 @@
         "preface.CGZgBjDr_Zt25mI.webp"
       ]
     },
+    "prompt-caching-economics-prefix-reuse-cost": {
+      "source": "~/assets/images/prompt-caching-economics-prefix-reuse-cost-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_MuCKm.webp",
+      "format": "webp",
+      "bytes": 164852,
+      "variants": [
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_MuCKm.webp",
+        "prompt-caching-economics-prefix-reuse-cost-explainer.CO25fXjj_eBtQx.webp",
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u.jpeg",
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_1dekoT.webp",
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_2ve2vK.webp",
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_Z1PFhCK.jpg",
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_Z1l129u.webp",
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_ZnItIa.webp",
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_xUvkP.webp"
+      ]
+    },
     "prompt-injection-defense-tool-using-agents-layered-controls": {
       "source": "~/assets/images/prompt-injection-defense-tool-using-agents-layered-controls-hero.jpeg",
       "url": "https://rajatpandit.com/_astro/prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_1k1wpy.webp",
@@ -2360,8 +2527,6 @@
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_1LE2DO.webp",
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_2ejcm.webp",
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_Z2pqdpm.webp",
-        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_Z2vxrN.webp",
-        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_b7rGA.webp",
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_e4y2Y.jpg"
       ]
     },
@@ -2523,6 +2688,21 @@
       "bytes": 1184800,
       "variants": [
         "room.CCA_UZYj.png"
+      ]
+    },
+    "sandboxing-agent-code-execution-containers-gvisor-firecracker": {
+      "source": "~/assets/images/sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_kM2fB.webp",
+      "format": "webp",
+      "bytes": 221132,
+      "variants": [
+        "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_kM2fB.webp",
+        "sandboxing-agent-code-execution-containers-gvisor-firecracker-explainer.BgaLSgkl_Z1JzTHV.webp",
+        "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq.jpeg",
+        "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_9a40A.webp",
+        "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_Z1b9kju.webp",
+        "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_Zv9CfN.webp",
+        "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_vhq86.jpg"
       ]
     },
     "sc": {
