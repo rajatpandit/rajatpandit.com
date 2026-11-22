@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:26:31.154Z",
+  "generatedAt": "2026-11-22T17:28:08.134Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
     "1": {
@@ -203,6 +203,24 @@
         "a_photorealistic_image_of_a_serv.Cr45AA8g_ZXkNnw.jpg"
       ]
     },
+    "ag-ui-protocol-streaming-agent-state-frontends": {
+      "source": "~/assets/images/ag-ui-protocol-streaming-agent-state-frontends-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl_1JYgH3.webp",
+      "format": "webp",
+      "bytes": 216834,
+      "variants": [
+        "ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl_1JYgH3.webp",
+        "ag-ui-protocol-streaming-agent-state-frontends-explainer.CqORbBLY_6LDHb.webp",
+        "ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl.jpeg",
+        "ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl_1O3Ejs.jpg",
+        "ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl_1rW7Pz.webp",
+        "ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl_2lSRNg.webp",
+        "ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl_Z1AgFCv.webp",
+        "ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl_Z1X2Tzh.webp",
+        "ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl_Z1vHHLf.webp",
+        "ag-ui-protocol-streaming-agent-state-frontends-hero.BbwQymBl_Z2fPIl8.webp"
+      ]
+    },
     "agency-as-a-service-economics": {
       "source": "~/assets/images/agency-as-a-service-economics.jpeg",
       "url": "https://rajatpandit.com/_astro/agency-as-a-service-economics.C90LrW4h_ZYTD7g.webp",
@@ -359,6 +377,22 @@
         "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ_Z8CtcK.jpg"
       ]
     },
+    "agent-skills-supply-chain-vetting-pinning-sandboxing": {
+      "source": "~/assets/images/agent-skills-supply-chain-vetting-pinning-sandboxing-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/agent-skills-supply-chain-vetting-pinning-sandboxing-hero.Do-ghw89_1eSETl.webp",
+      "format": "webp",
+      "bytes": 165558,
+      "variants": [
+        "agent-skills-supply-chain-vetting-pinning-sandboxing-hero.Do-ghw89_1eSETl.webp",
+        "agent-skills-supply-chain-vetting-pinning-sandboxing-explainer.DB8A2IVM_Z1fY1Ol.webp",
+        "agent-skills-supply-chain-vetting-pinning-sandboxing-hero.Do-ghw89.jpeg",
+        "agent-skills-supply-chain-vetting-pinning-sandboxing-hero.Do-ghw89_10diTe.webp",
+        "agent-skills-supply-chain-vetting-pinning-sandboxing-hero.Do-ghw89_2f7RF9.jpg",
+        "agent-skills-supply-chain-vetting-pinning-sandboxing-hero.Do-ghw89_Z1z785G.webp",
+        "agent-skills-supply-chain-vetting-pinning-sandboxing-hero.Do-ghw89_Z544Hv.webp",
+        "agent-skills-supply-chain-vetting-pinning-sandboxing-hero.Do-ghw89_ZROqmw.webp"
+      ]
+    },
     "agent-skills-vs-mcp-servers-instructions-or-service": {
       "source": "~/assets/images/agent-skills-vs-mcp-servers-instructions-or-service-hero.jpeg",
       "url": "https://rajatpandit.com/_astro/agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z1Ya6BB.webp",
@@ -371,8 +405,6 @@
         "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_1sPxjL.webp",
         "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_271eIT.jpg",
         "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z1Sbe9.webp",
-        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z1pFzVf.webp",
-        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z2910HK.webp",
         "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z2gpKii.webp",
         "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z2vnSFN.webp"
       ]
@@ -510,6 +542,22 @@
         "ai-capital-wall-hero.Dgc-cNPh_ZtcurW.webp"
       ]
     },
+    "ai-code-review-agents-precision-recall-reviewer-fatigue": {
+      "source": "~/assets/images/ai-code-review-agents-precision-recall-reviewer-fatigue-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/ai-code-review-agents-precision-recall-reviewer-fatigue-hero.s9WOeMfg_ZyDFcW.webp",
+      "format": "webp",
+      "bytes": 177128,
+      "variants": [
+        "ai-code-review-agents-precision-recall-reviewer-fatigue-hero.s9WOeMfg_ZyDFcW.webp",
+        "ai-code-review-agents-precision-recall-reviewer-fatigue-explainer.D_RsOrs4_7k7ao.webp",
+        "ai-code-review-agents-precision-recall-reviewer-fatigue-hero.s9WOeMfg.jpeg",
+        "ai-code-review-agents-precision-recall-reviewer-fatigue-hero.s9WOeMfg_Z1GmIpK.webp",
+        "ai-code-review-agents-precision-recall-reviewer-fatigue-hero.s9WOeMfg_Z1qv2e9.webp",
+        "ai-code-review-agents-precision-recall-reviewer-fatigue-hero.s9WOeMfg_Z9NmHF.webp",
+        "ai-code-review-agents-precision-recall-reviewer-fatigue-hero.s9WOeMfg_ZkNzQQ.webp",
+        "ai-code-review-agents-precision-recall-reviewer-fatigue-hero.s9WOeMfg_pCNWM.jpg"
+      ]
+    },
     "ai-compute-scaling": {
       "source": "~/assets/images/ai-compute-scaling-hero.jpeg",
       "url": "https://rajatpandit.com/_astro/ai-compute-scaling-hero.Ds-FtHGe_Znd5DA.webp",
@@ -539,6 +587,24 @@
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_Xx0Hz.jpg",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_Z12AfUx.webp",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_Z1yDuVn.webp"
+      ]
+    },
+    "ai-staff-engineer-senior-roles-when-agents-write-code": {
+      "source": "~/assets/images/ai-staff-engineer-senior-roles-when-agents-write-code-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX_Z16cCuf.webp",
+      "format": "webp",
+      "bytes": 304516,
+      "variants": [
+        "ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX_Z16cCuf.webp",
+        "ai-staff-engineer-senior-roles-when-agents-write-code-explainer.DWRc54jn_1RvRym.webp",
+        "ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX.jpeg",
+        "ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX_13amHW.webp",
+        "ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX_Z16gLsg.webp",
+        "ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX_Z1ei10M.webp",
+        "ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX_Z2gKKAg.webp",
+        "ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX_ZHfmFk.webp",
+        "ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX_pBxqR.webp",
+        "ai-staff-engineer-senior-roles-when-agents-write-code-hero.lIJ6uqeX_ufWFs.jpg"
       ]
     },
     "ai_pilot_failure_valley_1769265101000": {
@@ -1992,9 +2058,7 @@
         "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_1y5TMf.webp",
         "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_258y7H.webp",
         "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_D2mFA.jpg",
-        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_Z1RbEz2.webp",
-        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_Z1eCPhW.webp",
-        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_vCacL.webp"
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_Z1RbEz2.webp"
       ]
     },
     "mcp-server-security-tool-poisoning-access-control": {
@@ -2149,20 +2213,35 @@
     },
     "model-routing-cascades-cheap-model-first-escalate": {
       "source": "~/assets/images/model-routing-cascades-cheap-model-first-escalate-hero.jpeg",
-      "url": "https://rajatpandit.com/_astro/model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_1DO43Q.webp",
+      "url": "https://rajatpandit.com/_astro/model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z2aT9eu.webp",
       "format": "webp",
       "bytes": 111942,
       "variants": [
-        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_1DO43Q.webp",
+        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z2aT9eu.webp",
         "model-routing-cascades-cheap-model-first-escalate-explainer.MVFrt0p4_Z1UJtW7.webp",
         "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI.jpeg",
         "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z10pp27.webp",
         "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z1cjUMK.jpg",
         "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z20AcNY.webp",
         "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z27anbX.webp",
-        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z2aT9eu.webp",
-        "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z2jYH7h.webp",
         "model-routing-cascades-cheap-model-first-escalate-hero.Cls-tTbI_Z2pjeDp.webp"
+      ]
+    },
+    "model-weights-supply-chain-provenance-safetensors-signing": {
+      "source": "~/assets/images/model-weights-supply-chain-provenance-safetensors-signing-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ_Z7pRrC.webp",
+      "format": "webp",
+      "bytes": 197782,
+      "variants": [
+        "model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ_Z7pRrC.webp",
+        "model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ.jpeg",
+        "model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ_1uxncH.webp",
+        "model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ_1x9mUl.webp",
+        "model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ_2uLh11.webp",
+        "model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ_Z2fILiY.webp",
+        "model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ_Z65gBU.jpg",
+        "model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ_hIXkF.webp",
+        "model-weights-supply-chain-provenance-safetensors-signing-hero.CCOo4xnQ_lkRxA.webp"
       ]
     },
     "moe-routing-collapse": {
@@ -2575,6 +2654,23 @@
         "pillar-strategy.Dd92ZIle_ZXrtz6.webp"
       ]
     },
+    "plan-review-gates-coding-agents-human-approval": {
+      "source": "~/assets/images/plan-review-gates-coding-agents-human-approval-hero.jpeg",
+      "url": "https://rajatpandit.com/_astro/plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj_Z2nMFdA.webp",
+      "format": "webp",
+      "bytes": 252928,
+      "variants": [
+        "plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj_Z2nMFdA.webp",
+        "plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj.jpeg",
+        "plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj_1G6Hr0.jpg",
+        "plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj_1O4Dme.webp",
+        "plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj_Z1OqllI.webp",
+        "plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj_ZJafT.webp",
+        "plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj_ZUtAo2.webp",
+        "plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj_ZaeeWD.webp",
+        "plan-review-gates-coding-agents-human-approval-hero.BQjeKaJj_h5VPo.webp"
+      ]
+    },
     "portfolio-based-budgeting": {
       "source": "~/assets/images/portfolio-based-budgeting-hero.jpeg",
       "url": "https://rajatpandit.com/_astro/portfolio-based-budgeting-hero.C2PgQnaQ_Z19fzoT.webp",
@@ -2627,10 +2723,8 @@
         "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_1dekoT.webp",
         "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_2ve2vK.webp",
         "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_Z1PFhCK.jpg",
-        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_Z1l129u.webp",
         "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_Z2iNjeM.webp",
-        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_ZnItIa.webp",
-        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_xUvkP.webp"
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_ZnItIa.webp"
       ]
     },
     "prompt-injection-defense-tool-using-agents-layered-controls": {
