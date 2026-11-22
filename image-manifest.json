@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T17:41:36.952Z",
+  "generatedAt": "2026-11-22T17:26:31.154Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
     "1": {
@@ -83,6 +83,7 @@
         "1serverless-inference-cold-start-hero.CgfLl8N__Z18B5bf.webp",
         "1serverless-inference-cold-start-hero.CgfLl8N_.png",
         "1serverless-inference-cold-start-hero.CgfLl8N__19CBxT.jpg",
+        "1serverless-inference-cold-start-hero.CgfLl8N__Z29biRi.webp",
         "1serverless-inference-cold-start-hero.CgfLl8N__Z2rhelu.webp",
         "1serverless-inference-cold-start-hero.CgfLl8N__ZJfI4n.webp",
         "1serverless-inference-cold-start-hero.CgfLl8N__Zdct3x.webp"
@@ -126,7 +127,8 @@
         "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_8zWMn.jpg",
         "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_Y8qcl.webp",
         "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_Z1RkTMO.webp",
-        "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_Z6Iqjy.webp"
+        "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_Z6Iqjy.webp",
+        "Gemini_Generated_Image_92do8s92do8s92do.M03-3t5F_ZcQYc0.webp"
       ]
     },
     "Gemini_Generated_Image_ef0lr4ef0lr4ef0l": {
@@ -167,7 +169,8 @@
         "a2a-tools-not-functions.B2q26lJ2_1wSVCf.webp",
         "a2a-tools-not-functions.B2q26lJ2_Z1Vx2O5.jpg",
         "a2a-tools-not-functions.B2q26lJ2_ZblhcA.webp",
-        "a2a-tools-not-functions.B2q26lJ2_a0IQ7.webp"
+        "a2a-tools-not-functions.B2q26lJ2_a0IQ7.webp",
+        "a2a-tools-not-functions.B2q26lJ2_eqSdf.webp"
       ]
     },
     "a_photorealistic_image_of_a_mass": {
@@ -178,6 +181,7 @@
       "variants": [
         "a_photorealistic_image_of_a_mass.BcWhodQT_Z1uPnhb.webp",
         "a_photorealistic_image_of_a_mass.BcWhodQT.png",
+        "a_photorealistic_image_of_a_mass.BcWhodQT_DY3EX.webp",
         "a_photorealistic_image_of_a_mass.BcWhodQT_Z1Tqzk0.webp",
         "a_photorealistic_image_of_a_mass.BcWhodQT_Z1lRKWY.jpg",
         "a_photorealistic_image_of_a_mass.BcWhodQT_Z3lzKG.webp",
@@ -195,6 +199,7 @@
         "a_photorealistic_image_of_a_serv.Cr45AA8g_1NrMJU.webp",
         "a_photorealistic_image_of_a_serv.Cr45AA8g_1OBjwx.webp",
         "a_photorealistic_image_of_a_serv.Cr45AA8g_Z2v2Ord.webp",
+        "a_photorealistic_image_of_a_serv.Cr45AA8g_ZP4art.webp",
         "a_photorealistic_image_of_a_serv.Cr45AA8g_ZXkNnw.jpg"
       ]
     },
@@ -208,6 +213,7 @@
         "agency-as-a-service-economics.C90LrW4h.png",
         "agency-as-a-service-economics.C90LrW4h_MAmVu.jpg",
         "agency-as-a-service-economics.C90LrW4h_Tfnt0.webp",
+        "agency-as-a-service-economics.C90LrW4h_Z1lxImq.webp",
         "agency-as-a-service-economics.C90LrW4h_Z5MI7Y.webp",
         "agency-as-a-service-economics.C90LrW4h_ZVbq68.webp"
       ]
@@ -223,7 +229,8 @@
         "agency-saas.BPYPeouj_1bFnUC.webp",
         "agency-saas.BPYPeouj_1vf5xD.webp",
         "agency-saas.BPYPeouj_1w6bC4.webp",
-        "agency-saas.BPYPeouj_GuhLV.jpg"
+        "agency-saas.BPYPeouj_GuhLV.jpg",
+        "agency-saas.BPYPeouj_Z295YYf.webp"
       ]
     },
     "agent-audit-trails-what-to-log-retain-redact": {
@@ -236,6 +243,7 @@
         "agent-audit-trails-what-to-log-retain-redact-explainer.D3Z8bNde_Z1Hg6K8.webp",
         "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ.jpeg",
         "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_2qrA9D.webp",
+        "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_Z13eRVy.webp",
         "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_Z26Cinf.jpg",
         "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_Z28zFQM.webp",
         "agent-audit-trails-what-to-log-retain-redact-hero.B0wULhOZ_ZLvevX.webp"
@@ -250,6 +258,7 @@
         "agent-billing-crisis-cloud-cost-model-hero.Cjgjsfo1_Z1mykQa.webp",
         "agent-billing-crisis-cloud-cost-model-explainer.Bn079zV_.png",
         "agent-billing-crisis-cloud-cost-model-hero.Cjgjsfo1.png",
+        "agent-billing-crisis-cloud-cost-model-hero.Cjgjsfo1_1H4dia.webp",
         "agent-billing-crisis-cloud-cost-model-hero.Cjgjsfo1_1m3QsT.webp",
         "agent-billing-crisis-cloud-cost-model-hero.Cjgjsfo1_23fYB4.webp",
         "agent-billing-crisis-cloud-cost-model-hero.Cjgjsfo1_2pjA6z.jpg",
@@ -268,6 +277,7 @@
         "agent-correctness-production-hero.EecU4Y3t_Z18oi86.jpg",
         "agent-correctness-production-hero.EecU4Y3t_Z22X4ib.webp",
         "agent-correctness-production-hero.EecU4Y3t_Z2kTYj2.webp",
+        "agent-correctness-production-hero.EecU4Y3t_ZU2HMI.webp",
         "agent-correctness-production-hero.EecU4Y3t_ZmKnX4.webp"
       ]
     },
@@ -282,7 +292,8 @@
         "agent-correctness-tool-use-hero.CULqAD-K_Sn58R.webp",
         "agent-correctness-tool-use-hero.CULqAD-K_Z13xU80.jpg",
         "agent-correctness-tool-use-hero.CULqAD-K_Z1AaN1P.webp",
-        "agent-correctness-tool-use-hero.CULqAD-K_ZXykNv.webp"
+        "agent-correctness-tool-use-hero.CULqAD-K_ZXykNv.webp",
+        "agent-correctness-tool-use-hero.CULqAD-K_cW1uK.webp"
       ]
     },
     "agent-finops": {
@@ -293,6 +304,7 @@
       "variants": [
         "agent-finops-hero.RvR8CIIu_Z5uHUW.webp",
         "agent-finops-hero.RvR8CIIu.png",
+        "agent-finops-hero.RvR8CIIu_1DAtEj.webp",
         "agent-finops-hero.RvR8CIIu_1VVrIu.webp",
         "agent-finops-hero.RvR8CIIu_1tX38a.jpg",
         "agent-finops-hero.RvR8CIIu_A7FVQ.webp",
@@ -311,7 +323,8 @@
         "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z1Q6IPB.webp",
         "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z1WFTdA.webp",
         "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z1sxlr0.jpg",
-        "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z2fOKF2.webp"
+        "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_Z2fOKF2.webp",
+        "agent-identity-least-privilege-short-lived-tokens-hero.DAj54rkP_ZPUV3J.webp"
       ]
     },
     "agent-memory-layers-persistent-memory-vs-re-retrieval": {
@@ -324,6 +337,7 @@
         "agent-memory-layers-persistent-memory-vs-re-retrieval-explainer.BAmH2BPn_1xB2Tx.webp",
         "agent-memory-layers-persistent-memory-vs-re-retrieval-hero.BKC8NZM4.jpg",
         "agent-memory-layers-persistent-memory-vs-re-retrieval-hero.BKC8NZM4_2ggku4.webp",
+        "agent-memory-layers-persistent-memory-vs-re-retrieval-hero.BKC8NZM4_Z1jRJVG.webp",
         "agent-memory-layers-persistent-memory-vs-re-retrieval-hero.BKC8NZM4_Z27D6AH.webp",
         "agent-memory-layers-persistent-memory-vs-re-retrieval-hero.BKC8NZM4_ZFI3MT.jpg",
         "agent-memory-layers-persistent-memory-vs-re-retrieval-hero.BKC8NZM4_ZeAmjW.webp"
@@ -338,6 +352,7 @@
         "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ_Z24nntW.webp",
         "agent-reliability-patterns-retries-idempotency-observability-explainer.FBVxHBYl_Z1IJn8r.webp",
         "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ.jpg",
+        "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ_Z17Qafg.webp",
         "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ_Z1Aj2uQ.webp",
         "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ_Z1n4APi.webp",
         "agent-reliability-patterns-retries-idempotency-observability-hero.D-emBpjZ_Z2gbtA3.webp",
@@ -358,6 +373,7 @@
         "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z1Sbe9.webp",
         "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z1pFzVf.webp",
         "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z2910HK.webp",
+        "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z2gpKii.webp",
         "agent-skills-vs-mcp-servers-instructions-or-service-hero.DMI4_EIl_Z2vnSFN.webp"
       ]
     },
@@ -370,6 +386,7 @@
         "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_ZmeUPk.webp",
         "agent-slos-error-budgets-reliable-agentic-systems-explainer.BnVxRROV_19tAWA.webp",
         "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI.jpeg",
+        "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_2bG2q.webp",
         "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_BkhAp.jpg",
         "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_Z14yh7q.webp",
         "agent-slos-error-budgets-reliable-agentic-systems-hero.2NbO53DI_Z1mH8yR.webp",
@@ -385,6 +402,7 @@
         "agent-supervisor-clockwork.DBWK8zwj_1mUJ8O.webp",
         "agent-supervisor-clockwork.DBWK8zwj.png",
         "agent-supervisor-clockwork.DBWK8zwj_1xF13A.webp",
+        "agent-supervisor-clockwork.DBWK8zwj_1yInRJ.webp",
         "agent-supervisor-clockwork.DBWK8zwj_Z1c2F6R.webp",
         "agent-supervisor-clockwork.DBWK8zwj_Z2geGNK.webp",
         "agent-supervisor-clockwork.DBWK8zwj_Z2tFaYe.jpg"
@@ -401,6 +419,7 @@
         "agent-testing-revolution-hero.63DRqmvX.png",
         "agent-testing-revolution-hero.63DRqmvX_19VAlB.webp",
         "agent-testing-revolution-hero.63DRqmvX_1ihB2D.jpg",
+        "agent-testing-revolution-hero.63DRqmvX_1vbR0k.webp",
         "agent-testing-revolution-hero.63DRqmvX_28Jlfh.webp",
         "agent-testing-revolution-hero.63DRqmvX_ZFYCXG.webp"
       ]
@@ -422,6 +441,7 @@
       "variants": [
         "agentic-aaas.DEOVedQA_Z2maold.webp",
         "agentic-aaas.DEOVedQA.png",
+        "agentic-aaas.DEOVedQA_1jY4uQ.webp",
         "agentic-aaas.DEOVedQA_8sqNm.webp",
         "agentic-aaas.DEOVedQA_Z164mQy.webp",
         "agentic-aaas.DEOVedQA_Z1upj5m.jpg",
@@ -439,7 +459,8 @@
         "agentic-ai-hero-1.DR9xL-AL_1dlTII.webp",
         "agentic-ai-hero-1.DR9xL-AL_Z1XJo0i.jpg",
         "agentic-ai-hero-1.DR9xL-AL_Z1iBDn6.webp",
-        "agentic-ai-hero-1.DR9xL-AL_Z2wtJAI.webp"
+        "agentic-ai-hero-1.DR9xL-AL_Z2wtJAI.webp",
+        "agentic-ai-hero-1.DR9xL-AL_ZRnj8M.webp"
       ]
     },
     "agentic-coding-security-governing-ai-written-code": {
@@ -454,6 +475,7 @@
         "agentic-coding-security-governing-ai-written-code-hero.9W3sQCZz_Z1NOUcb.webp",
         "agentic-coding-security-governing-ai-written-code-hero.9W3sQCZz_Z1Up5za.webp",
         "agentic-coding-security-governing-ai-written-code-hero.9W3sQCZz_Z2dxW1B.webp",
+        "agentic-coding-security-governing-ai-written-code-hero.9W3sQCZz_ZNE7pj.webp",
         "agentic-coding-security-governing-ai-written-code-hero.9W3sQCZz_Zj07oM.jpg"
       ]
     },
@@ -468,6 +490,7 @@
         "agentic-sdlc-orchestrator.1IKjVCVx_2qR3iD.webp",
         "agentic-sdlc-orchestrator.1IKjVCVx_Z28JVYk.jpg",
         "agentic-sdlc-orchestrator.1IKjVCVx_Z2vsBbu.webp",
+        "agentic-sdlc-orchestrator.1IKjVCVx_ZHOHRx.webp",
         "agentic-sdlc-orchestrator.1IKjVCVx_ZVSjN6.webp"
       ]
     },
@@ -483,7 +506,8 @@
         "ai-capital-wall-hero.Dgc-cNPh_1zxmcV.jpg",
         "ai-capital-wall-hero.Dgc-cNPh_EAKrU.webp",
         "ai-capital-wall-hero.Dgc-cNPh_Z19eAzi.webp",
-        "ai-capital-wall-hero.Dgc-cNPh_Zetf07.webp"
+        "ai-capital-wall-hero.Dgc-cNPh_Zetf07.webp",
+        "ai-capital-wall-hero.Dgc-cNPh_ZtcurW.webp"
       ]
     },
     "ai-compute-scaling": {
@@ -496,6 +520,7 @@
         "ai-compute-scaling-hero.Ds-FtHGe.png",
         "ai-compute-scaling-hero.Ds-FtHGe_Z1bcyFw.webp",
         "ai-compute-scaling-hero.Ds-FtHGe_Z2lU3Br.jpg",
+        "ai-compute-scaling-hero.Ds-FtHGe_ZKpofG.webp",
         "ai-compute-scaling-hero.Ds-FtHGe_ZOPxBO.webp",
         "ai-compute-scaling-hero.Ds-FtHGe_x2E9j.webp"
       ]
@@ -510,6 +535,7 @@
         "ai-governance-autonomous-systems-explainer.v7NNcic6.png",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-.png",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_1Nw7Ar.webp",
+        "ai-governance-autonomous-systems-hero.D4-5Wc7-_26C34D.webp",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_Xx0Hz.jpg",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_Z12AfUx.webp",
         "ai-governance-autonomous-systems-hero.D4-5Wc7-_Z1yDuVn.webp"
@@ -526,7 +552,8 @@
         "ai_pilot_failure_valley_1769265101000.XWPCEnvw_2cbw1J.webp",
         "ai_pilot_failure_valley_1769265101000.XWPCEnvw_52j5e.webp",
         "ai_pilot_failure_valley_1769265101000.XWPCEnvw_W6daL.jpg",
-        "ai_pilot_failure_valley_1769265101000.XWPCEnvw_Z1GtDU2.webp"
+        "ai_pilot_failure_valley_1769265101000.XWPCEnvw_Z1GtDU2.webp",
+        "ai_pilot_failure_valley_1769265101000.XWPCEnvw_zGzSC.webp"
       ]
     },
     "airllm-gpu-accessibility-trap": {
@@ -540,7 +567,8 @@
         "airllm-gpu-accessibility-trap-hero.tm9HSkbD_1Ud4cJ.webp",
         "airllm-gpu-accessibility-trap-hero.tm9HSkbD_1XXyBc.jpg",
         "airllm-gpu-accessibility-trap-hero.tm9HSkbD_1lk9oP.webp",
-        "airllm-gpu-accessibility-trap-hero.tm9HSkbD_Z2stRjz.webp"
+        "airllm-gpu-accessibility-trap-hero.tm9HSkbD_Z2stRjz.webp",
+        "airllm-gpu-accessibility-trap-hero.tm9HSkbD_ZDYcda.webp"
       ]
     },
     "all-reduce-physics-etching": {
@@ -554,6 +582,7 @@
         "all-reduce-physics-etching.BDolLGif_1K7R9P.jpg",
         "all-reduce-physics-etching.BDolLGif_1SpCRT.webp",
         "all-reduce-physics-etching.BDolLGif_OdBb1.webp",
+        "all-reduce-physics-etching.BDolLGif_Zq0qVq.webp",
         "all-reduce-physics-etching.BDolLGif_Zr3NKz.webp"
       ]
     },
@@ -569,7 +598,8 @@
         "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_23Qkse.webp",
         "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_YkyiC.jpg",
         "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z18i44W.webp",
-        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z27Wz1S.webp"
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_Z27Wz1S.webp",
+        "apac-inference-placement-data-residency-latency-cost-hero.CDAJdTVZ_ZCTvDH.webp"
       ]
     },
     "app-store": {
@@ -716,6 +746,7 @@
         "applying-emerging-tech-pitfalls.BiI8xqeM_Z1m8OkX.webp",
         "applying-emerging-tech-pitfalls.BiI8xqeM.png",
         "applying-emerging-tech-pitfalls.BiI8xqeM_18X82s.jpg",
+        "applying-emerging-tech-pitfalls.BiI8xqeM_3zM8e.webp",
         "applying-emerging-tech-pitfalls.BiI8xqeM_GSmdk.webp",
         "applying-emerging-tech-pitfalls.BiI8xqeM_Z15N5C1.webp",
         "applying-emerging-tech-pitfalls.BiI8xqeM_mHfcP.webp"
@@ -733,6 +764,7 @@
         "architecting-ai-gateway-hero.MBsCZgrE_14p6M9.webp",
         "architecting-ai-gateway-hero.MBsCZgrE_F1I9f.webp",
         "architecting-ai-gateway-hero.MBsCZgrE_RiBlS.jpg",
+        "architecting-ai-gateway-hero.MBsCZgrE_Z24mwON.webp",
         "architecting-ai-gateway-hero.MBsCZgrE_cXP6h.webp"
       ]
     },
@@ -756,7 +788,8 @@
         "automated-agent-trajectory-evaluation-hero.-zzVofE__Z1q0J2p.webp",
         "automated-agent-trajectory-evaluation-hero.-zzVofE__ZGmM8w.webp",
         "automated-agent-trajectory-evaluation-hero.-zzVofE__ZaE0m.webp",
-        "automated-agent-trajectory-evaluation-hero.-zzVofE__ZiON5q.jpg"
+        "automated-agent-trajectory-evaluation-hero.-zzVofE__ZiON5q.jpg",
+        "automated-agent-trajectory-evaluation-hero.-zzVofE__Zlmqjg.webp"
       ]
     },
     "benchmarking-edge-silicon-npu-vs-gpu-inference": {
@@ -768,6 +801,7 @@
         "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_Cg0qr.webp",
         "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F.png",
         "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_17h4mW.webp",
+        "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_1Lvtj2.webp",
         "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_1dm26p.jpg",
         "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_BHIJI.webp",
         "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_ZXsPMM.webp"
@@ -811,6 +845,7 @@
         "browser-agents-maturity-play-hero.XmX3O64D_21AWPW.webp",
         "browser-agents-maturity-play-hero.XmX3O64D_271tY.webp",
         "browser-agents-maturity-play-hero.XmX3O64D_QRs6l.jpg",
+        "browser-agents-maturity-play-hero.XmX3O64D_Z1tYffm.webp",
         "browser-agents-maturity-play-hero.XmX3O64D_Zv1lcx.webp"
       ]
     },
@@ -825,7 +860,8 @@
         "build-vs-buy-foundation.CnCe5L3p_1EpO5d.webp",
         "build-vs-buy-foundation.CnCe5L3p_1RE7nT.jpg",
         "build-vs-buy-foundation.CnCe5L3p_Z3OoJC.webp",
-        "build-vs-buy-foundation.CnCe5L3p_hwBj5.webp"
+        "build-vs-buy-foundation.CnCe5L3p_hwBj5.webp",
+        "build-vs-buy-foundation.CnCe5L3p_lWKFd.webp"
       ]
     },
     "building-an-autonomy-dial": {
@@ -837,6 +873,7 @@
         "building-an-autonomy-dial.C_xBoXca_Z25Tvx2.webp",
         "building-an-autonomy-dial.C_xBoXca.png",
         "building-an-autonomy-dial.C_xBoXca_23eqfF.webp",
+        "building-an-autonomy-dial.C_xBoXca_2hi2be.webp",
         "building-an-autonomy-dial.C_xBoXca_ZBo8Ng.jpg",
         "building-an-autonomy-dial.C_xBoXca_lMExt.webp",
         "building-an-autonomy-dial.C_xBoXca_tE8Rh.webp"
@@ -859,6 +896,7 @@
       "variants": [
         "caio_first_100_days_pop_art.BCF878xN_Z18XRIR.webp",
         "caio_first_100_days_pop_art.BCF878xN.png",
+        "caio_first_100_days_pop_art.BCF878xN_1ij1uV.webp",
         "caio_first_100_days_pop_art.BCF878xN_29t27r.jpg",
         "caio_first_100_days_pop_art.BCF878xN_Z25VPuq.webp",
         "caio_first_100_days_pop_art.BCF878xN_Z2h1sGn.webp",
@@ -1037,6 +1075,7 @@
         "chunked-prefill-hero.BWjxKWV1.png",
         "chunked-prefill-hero.BWjxKWV1_G5EXK.webp",
         "chunked-prefill-hero.BWjxKWV1_Z12Ogz7.webp",
+        "chunked-prefill-hero.BWjxKWV1_Z2kFllz.webp",
         "chunked-prefill-hero.BWjxKWV1_bvUUy.webp",
         "chunked-prefill-hero.BWjxKWV1_n3USI.jpg"
       ]
@@ -1052,6 +1091,7 @@
         "cloud-adoption-org-culture.9NYJ1En1_1lWC7m.webp",
         "cloud-adoption-org-culture.9NYJ1En1_2q9DOf.webp",
         "cloud-adoption-org-culture.9NYJ1En1_5FcaL.webp",
+        "cloud-adoption-org-culture.9NYJ1En1_6IyYU.webp",
         "cloud-adoption-org-culture.9NYJ1En1_Z1VMdXe.jpg"
       ]
     },
@@ -1063,6 +1103,7 @@
       "variants": [
         "cloud-storage-io-bottlenecks.Bb3LvZgZ_Z18lxXW.webp",
         "cloud-storage-io-bottlenecks.Bb3LvZgZ.png",
+        "cloud-storage-io-bottlenecks.Bb3LvZgZ_SyqOe.webp",
         "cloud-storage-io-bottlenecks.Bb3LvZgZ_Z1I2KhL.webp",
         "cloud-storage-io-bottlenecks.Bb3LvZgZ_Z1e5C8B.webp",
         "cloud-storage-io-bottlenecks.Bb3LvZgZ_ZUHwT1.webp",
@@ -1081,7 +1122,8 @@
         "cloudflare-crawl-budget-hero.ClzqiXe__Z1AR3tH.webp",
         "cloudflare-crawl-budget-hero.ClzqiXe__Z1Tf8Ii.webp",
         "cloudflare-crawl-budget-hero.ClzqiXe__Z2Jykb.jpg",
-        "cloudflare-crawl-budget-hero.ClzqiXe__Z2ocgRs.webp"
+        "cloudflare-crawl-budget-hero.ClzqiXe__Z2ocgRs.webp",
+        "cloudflare-crawl-budget-hero.ClzqiXe__doUex.webp"
       ]
     },
     "codebase-aware-agentic-ai-mcp-persistent-indexing": {
@@ -1095,6 +1137,7 @@
         "codebase-aware-agentic-ai-mcp-persistent-indexing-hero.DSkkPmu__1Qizkt.jpg",
         "codebase-aware-agentic-ai-mcp-persistent-indexing-hero.DSkkPmu__1gdSQ2.webp",
         "codebase-aware-agentic-ai-mcp-persistent-indexing-hero.DSkkPmu__L2oyK.webp",
+        "codebase-aware-agentic-ai-mcp-persistent-indexing-hero.DSkkPmu__Z26Tmec.webp",
         "codebase-aware-agentic-ai-mcp-persistent-indexing-hero.DSkkPmu__ZfBOrK.webp"
       ]
     },
@@ -1106,6 +1149,7 @@
       "variants": [
         "compiling-tensorrt-engines-calibration-trap.DESeNGQB_lh8o5.webp",
         "compiling-tensorrt-engines-calibration-trap.DESeNGQB.png",
+        "compiling-tensorrt-engines-calibration-trap.DESeNGQB_1XXCP1.webp",
         "compiling-tensorrt-engines-calibration-trap.DESeNGQB_GnBpV.webp",
         "compiling-tensorrt-engines-calibration-trap.DESeNGQB_Z1PlzIK.webp",
         "compiling-tensorrt-engines-calibration-trap.DESeNGQB_Z1denmz.webp",
@@ -1122,6 +1166,7 @@
         "compute-to-cashflow.L-vuBQIw.png",
         "compute-to-cashflow.L-vuBQIw_2mmfEa.jpg",
         "compute-to-cashflow.L-vuBQIw_Z1rHhFz.webp",
+        "compute-to-cashflow.L-vuBQIw_ZLFbye.webp",
         "compute-to-cashflow.L-vuBQIw_ZwVV6o.webp",
         "compute-to-cashflow.L-vuBQIw_m84lD.webp"
       ]
@@ -1135,6 +1180,7 @@
         "context-bloat-progressive-discovery-hero.C3ZeoQlF_w4Uvw.webp",
         "context-bloat-progressive-discovery-hero.C3ZeoQlF.png",
         "context-bloat-progressive-discovery-hero.C3ZeoQlF_14VJj1.webp",
+        "context-bloat-progressive-discovery-hero.C3ZeoQlF_2dDcl0.webp",
         "context-bloat-progressive-discovery-hero.C3ZeoQlF_QsfYp.webp",
         "context-bloat-progressive-discovery-hero.C3ZeoQlF_Z2bjYDq.webp",
         "context-bloat-progressive-discovery-hero.C3ZeoQlF_uCuxK.jpg"
@@ -1151,7 +1197,8 @@
         "continuous-batching-in-vllm.CxxmducY_Mvoe6.webp",
         "continuous-batching-in-vllm.CxxmducY_Pobgq.jpg",
         "continuous-batching-in-vllm.CxxmducY_XA1q3.webp",
-        "continuous-batching-in-vllm.CxxmducY_Z1BYKoD.webp"
+        "continuous-batching-in-vllm.CxxmducY_Z1BYKoD.webp",
+        "continuous-batching-in-vllm.CxxmducY_ZHlfnw.webp"
       ]
     },
     "contrarian-takes-infrastructure": {
@@ -1165,6 +1212,7 @@
         "contrarian-takes-infrastructure-hero.Ce58JXBs.png",
         "contrarian-takes-infrastructure-hero.Ce58JXBs_1ChMHm.webp",
         "contrarian-takes-infrastructure-hero.Ce58JXBs_2l7rhh.webp",
+        "contrarian-takes-infrastructure-hero.Ce58JXBs_Z1WWAz.webp",
         "contrarian-takes-infrastructure-hero.Ce58JXBs_Z2f1vjg.jpg",
         "contrarian-takes-infrastructure-hero.Ce58JXBs_ZCuAqL.webp"
       ]
@@ -1180,6 +1228,7 @@
         "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F.jpeg",
         "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_1HEhrk.webp",
         "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_1ybdDt.jpg",
+        "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_Z2aIlYQ.webp",
         "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_Z2dklHu.webp",
         "cost-per-resolved-task-pricing-agentic-workflows-outcomes-hero.DK9ubJ4F_ZSpmpf.webp"
       ]
@@ -1203,6 +1252,7 @@
         "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_rSYDW.webp",
         "cuda-monopoly-breaks-scale-amd-explainer.BIEnDKeq.png",
         "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np.png",
+        "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_1OxLq5.webp",
         "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_Z1AU5rQ.webp",
         "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_Z1LLVlD.jpg",
         "cuda-monopoly-breaks-scale-amd-hero.CrVgi3np_Z1uLwqX.webp",
@@ -1218,6 +1268,7 @@
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_2dgOKh.webp",
         "data-gravity-cloud-agnostic-hero.C6k8TiP0.png",
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_24yALH.webp",
+        "data-gravity-cloud-agnostic-hero.C6k8TiP0_2jD58N.webp",
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_Z10yQ9q.jpg",
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_Z1Kx5tv.webp",
         "data-gravity-cloud-agnostic-hero.C6k8TiP0_ZwwX7.webp"
@@ -1242,6 +1293,7 @@
         "debugging-audio-buffer-overruns.BmJRndoo.png",
         "debugging-audio-buffer-overruns.BmJRndoo_2fr0Wa.webp",
         "debugging-audio-buffer-overruns.BmJRndoo_Z123F1q.webp",
+        "debugging-audio-buffer-overruns.BmJRndoo_Z1Fmf6w.webp",
         "debugging-audio-buffer-overruns.BmJRndoo_Z1Pwygz.jpg",
         "debugging-audio-buffer-overruns.BmJRndoo_Z1meM1U.webp"
       ]
@@ -1257,7 +1309,8 @@
         "declarative-vs-open-ended-genui.2g_t-zJX_2bgYFh.jpg",
         "declarative-vs-open-ended-genui.2g_t-zJX_4TmLu.webp",
         "declarative-vs-open-ended-genui.2g_t-zJX_Z1HM53Q.webp",
-        "declarative-vs-open-ended-genui.2g_t-zJX_ZfgJe0.webp"
+        "declarative-vs-open-ended-genui.2g_t-zJX_ZfgJe0.webp",
+        "declarative-vs-open-ended-genui.2g_t-zJX_ZyociB.webp"
       ]
     },
     "default": {
@@ -1281,7 +1334,8 @@
         "democratization-of-quant-finance-hero.DcVPtS2D_14c3Bm.webp",
         "democratization-of-quant-finance-hero.DcVPtS2D_1tKM0C.jpg",
         "democratization-of-quant-finance-hero.DcVPtS2D_2fI1tw.webp",
-        "democratization-of-quant-finance-hero.DcVPtS2D_Z12W9k9.webp"
+        "democratization-of-quant-finance-hero.DcVPtS2D_Z12W9k9.webp",
+        "democratization-of-quant-finance-hero.DcVPtS2D_ZxhRvK.webp"
       ]
     },
     "deploying-multi-lora-adapters-vllm": {
@@ -1292,6 +1346,7 @@
       "variants": [
         "deploying-multi-lora-adapters-vllm.R6QSvWMD_ZXsyVC.webp",
         "deploying-multi-lora-adapters-vllm.R6QSvWMD.png",
+        "deploying-multi-lora-adapters-vllm.R6QSvWMD_2k4oXd.webp",
         "deploying-multi-lora-adapters-vllm.R6QSvWMD_Z5reQH.webp",
         "deploying-multi-lora-adapters-vllm.R6QSvWMD_Z6AKDk.webp",
         "deploying-multi-lora-adapters-vllm.R6QSvWMD_Z8Moud.webp",
@@ -1309,6 +1364,7 @@
         "dissecting-xai-training-stack-hero.BzRk819M_1Qy5SR.jpg",
         "dissecting-xai-training-stack-hero.BzRk819M_6T9Yw.webp",
         "dissecting-xai-training-stack-hero.BzRk819M_Nomh9.webp",
+        "dissecting-xai-training-stack-hero.BzRk819M_Z2si6qn.webp",
         "dissecting-xai-training-stack-hero.BzRk819M_ZrXJNn.webp"
       ]
     },
@@ -1323,6 +1379,7 @@
         "distillation-2026-hidden-arms-race-hero.Bqt9aw7R_2og8NF.jpg",
         "distillation-2026-hidden-arms-race-hero.Bqt9aw7R_Z1hMIVP.webp",
         "distillation-2026-hidden-arms-race-hero.Bqt9aw7R_Z2vepWo.webp",
+        "distillation-2026-hidden-arms-race-hero.Bqt9aw7R_Zcu6qg.webp",
         "distillation-2026-hidden-arms-race-hero.Bqt9aw7R_ZhcmaI.webp"
       ]
     },
@@ -1337,6 +1394,7 @@
         "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_1kS9GP.jpg",
         "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_4qbCN.webp",
         "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_CV7LX.webp",
+        "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_Z1FqDj5.webp",
         "dynamic-lora-adapters-anti-monolith.2Z7qyIXU_Z1Hmn5.webp"
       ]
     },
@@ -1360,6 +1418,7 @@
         "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_Z13Sl5l.webp",
         "eval-gates-ci-agent-releases-regression-suites-explainer.CTtyZkfQ_12qYIR.webp",
         "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso.jpeg",
+        "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_1ahTfp.webp",
         "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_24eEd6.webp",
         "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_Z1NmVmp.webp",
         "eval-gates-ci-agent-releases-regression-suites-hero.EiZjbVso_Z24b6eG.jpg",
@@ -1384,6 +1443,7 @@
       "variants": [
         "flashattention-vs-ringattention-hero.C_7gZzk1_Z2mHU6x.webp",
         "flashattention-vs-ringattention-hero.C_7gZzk1.png",
+        "flashattention-vs-ringattention-hero.C_7gZzk1_1kyez4.webp",
         "flashattention-vs-ringattention-hero.C_7gZzk1_1lllUU.webp",
         "flashattention-vs-ringattention-hero.C_7gZzk1_1r06WU.jpg",
         "flashattention-vs-ringattention-hero.C_7gZzk1_Z1fKrNB.webp",
@@ -1401,7 +1461,8 @@
         "fp8-gradient-divergence.Dm-5sPG1_IMBUx.webp",
         "fp8-gradient-divergence.Dm-5sPG1_Z1sKkqg.jpg",
         "fp8-gradient-divergence.Dm-5sPG1_ZD5zPA.webp",
-        "fp8-gradient-divergence.Dm-5sPG1_ZYrATi.webp"
+        "fp8-gradient-divergence.Dm-5sPG1_ZYrATi.webp",
+        "fp8-gradient-divergence.Dm-5sPG1_ZyEqts.webp"
       ]
     },
     "g4-layer": {
@@ -1422,6 +1483,7 @@
         "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_aSNI9.webp",
         "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF.png",
         "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_1EhjTJ.webp",
+        "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_1rzSh2.webp",
         "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_1s7LUp.jpg",
         "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_Z1TT756.webp",
         "gemini_cli_hooks_diagram_1769265103000.Bhn8CVpF_Z28IGyv.webp"
@@ -1437,6 +1499,7 @@
         "generative-ui-blueprint.DU_zQ-Mi.png",
         "generative-ui-blueprint.DU_zQ-Mi_11JYXx.webp",
         "generative-ui-blueprint.DU_zQ-Mi_1n712f.webp",
+        "generative-ui-blueprint.DU_zQ-Mi_1rxaon.webp",
         "generative-ui-blueprint.DU_zQ-Mi_7fF6r.jpg",
         "generative-ui-blueprint.DU_zQ-Mi_Z2kbU0y.webp"
       ]
@@ -1449,6 +1512,7 @@
       "variants": [
         "genkit-flows-vs-langchain-chains.B1dLQiSk_Z246wWt.webp",
         "genkit-flows-vs-langchain-chains.B1dLQiSk.png",
+        "genkit-flows-vs-langchain-chains.B1dLQiSk_Z1jaoXq.webp",
         "genkit-flows-vs-langchain-chains.B1dLQiSk_ZF3iWC.webp",
         "genkit-flows-vs-langchain-chains.B1dLQiSk_ZIXmvQ.webp",
         "genkit-flows-vs-langchain-chains.B1dLQiSk_rRUX8.jpg",
@@ -1465,6 +1529,7 @@
         "gitops-agentic.CDAriX57.png",
         "gitops-agentic.CDAriX57_1J0ND7.webp",
         "gitops-agentic.CDAriX57_23s82N.jpg",
+        "gitops-agentic.CDAriX57_Z17drEc.webp",
         "gitops-agentic.CDAriX57_Z28OhKe.webp",
         "gitops-agentic.CDAriX57_Z9Svhq.webp"
       ]
@@ -1497,6 +1562,7 @@
         "governance-as-code-hero.CmOmzZWh.png",
         "governance-as-code-hero.CmOmzZWh_Z1R3Pzb.jpg",
         "governance-as-code-hero.CmOmzZWh_Z1kfcSR.webp",
+        "governance-as-code-hero.CmOmzZWh_ZTs2t2.webp",
         "governance-as-code-hero.CmOmzZWh_ZXSbPa.webp",
         "governance-as-code-hero.CmOmzZWh_o00UX.webp"
       ]
@@ -1513,6 +1579,7 @@
         "governance-human-in-the-loop-fallacy.BBTGzBgz_15845s.jpg",
         "governance-human-in-the-loop-fallacy.BBTGzBgz_18C4uL.webp",
         "governance-human-in-the-loop-fallacy.BBTGzBgz_Z1OYXdh.webp",
+        "governance-human-in-the-loop-fallacy.BBTGzBgz_Z1eskn5.webp",
         "governance-human-in-the-loop-fallacy.BBTGzBgz_pMpUQ.webp"
       ]
     },
@@ -1525,6 +1592,7 @@
         "handling-context-window-limits-hero.C3fJxWgq_Zn5mbY.webp",
         "handling-context-window-limits-explainer.BFCQjMcV.png",
         "handling-context-window-limits-hero.C3fJxWgq.png",
+        "handling-context-window-limits-hero.C3fJxWgq_1QoOI2.webp",
         "handling-context-window-limits-hero.C3fJxWgq_1pfUwF.webp",
         "handling-context-window-limits-hero.C3fJxWgq_Z2KNuU.webp",
         "handling-context-window-limits-hero.C3fJxWgq_Z2pBrJb.jpg",
@@ -1539,6 +1607,7 @@
       "variants": [
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh_1f5Fgv.webp",
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh.png",
+        "hardware-acceleration-vector-dbs-hero.D9oAYuxh_1cDdSA.webp",
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh_Txipo.webp",
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh_Z1Vz56A.webp",
         "hardware-acceleration-vector-dbs-hero.D9oAYuxh_Z1wQKNh.jpg",
@@ -1565,6 +1634,7 @@
         "human-as-orchestrator-hero.FGh-UinE.png",
         "human-as-orchestrator-hero.FGh-UinE_2tQXUp.webp",
         "human-as-orchestrator-hero.FGh-UinE_363l.jpg",
+        "human-as-orchestrator-hero.FGh-UinE_Z29LYcv.webp",
         "human-as-orchestrator-hero.FGh-UinE_ZssXhE.webp",
         "human-as-orchestrator-hero.FGh-UinE_z7StG.webp"
       ]
@@ -1599,6 +1669,7 @@
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_Z21lloU.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-explainer.EG2ETR61_Z2ooXOo.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g.jpeg",
+        "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_13JbSQ.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_1vfkea.webp",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_2iyWwC.jpg",
         "india-dpdp-act-llm-agent-pipelines-consent-erasure-hero.DJq-dp1g_2rjYdy.webp",
@@ -1614,6 +1685,7 @@
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_23Q17C.webp",
         "indic-language-tokenization-cost-quality-per-language-explainer.CwddCDcT_Z1Reyiw.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1.jpeg",
+        "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_14SOfW.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_1AVsAp.webp",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_1MvOge.jpg",
         "indic-language-tokenization-cost-quality-per-language-hero.DqDTK6r1_Z295CkB.webp",
@@ -1630,6 +1702,7 @@
         "inference-cost-architecture-explainer.BzPTpYCk.png",
         "inference-cost-architecture-hero.rbZd7I8c.png",
         "inference-cost-architecture-hero.rbZd7I8c_1x0h7c.jpg",
+        "inference-cost-architecture-hero.rbZd7I8c_205wy5.webp",
         "inference-cost-architecture-hero.rbZd7I8c_Z1dgEUJ.webp",
         "inference-cost-architecture-hero.rbZd7I8c_Z2qYvf3.webp",
         "inference-cost-architecture-hero.rbZd7I8c_Z2uTyNh.webp"
@@ -1646,6 +1719,7 @@
         "inference-cost-wall-hero.cjXNUMj9.png",
         "inference-cost-wall-hero.cjXNUMj9_22oEC0.jpg",
         "inference-cost-wall-hero.cjXNUMj9_2jWQLN.webp",
+        "inference-cost-wall-hero.cjXNUMj9_Z1vpmty.webp",
         "inference-cost-wall-hero.cjXNUMj9_Z2oU7Rp.webp",
         "inference-cost-wall-hero.cjXNUMj9_ZLVIzo.webp"
       ]
@@ -1661,7 +1735,8 @@
         "inference-lever-victorian.Cp1ntWJX_2oIRzY.jpg",
         "inference-lever-victorian.Cp1ntWJX_Z1dsPgM.webp",
         "inference-lever-victorian.Cp1ntWJX_Z1lkjAA.webp",
-        "inference-lever-victorian.Cp1ntWJX_l6r6B.webp"
+        "inference-lever-victorian.Cp1ntWJX_l6r6B.webp",
+        "inference-lever-victorian.Cp1ntWJX_za32a.webp"
       ]
     },
     "internal": {
@@ -1683,6 +1758,7 @@
         "investment-thesis-ai-explainer.BHv4TWdM.png",
         "investment-thesis-ai-hero.eqqmk3wl.png",
         "investment-thesis-ai-hero.eqqmk3wl_6iaDL.jpg",
+        "investment-thesis-ai-hero.eqqmk3wl_Bwh8.webp",
         "investment-thesis-ai-hero.eqqmk3wl_Z1M1m1O.webp",
         "investment-thesis-ai-hero.eqqmk3wl_Z1TRPlC.webp",
         "investment-thesis-ai-hero.eqqmk3wl_Zdr4Dq.webp"
@@ -1697,6 +1773,7 @@
         "jax_xla_idle_timeline_1769265102000.CQyDwbop_282jo9.webp",
         "jax_xla_idle_timeline_1769265102000.CQyDwbop.png",
         "jax_xla_idle_timeline_1769265102000.CQyDwbop_U5Gf9.webp",
+        "jax_xla_idle_timeline_1769265102000.CQyDwbop_Z1oh4PT.webp",
         "jax_xla_idle_timeline_1769265102000.CQyDwbop_Z6DBBr.jpg",
         "jax_xla_idle_timeline_1769265102000.CQyDwbop_frc56.webp",
         "jax_xla_idle_timeline_1769265102000.CQyDwbop_lzK5Y.webp"
@@ -1713,6 +1790,7 @@
         "kv-cache-offloading-in-k8s.VRWHXzVN_Z16Sx4S.webp",
         "kv-cache-offloading-in-k8s.VRWHXzVN_Z2Gvn0.webp",
         "kv-cache-offloading-in-k8s.VRWHXzVN_Z2kjeTP.jpg",
+        "kv-cache-offloading-in-k8s.VRWHXzVN_Z2m7Ack.webp",
         "kv-cache-offloading-in-k8s.VRWHXzVN_Z2naX1t.webp"
       ]
     },
@@ -1727,7 +1805,8 @@
         "kv-cache-quantization-hero.BoSoDQoQ_1fDMeH.webp",
         "kv-cache-quantization-hero.BoSoDQoQ_2ifE13.webp",
         "kv-cache-quantization-hero.BoSoDQoQ_Z2vbPuK.jpg",
-        "kv-cache-quantization-hero.BoSoDQoQ_ZRcoma.webp"
+        "kv-cache-quantization-hero.BoSoDQoQ_ZRcoma.webp",
+        "kv-cache-quantization-hero.BoSoDQoQ_ZqEdF9.webp"
       ]
     },
     "kv_caching_diagram": {
@@ -1748,6 +1827,7 @@
         "kv_caching_hero.53dzz1lS_2s4Oj4.webp",
         "kv_caching_hero.53dzz1lS.png",
         "kv_caching_hero.53dzz1lS_1SFk5R.webp",
+        "kv_caching_hero.53dzz1lS_I9Mko.webp",
         "kv_caching_hero.53dzz1lS_Z1fGFoh.webp",
         "kv_caching_hero.53dzz1lS_Z2qNzEn.jpg",
         "kv_caching_hero.53dzz1lS_rqJUC.webp"
@@ -1764,7 +1844,8 @@
         "langgraph-state-management-checkpoints-hero.e79s88vq_1Na6kc.webp",
         "langgraph-state-management-checkpoints-hero.e79s88vq_1RqfMP.webp",
         "langgraph-state-management-checkpoints-hero.e79s88vq_RuBBL.jpg",
-        "langgraph-state-management-checkpoints-hero.e79s88vq_Z1xAUD4.webp"
+        "langgraph-state-management-checkpoints-hero.e79s88vq_Z1xAUD4.webp",
+        "langgraph-state-management-checkpoints-hero.e79s88vq_gmE8g.webp"
       ]
     },
     "library": {
@@ -1778,7 +1859,8 @@
         "library.DRMGI60K_1aLORm.webp",
         "library.DRMGI60K_1aPrSf.webp",
         "library.DRMGI60K_Z25AX5z.webp",
-        "library.DRMGI60K_Z27gwfy.jpg"
+        "library.DRMGI60K_Z27gwfy.jpg",
+        "library.DRMGI60K_Z27sc73.webp"
       ]
     },
     "litert-lm-deep-dive": {
@@ -1790,6 +1872,7 @@
         "litert-lm-deep-dive-hero.CYrf8GeX_2fteIb.webp",
         "litert-lm-deep-dive-hero.CYrf8GeX.png",
         "litert-lm-deep-dive-hero.CYrf8GeX_CIdjJ.webp",
+        "litert-lm-deep-dive-hero.CYrf8GeX_Z1Q0ljk.webp",
         "litert-lm-deep-dive-hero.CYrf8GeX_Z1nQr4S.webp",
         "litert-lm-deep-dive-hero.CYrf8GeX_Z1rc5fw.webp",
         "litert-lm-deep-dive-hero.CYrf8GeX_Z1uh0qp.jpg"
@@ -1804,6 +1887,7 @@
         "llm-as-a-judge-plan-adherence.NzOkIY--_54cgQ.webp",
         "llm-as-a-judge-plan-adherence.NzOkIY--.png",
         "llm-as-a-judge-plan-adherence.NzOkIY--_1RzdkB.jpg",
+        "llm-as-a-judge-plan-adherence.NzOkIY--_27Hkk3.webp",
         "llm-as-a-judge-plan-adherence.NzOkIY--_2x4CAl.webp",
         "llm-as-a-judge-plan-adherence.NzOkIY--_Z1GINfr.webp",
         "llm-as-a-judge-plan-adherence.NzOkIY--_ZGFGDs.webp"
@@ -1819,6 +1903,7 @@
         "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l.png",
         "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_2x2eLJ.webp",
         "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_Z2s0FTl.webp",
+        "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_Z2tpFHu.webp",
         "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_oQ1yO.webp",
         "llm_json_enforcement_chaos_grid_1769265104000.BZIu-M6l_uUAL7.jpg"
       ]
@@ -1843,7 +1928,8 @@
         "llms-are-terrible-backends-forcing-strict-json-output-hero.HkgQ2x56_1vUvbe.webp",
         "llms-are-terrible-backends-forcing-strict-json-output-hero.HkgQ2x56_Z13oUNG.webp",
         "llms-are-terrible-backends-forcing-strict-json-output-hero.HkgQ2x56_Z1XHrWA.jpg",
-        "llms-are-terrible-backends-forcing-strict-json-output-hero.HkgQ2x56_Zm7e5w.webp"
+        "llms-are-terrible-backends-forcing-strict-json-output-hero.HkgQ2x56_Zm7e5w.webp",
+        "llms-are-terrible-backends-forcing-strict-json-output-hero.HkgQ2x56_qD7yu.webp"
       ]
     },
     "local-70b-hardware-etching": {
@@ -1856,6 +1942,7 @@
         "local-70b-hardware-etching.B2wDCuDr.png",
         "local-70b-hardware-etching.B2wDCuDr_1FppGI.webp",
         "local-70b-hardware-etching.B2wDCuDr_BdnYP.webp",
+        "local-70b-hardware-etching.B2wDCuDr_ZD0E7B.webp",
         "local-70b-hardware-etching.B2wDCuDr_ZE41VK.webp",
         "local-70b-hardware-etching.B2wDCuDr_edjib.jpg"
       ]
@@ -1872,7 +1959,8 @@
         "local-first-mcp-air-gapped-tool-calling-llama-cpp-hero.D75hQtcs_1ya5cf.jpg",
         "local-first-mcp-air-gapped-tool-calling-llama-cpp-hero.D75hQtcs_Z1EQ7yV.webp",
         "local-first-mcp-air-gapped-tool-calling-llama-cpp-hero.D75hQtcs_Z1g85Jv.webp",
-        "local-first-mcp-air-gapped-tool-calling-llama-cpp-hero.D75hQtcs_Z1mHg7u.webp"
+        "local-first-mcp-air-gapped-tool-calling-llama-cpp-hero.D75hQtcs_Z1mHg7u.webp",
+        "local-first-mcp-air-gapped-tool-calling-llama-cpp-hero.D75hQtcs_ZfWhWD.webp"
       ]
     },
     "mcp-eating-ai-tooling-stack": {
@@ -1887,6 +1975,7 @@
         "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_23ysGn.jpg",
         "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_Z1KVPnd.webp",
         "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_Z1OQSVr.webp",
+        "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_Z2p3Vo1.webp",
         "mcp-eating-ai-tooling-stack-hero.C8cWZvWZ_Zxe03T.webp"
       ]
     },
@@ -1900,6 +1989,7 @@
         "mcp-neutral-foundation-governance-enterprise-adopters-explainer.Cn65zDYm_Z29hUFM.webp",
         "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3.jpeg",
         "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_1G79kL.webp",
+        "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_1y5TMf.webp",
         "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_258y7H.webp",
         "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_D2mFA.jpg",
         "mcp-neutral-foundation-governance-enterprise-adopters-hero.B_ym9Pw3_Z1RbEz2.webp",
@@ -1919,7 +2009,8 @@
         "mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_2plwM2.webp",
         "mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_Z18YRI7.webp",
         "mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_Z1Dbn0o.webp",
-        "mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_Z1KTz41.jpg"
+        "mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_Z1KTz41.jpg",
+        "mcp-server-security-tool-poisoning-access-control-hero.zoJsIPsm_y400A.webp"
       ]
     },
     "mcp-tool-schema-versioning-contract-testing-agents": {
@@ -1931,6 +2022,7 @@
         "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_ZW4B1U.webp",
         "mcp-tool-schema-versioning-contract-testing-agents-explainer.CaHRPSWE_9g6Jv.webp",
         "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU.jpeg",
+        "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_1L3OAl.webp",
         "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_2dyWUE.webp",
         "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_PmvhR.webp",
         "mcp-tool-schema-versioning-contract-testing-agents-hero.CUG0YwWU_Z18CvMY.webp",
@@ -1948,6 +2040,7 @@
         "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_19AYjd.webp",
         "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_1zzqdb.jpg",
         "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_Z1O13oP.webp",
+        "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_Z1dtpyD.webp",
         "mcp_telegraph_exchange_1769265030156.CeQ-CHkY_qLkJi.webp"
       ]
     },
@@ -1961,6 +2054,7 @@
         "measuring-agent-tool-correctness.D9TCu5Z_.png",
         "measuring-agent-tool-correctness.D9TCu5Z__1LNSk2.webp",
         "measuring-agent-tool-correctness.D9TCu5Z__Z21W3pF.jpg",
+        "measuring-agent-tool-correctness.D9TCu5Z__Z51305.webp",
         "measuring-agent-tool-correctness.D9TCu5Z__uaYru.webp",
         "measuring-agent-tool-correctness.D9TCu5Z__y630I.webp"
       ]
@@ -1974,6 +2068,7 @@
         "mega.D1owb4cl_Z2m1VXU.webp",
         "mega.D1owb4cl.png",
         "mega.D1owb4cl_2imysA.webp",
+        "mega.D1owb4cl_PQ2Vb.webp",
         "mega.D1owb4cl_Z2pHHfY.webp",
         "mega.D1owb4cl_ZA9o8C.jpg",
         "mega.D1owb4cl_ZIIhBg.webp"
@@ -1990,7 +2085,8 @@
         "megakernel.DmucELlY_1MOB2d.jpg",
         "megakernel.DmucELlY_Z1dOXu9.webp",
         "megakernel.DmucELlY_Z1eG4yz.webp",
-        "megakernel.DmucELlY_Z1yfLbA.webp"
+        "megakernel.DmucELlY_Z1yfLbA.webp",
+        "megakernel.DmucELlY_b9XHt.webp"
       ]
     },
     "memory-wall-infographic": {
@@ -2031,6 +2127,7 @@
         "model-distillation-hero.CWNn9Gg5_QXCCs.webp",
         "model-distillation-hero.CWNn9Gg5_Z2om7qJ.jpg",
         "model-distillation-hero.CWNn9Gg5_ZQgAcn.webp",
+        "model-distillation-hero.CWNn9Gg5_ZqtpLx.webp",
         "model-distillation-hero.CWNn9Gg5_ZuTz8F.webp"
       ]
     },
@@ -2046,7 +2143,8 @@
         "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_2olcKI.webp",
         "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_Z1EbH1H.webp",
         "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_Z1a0cJq.webp",
-        "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_Z2h4JIF.jpg"
+        "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_Z2h4JIF.jpg",
+        "model-portability-exit-plans-provider-model-swap-hero.CgvsgWoz_x3EYh.webp"
       ]
     },
     "model-routing-cascades-cheap-model-first-escalate": {
@@ -2076,6 +2174,7 @@
         "moe-routing-collapse.DjOU57c1_Z1YCb3e.webp",
         "moe-routing-collapse.DjOU57c1.png",
         "moe-routing-collapse.DjOU57c1_1ysvgC.webp",
+        "moe-routing-collapse.DjOU57c1_2euBnX.webp",
         "moe-routing-collapse.DjOU57c1_2tdQPN.webp",
         "moe-routing-collapse.DjOU57c1_Z1GSgv6.webp",
         "moe-routing-collapse.DjOU57c1_ZDUBju.jpg"
@@ -2119,7 +2218,8 @@
         "multi-agent-conflict-resolution.BNV2CDSN_1ALfp7.webp",
         "multi-agent-conflict-resolution.BNV2CDSN_Z1ErCMm.jpg",
         "multi-agent-conflict-resolution.BNV2CDSN_Z1FIqyt.webp",
-        "multi-agent-conflict-resolution.BNV2CDSN_Z20TxyX.webp"
+        "multi-agent-conflict-resolution.BNV2CDSN_Z20TxyX.webp",
+        "multi-agent-conflict-resolution.BNV2CDSN_Z2k20Dz.webp"
       ]
     },
     "multi-cloud-gpu-arbitrage": {
@@ -2131,6 +2231,7 @@
         "multi-cloud-gpu-arbitrage-hero.D0A418xS_Z2pRqUK.webp",
         "multi-cloud-gpu-arbitrage-hero.D0A418xS.png",
         "multi-cloud-gpu-arbitrage-hero.D0A418xS_1D6ltK.webp",
+        "multi-cloud-gpu-arbitrage-hero.D0A418xS_1FLXeU.webp",
         "multi-cloud-gpu-arbitrage-hero.D0A418xS_1Vt6g9.webp",
         "multi-cloud-gpu-arbitrage-hero.D0A418xS_25dQr4.webp",
         "multi-cloud-gpu-arbitrage-hero.D0A418xS_Z11VnUQ.jpg"
@@ -2147,6 +2248,7 @@
         "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_Z1vihDI.jpg",
         "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_Z23Dp5a.webp",
         "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_Z5redo.webp",
+        "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_ZDF49P.webp",
         "multi-instance-gpu-tech-works-1cc-d-2x.BB78KDUm_ZJRn7m.webp"
       ]
     },
@@ -2168,6 +2270,7 @@
         "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_Z2vD7cA.webp",
         "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q.png",
         "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_1NOYJD.webp",
+        "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_BOzli.webp",
         "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_HX8dJ.webp",
         "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_Z12Dlfw.webp",
         "nccl_ring_failure_notebook_1769265047506.DBbOHb-Q_tdMBQ.jpg"
@@ -2192,6 +2295,7 @@
         "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN.png",
         "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_20IDkS.jpg",
         "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_260Upx.webp",
+        "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_Z1GAbYj.webp",
         "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_ZqIgJ9.webp",
         "network_jitter_lab_vs_factory_1769265008999.GVB4WIIN_bnUC2.webp"
       ]
@@ -2213,6 +2317,7 @@
       "variants": [
         "nist-ai-rmf-in-practice-hero.z02VcoQt_2itcn7.webp",
         "nist-ai-rmf-in-practice-hero.z02VcoQt.png",
+        "nist-ai-rmf-in-practice-hero.z02VcoQt_17javb.webp",
         "nist-ai-rmf-in-practice-hero.z02VcoQt_Z1FwAmF.webp",
         "nist-ai-rmf-in-practice-hero.z02VcoQt_Z1Stflj.jpg",
         "nist-ai-rmf-in-practice-hero.z02VcoQt_Z1dtHjH.webp",
@@ -2236,6 +2341,7 @@
       "variants": [
         "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_8sk8a.webp",
         "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy.jpg",
+        "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_FFbPM.webp",
         "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_TWY3F.webp",
         "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_TYKAu.webp",
         "nvidia-rtx-pro-6000-bw-server-edition-bm-l440-t@2x.byToYwpy_Z1Obb4d.webp",
@@ -2263,6 +2369,7 @@
         "open-gpu-kernel-modules-platform-teams-hero.BvVhhf-l.jpg",
         "open-gpu-kernel-modules-platform-teams-hero.BvVhhf-l_2fUt4c.webp",
         "open-gpu-kernel-modules-platform-teams-hero.BvVhhf-l_2kbCwP.webp",
+        "open-gpu-kernel-modules-platform-teams-hero.BvVhhf-l_I81Rg.webp",
         "open-gpu-kernel-modules-platform-teams-hero.BvVhhf-l_Z15PxT4.webp",
         "open-gpu-kernel-modules-platform-teams-hero.BvVhhf-l_ZgwfX2.jpg"
       ]
@@ -2278,6 +2385,7 @@
         "open-source-ai-tipping-point-2026-hero.DX2q6zf7.png",
         "open-source-ai-tipping-point-2026-hero.DX2q6zf7_1pbjIP.jpg",
         "open-source-ai-tipping-point-2026-hero.DX2q6zf7_Z2gWQKg.webp",
+        "open-source-ai-tipping-point-2026-hero.DX2q6zf7_Z2tEinX.webp",
         "open-source-ai-tipping-point-2026-hero.DX2q6zf7_ZKW9Va.webp",
         "open-source-ai-tipping-point-2026-hero.DX2q6zf7_ZYLJpz.webp"
       ]
@@ -2293,6 +2401,7 @@
         "open-source-infrastructure-play-hero.BkdB9NJt_2boYJI.webp",
         "open-source-infrastructure-play-hero.BkdB9NJt_DIol3.webp",
         "open-source-infrastructure-play-hero.BkdB9NJt_Z1OlUIm.webp",
+        "open-source-infrastructure-play-hero.BkdB9NJt_Z1P935d.webp",
         "open-source-infrastructure-play-hero.BkdB9NJt_Znd6VX.jpg"
       ]
     },
@@ -2308,6 +2417,7 @@
         "open-weights-frontier-apis-self-hosting-decision-matrix-hero.BaqGbE0E_8Eb1t.webp",
         "open-weights-frontier-apis-self-hosting-decision-matrix-hero.BaqGbE0E_KtS94.webp",
         "open-weights-frontier-apis-self-hosting-decision-matrix-hero.BaqGbE0E_Z1XXP16.jpg",
+        "open-weights-frontier-apis-self-hosting-decision-matrix-hero.BaqGbE0E_Z1i3Ix0.webp",
         "open-weights-frontier-apis-self-hosting-decision-matrix-hero.BaqGbE0E_Zg3edt.webp"
       ]
     },
@@ -2320,6 +2430,7 @@
         "open-weights-reshaped-the-model-moat-hero.BloIC544_Z13orC9.webp",
         "open-weights-reshaped-the-model-moat-explainer.Bx0YgtYz_1yCfgS.webp",
         "open-weights-reshaped-the-model-moat-hero.BloIC544.png",
+        "open-weights-reshaped-the-model-moat-hero.BloIC544_Z1Pf1qM.webp",
         "open-weights-reshaped-the-model-moat-hero.BloIC544_Z2ooW6X.webp",
         "open-weights-reshaped-the-model-moat-hero.BloIC544_ZMSFbC.jpg",
         "open-weights-reshaped-the-model-moat-hero.BloIC544_Zdtmlh.webp",
@@ -2346,6 +2457,7 @@
         "optimisation.DsNgyhu0_1L7aqV.webp",
         "optimisation.DsNgyhu0_22TDkn.jpg",
         "optimisation.DsNgyhu0_ZIiqUY.webp",
+        "optimisation.DsNgyhu0_ZhU9c1.webp",
         "optimisation.DsNgyhu0_tXr2t.webp"
       ]
     },
@@ -2359,6 +2471,7 @@
         "optimizing-langgraph-cycles.BD6ttRCC.png",
         "optimizing-langgraph-cycles.BD6ttRCC_1Pmm5U.webp",
         "optimizing-langgraph-cycles.BD6ttRCC_1srWB5.jpg",
+        "optimizing-langgraph-cycles.BD6ttRCC_Z2kbgGT.webp",
         "optimizing-langgraph-cycles.BD6ttRCC_ZDeYSk.webp",
         "optimizing-langgraph-cycles.BD6ttRCC_ZOjC5h.webp"
       ]
@@ -2374,7 +2487,8 @@
         "pagedattention-vs-ringattention.B9LzBWuG_16dtnq.webp",
         "pagedattention-vs-ringattention.B9LzBWuG_L2mmV.webp",
         "pagedattention-vs-ringattention.B9LzBWuG_Z1JoEhi.jpg",
-        "pagedattention-vs-ringattention.B9LzBWuG_ZGsXrU.webp"
+        "pagedattention-vs-ringattention.B9LzBWuG_ZGsXrU.webp",
+        "pagedattention-vs-ringattention.B9LzBWuG_rTTik.webp"
       ]
     },
     "pandl-deep-dive": {
@@ -2388,6 +2502,7 @@
         "pandl-deep-dive-hero.CTg6pFEL.png",
         "pandl-deep-dive-hero.CTg6pFEL_14b9bL.webp",
         "pandl-deep-dive-hero.CTg6pFEL_Z1b40rr.jpg",
+        "pandl-deep-dive-hero.CTg6pFEL_Z4C6I6.webp",
         "pandl-deep-dive-hero.CTg6pFEL_ZJEcPr.webp",
         "pandl-deep-dive-hero.CTg6pFEL_a68IJ.webp"
       ]
@@ -2471,6 +2586,7 @@
         "portfolio-based-budgeting-hero.C2PgQnaQ_1sunD7.webp",
         "portfolio-based-budgeting-hero.C2PgQnaQ_28dhxR.webp",
         "portfolio-based-budgeting-hero.C2PgQnaQ_Z1otWXt.webp",
+        "portfolio-based-budgeting-hero.C2PgQnaQ_Z2heEJN.webp",
         "portfolio-based-budgeting-hero.C2PgQnaQ_ZreEco.jpg"
       ]
     },
@@ -2485,7 +2601,8 @@
         "predictive-auto-scaling-queue-depth.i-pcxmGk_14mOo2.webp",
         "predictive-auto-scaling-queue-depth.i-pcxmGk_1CRKxc.webp",
         "predictive-auto-scaling-queue-depth.i-pcxmGk_1MXYhl.jpg",
-        "predictive-auto-scaling-queue-depth.i-pcxmGk_Xegn9.webp"
+        "predictive-auto-scaling-queue-depth.i-pcxmGk_Xegn9.webp",
+        "predictive-auto-scaling-queue-depth.i-pcxmGk_ZFu0xQ.webp"
       ]
     },
     "preface": {
@@ -2511,6 +2628,7 @@
         "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_2ve2vK.webp",
         "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_Z1PFhCK.jpg",
         "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_Z1l129u.webp",
+        "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_Z2iNjeM.webp",
         "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_ZnItIa.webp",
         "prompt-caching-economics-prefix-reuse-cost-hero.DY-Q-88u_xUvkP.webp"
       ]
@@ -2527,7 +2645,8 @@
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_1LE2DO.webp",
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_2ejcm.webp",
         "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_Z2pqdpm.webp",
-        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_e4y2Y.jpg"
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_e4y2Y.jpg",
+        "prompt-injection-defense-tool-using-agents-layered-controls-hero.BlyY7715_uGbrW.webp"
       ]
     },
     "prune_the_board": {
@@ -2540,6 +2659,7 @@
         "prune_the_board.DV-6yUrS.png",
         "prune_the_board.DV-6yUrS_21Aohw.jpg",
         "prune_the_board.DV-6yUrS_2qWXah.webp",
+        "prune_the_board.DV-6yUrS_Z1ESuJu.webp",
         "prune_the_board.DV-6yUrS_Z2nl6Q0.webp",
         "prune_the_board.DV-6yUrS_e4JJJ.webp"
       ]
@@ -2555,7 +2675,8 @@
         "quant.tIzh2WRX_1Q3ulS.webp",
         "quant.tIzh2WRX_1lYFcd.webp",
         "quant.tIzh2WRX_2damrf.webp",
-        "quant.tIzh2WRX_Z257lmC.jpg"
+        "quant.tIzh2WRX_Z257lmC.jpg",
+        "quant.tIzh2WRX_owXOt.webp"
       ]
     },
     "qwen3-tpu": {
@@ -2566,6 +2687,7 @@
       "variants": [
         "qwen3-tpu-hero.Bx-0K99m_1YdQ5S.webp",
         "qwen3-tpu-hero.Bx-0K99m.png",
+        "qwen3-tpu-hero.Bx-0K99m_2ebAsA.webp",
         "qwen3-tpu-hero.Bx-0K99m_Z16OWM6.webp",
         "qwen3-tpu-hero.Bx-0K99m_Z1UhATQ.jpg",
         "qwen3-tpu-hero.Bx-0K99m_ZQddNJ.webp",
@@ -2580,6 +2702,7 @@
       "variants": [
         "rack-scale-ai-hero.Opzneata_2hT5H.webp",
         "rack-scale-ai-hero.Opzneata.png",
+        "rack-scale-ai-hero.Opzneata_1EU1mw.webp",
         "rack-scale-ai-hero.Opzneata_Z2dr8Qu.webp",
         "rack-scale-ai-hero.Opzneata_ZMCDGF.jpg",
         "rack-scale-ai-hero.Opzneata_ZOlFuS.webp",
@@ -2606,6 +2729,7 @@
         "radix_attn_cinematic.0Hk7HriN_2oTKxY.webp",
         "radix_attn_cinematic.0Hk7HriN_Z1IpWIq.jpg",
         "radix_attn_cinematic.0Hk7HriN_Z1Uer1x.webp",
+        "radix_attn_cinematic.0Hk7HriN_ZWR9IQ.webp",
         "radix_attn_cinematic.0Hk7HriN_ZxbOps.webp"
       ]
     },
@@ -2620,6 +2744,7 @@
         "real-time-audio-vad.ngj8WKW8_1wvWrg.webp",
         "real-time-audio-vad.ngj8WKW8_Z19XpyF.webp",
         "real-time-audio-vad.ngj8WKW8_Z1U687k.jpg",
+        "real-time-audio-vad.ngj8WKW8_Z1ufAMa.webp",
         "real-time-audio-vad.ngj8WKW8_ZcK4BO.webp"
       ]
     },
@@ -2633,6 +2758,7 @@
         "real-time-text-clustering-cache-hero.DmGALItA.png",
         "real-time-text-clustering-cache-hero.DmGALItA_1Qv0DH.webp",
         "real-time-text-clustering-cache-hero.DmGALItA_Z29fTOn.webp",
+        "real-time-text-clustering-cache-hero.DmGALItA_Z2a32be.webp",
         "real-time-text-clustering-cache-hero.DmGALItA_ZjKmmB.jpg",
         "real-time-text-clustering-cache-hero.DmGALItA_jOpf2.webp"
       ]
@@ -2648,6 +2774,7 @@
         "real-time-video-vision-pipelines-hero.CXAl1q1s.png",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_1vr95p.webp",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_22uo6f.webp",
+        "real-time-video-vision-pipelines-hero.CXAl1q1s_6vyhu.webp",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_Z3mnUM.jpg",
         "real-time-video-vision-pipelines-hero.CXAl1q1s_ZbzmbH.webp"
       ]
@@ -2661,6 +2788,7 @@
         "reliability_tax_scale_1769264919484.CoUbY75l_2fhtPr.webp",
         "reliability_tax_scale_1769264919484.CoUbY75l.png",
         "reliability_tax_scale_1769264919484.CoUbY75l_AxOQ.jpg",
+        "reliability_tax_scale_1769264919484.CoUbY75l_Z2n5a9w.webp",
         "reliability_tax_scale_1769264919484.CoUbY75l_Z3Ho3t.webp",
         "reliability_tax_scale_1769264919484.CoUbY75l_ZCdkcD.webp",
         "reliability_tax_scale_1769264919484.CoUbY75l_ZIlSdw.webp"
@@ -2677,6 +2805,7 @@
         "roi-of-edge-ai-hero.BLLFh2Na.png",
         "roi-of-edge-ai-hero.BLLFh2Na_1I2w0T.webp",
         "roi-of-edge-ai-hero.BLLFh2Na_1osrxo.webp",
+        "roi-of-edge-ai-hero.BLLFh2Na_Z23C44I.webp",
         "roi-of-edge-ai-hero.BLLFh2Na_Z29DPeU.webp",
         "roi-of-edge-ai-hero.BLLFh2Na_jhroi.jpg"
       ]
@@ -2701,6 +2830,7 @@
         "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq.jpeg",
         "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_9a40A.webp",
         "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_Z1b9kju.webp",
+        "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_Z1sLKrl.webp",
         "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_Zv9CfN.webp",
         "sandboxing-agent-code-execution-containers-gvisor-firecracker-hero.zuyq1GRq_vhq86.jpg"
       ]
@@ -2725,7 +2855,8 @@
         "scaling-vector-db-text-clustering-hero.BUAKV6QL_1419D0.jpg",
         "scaling-vector-db-text-clustering-hero.BUAKV6QL_Z1E3vdu.webp",
         "scaling-vector-db-text-clustering-hero.BUAKV6QL_ZFns6Y.webp",
-        "scaling-vector-db-text-clustering-hero.BUAKV6QL_mYVTh.webp"
+        "scaling-vector-db-text-clustering-hero.BUAKV6QL_mYVTh.webp",
+        "scaling-vector-db-text-clustering-hero.BUAKV6QL_paMGt.webp"
       ]
     },
     "secret": {
@@ -2747,6 +2878,7 @@
         "semantic-caching-at-scale-hero.D0w4OKGB.png",
         "semantic-caching-at-scale-hero.D0w4OKGB_HIDrt.jpg",
         "semantic-caching-at-scale-hero.D0w4OKGB_ZCbfU6.webp",
+        "semantic-caching-at-scale-hero.D0w4OKGB_ZRRnVk.webp",
         "semantic-caching-at-scale-hero.D0w4OKGB_ZUy0Gu.webp",
         "semantic-caching-at-scale-hero.D0w4OKGB_ZtquJb.webp"
       ]
@@ -2760,6 +2892,7 @@
         "serverless-inference-cold-start-hero.ByHvqqne_ZCsBga.webp",
         "serverless-inference-cold-start-explainer.B4lL8ius.png",
         "serverless-inference-cold-start-hero.ByHvqqne.png",
+        "serverless-inference-cold-start-hero.ByHvqqne_1S0tNq.webp",
         "serverless-inference-cold-start-hero.ByHvqqne_1SMBah.webp",
         "serverless-inference-cold-start-hero.ByHvqqne_OmnOq.webp",
         "serverless-inference-cold-start-hero.ByHvqqne_Z1SVI0D.jpg",
@@ -2777,6 +2910,7 @@
         "silence.Budx2pVf_19A8zJ.webp",
         "silence.Budx2pVf_1SK6t0.webp",
         "silence.Budx2pVf_1aVeo4.webp",
+        "silence.Budx2pVf_25vyWx.webp",
         "silence.Budx2pVf_ZzT7xH.jpg"
       ]
     },
@@ -2788,6 +2922,7 @@
       "variants": [
         "simulation-based-red-teaming.HmaTfdkG_1mDebz.webp",
         "simulation-based-red-teaming.HmaTfdkG.png",
+        "simulation-based-red-teaming.HmaTfdkG_1WwPIu.webp",
         "simulation-based-red-teaming.HmaTfdkG_8fR0f.webp",
         "simulation-based-red-teaming.HmaTfdkG_Z22Tr6Y.jpg",
         "simulation-based-red-teaming.HmaTfdkG_ZE4lnv.webp",
@@ -2804,6 +2939,7 @@
         "sparse_attention_silicon_biology_1769264937699.DTYDwnT8.png",
         "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_2o85bL.jpg",
         "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_B0Xou.webp",
+        "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_Z18tYjI.webp",
         "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_Z256Jyo.webp",
         "sparse_attention_silicon_biology_1769264937699.DTYDwnT8_ZYSven.webp"
       ]
@@ -2829,6 +2965,7 @@
         "speculative-decoding-llm-inference-hero.BL7sLMsY_1XUme7.webp",
         "speculative-decoding-llm-inference-hero.BL7sLMsY_2bGo0s.jpg",
         "speculative-decoding-llm-inference-hero.BL7sLMsY_KtFdy.webp",
+        "speculative-decoding-llm-inference-hero.BL7sLMsY_Z20X94f.webp",
         "speculative-decoding-llm-inference-hero.BL7sLMsY_Z25FoNH.webp"
       ]
     },
@@ -2840,6 +2977,7 @@
       "variants": [
         "speculative-decoding-mechanics.BFzI6eRA_2iTdDC.webp",
         "speculative-decoding-mechanics.BFzI6eRA.png",
+        "speculative-decoding-mechanics.BFzI6eRA_1AHPYe.webp",
         "speculative-decoding-mechanics.BFzI6eRA_2tsxKy.webp",
         "speculative-decoding-mechanics.BFzI6eRA_UXEsX.webp",
         "speculative-decoding-mechanics.BFzI6eRA_Z24gYWN.jpg",
@@ -2855,6 +2993,7 @@
         "spot-market-arbitrage-noir.D127VgOV_Z29pvFr.webp",
         "spot-market-arbitrage-noir.D127VgOV.png",
         "spot-market-arbitrage-noir.D127VgOV_2fKdLp.webp",
+        "spot-market-arbitrage-noir.D127VgOV_2gNAAy.webp",
         "spot-market-arbitrage-noir.D127VgOV_Z1y9u5V.webp",
         "spot-market-arbitrage-noir.D127VgOV_ZUOhYy.jpg",
         "spot-market-arbitrage-noir.D127VgOV_ZtWso3.webp"
@@ -2868,6 +3007,7 @@
       "variants": [
         "stateful-agents-on-k8s.Cg8fkCc-_2s0EkL.webp",
         "stateful-agents-on-k8s.Cg8fkCc-.png",
+        "stateful-agents-on-k8s.Cg8fkCc-_26BzfW.webp",
         "stateful-agents-on-k8s.Cg8fkCc-_6pcah.webp",
         "stateful-agents-on-k8s.Cg8fkCc-_HHy7V.webp",
         "stateful-agents-on-k8s.Cg8fkCc-_Z2t1BDE.webp",
@@ -2885,6 +3025,7 @@
         "structured-agent-memory-vs-vector-search-hero.DuOMkA_d_1y7bIU.webp",
         "structured-agent-memory-vs-vector-search-hero.DuOMkA_d_2Ryee.webp",
         "structured-agent-memory-vs-vector-search-hero.DuOMkA_d_Z2haihW.webp",
+        "structured-agent-memory-vs-vector-search-hero.DuOMkA_d_ZBgmue.webp",
         "structured-agent-memory-vs-vector-search-hero.DuOMkA_d_ZWn761.jpg"
       ]
     },
@@ -2908,6 +3049,7 @@
         "technical-debt-sandcastle.Kjt1d9iP_1GR9lA.webp",
         "technical-debt-sandcastle.Kjt1d9iP_1OICFo.webp",
         "technical-debt-sandcastle.Kjt1d9iP_Z1FSdK9.webp",
+        "technical-debt-sandcastle.Kjt1d9iP_Z1rOBOA.webp",
         "technical-debt-sandcastle.Kjt1d9iP_phPAO.jpg"
       ]
     },
@@ -2920,6 +3062,7 @@
         "the-2026-enterprise-stack-hero.zHVtaPRa_1jaU3X.webp",
         "the-2026-enterprise-stack-explainer.D8df3VTR.png",
         "the-2026-enterprise-stack-hero.zHVtaPRa.png",
+        "the-2026-enterprise-stack-hero.zHVtaPRa_4pkN.webp",
         "the-2026-enterprise-stack-hero.zHVtaPRa_Z2Bcpm.webp",
         "the-2026-enterprise-stack-hero.zHVtaPRa_Z2n5aK4.jpg",
         "the-2026-enterprise-stack-hero.zHVtaPRa_fKxm2.webp",
@@ -2937,6 +3080,7 @@
         "the-a2a-protocol-hero.B8VNr20A_2t7KhM.webp",
         "the-a2a-protocol-hero.B8VNr20A_Z2gsRpw.jpg",
         "the-a2a-protocol-hero.B8VNr20A_Z3Q5pW.webp",
+        "the-a2a-protocol-hero.B8VNr20A_ZVX0LP.webp",
         "the-a2a-protocol-hero.B8VNr20A_zkGQq.webp"
       ]
     },
@@ -2949,6 +3093,7 @@
         "the-blackboard-architecture.C9oMJYAC_12IRi1.webp",
         "the-blackboard-architecture.C9oMJYAC.png",
         "the-blackboard-architecture.C9oMJYAC_1B1n9F.webp",
+        "the-blackboard-architecture.C9oMJYAC_2vESaM.webp",
         "the-blackboard-architecture.C9oMJYAC_Z13EB1w.webp",
         "the-blackboard-architecture.C9oMJYAC_ZJ0lEB.jpg",
         "the-blackboard-architecture.C9oMJYAC_ZRzXOz.webp"
@@ -2965,6 +3110,7 @@
         "the-context-window-roi.DNeyDl3X_1g3kWF.jpg",
         "the-context-window-roi.DNeyDl3X_Z1v5beC.webp",
         "the-context-window-roi.DNeyDl3X_Z27nxch.webp",
+        "the-context-window-roi.DNeyDl3X_Z7ba6B.webp",
         "the-context-window-roi.DNeyDl3X_nmLMI.webp"
       ]
     },
@@ -2993,6 +3139,7 @@
         "the-end-of-prompting-hero.XdfbvAXq_2lHxgE.webp",
         "the-end-of-prompting-hero.XdfbvAXq_Z28hlaO.webp",
         "the-end-of-prompting-hero.XdfbvAXq_Zs7DO9.webp",
+        "the-end-of-prompting-hero.XdfbvAXq_Zvw8oy.webp",
         "the-end-of-prompting-hero.XdfbvAXq_cMADI.jpg"
       ]
     },
@@ -3006,6 +3153,7 @@
         "the-end-of-tooling-hero.CRm6ldrF.png",
         "the-end-of-tooling-hero.CRm6ldrF_1KEFqs.jpg",
         "the-end-of-tooling-hero.CRm6ldrF_Z1d5T9A.webp",
+        "the-end-of-tooling-hero.CRm6ldrF_ZMiIIK.webp",
         "the-end-of-tooling-hero.CRm6ldrF_ZQIS5S.webp",
         "the-end-of-tooling-hero.CRm6ldrF_v9jFf.webp"
       ]
@@ -3030,6 +3178,7 @@
         "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_18M2dL.webp",
         "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_Z18NaKn.jpg",
         "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_Z1f9TU9.webp",
+        "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_Z22esmd.webp",
         "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_Z2tnmxz.webp"
       ]
     },
@@ -3045,6 +3194,7 @@
         "the-pl-mandate-hero.BxsfXn4H_1ufXi8.webp",
         "the-pl-mandate-hero.BxsfXn4H_5qT7N.jpg",
         "the-pl-mandate-hero.BxsfXn4H_Z1PE8rI.webp",
+        "the-pl-mandate-hero.BxsfXn4H_cKr7M.webp",
         "the-pl-mandate-hero.BxsfXn4H_x2Clh.webp"
       ]
     },
@@ -3058,6 +3208,7 @@
         "the-shift-to-genui.dxXUZFA2.png",
         "the-shift-to-genui.dxXUZFA2_Z1utKn3.jpg",
         "the-shift-to-genui.dxXUZFA2_Z2rGQPl.webp",
+        "the-shift-to-genui.dxXUZFA2_ZihHT3.webp",
         "the-shift-to-genui.dxXUZFA2_cekOX.webp",
         "the-shift-to-genui.dxXUZFA2_xFGJK.webp"
       ]
@@ -3071,6 +3222,7 @@
         "the-supervisor-vs-swarm.DRy-6rkP_1uOY9z.webp",
         "the-supervisor-vs-swarm.DRy-6rkP.png",
         "the-supervisor-vs-swarm.DRy-6rkP_1fLBv7.webp",
+        "the-supervisor-vs-swarm.DRy-6rkP_Z2FqSS.webp",
         "the-supervisor-vs-swarm.DRy-6rkP_Z76Ag1.webp",
         "the-supervisor-vs-swarm.DRy-6rkP_ZsQXNh.jpg",
         "the-supervisor-vs-swarm.DRy-6rkP_ZssBjI.webp"
@@ -3086,6 +3238,7 @@
         "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW.png",
         "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_1JMliF.jpg",
         "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_PyHbm.webp",
+        "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_UgWUO.webp",
         "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_Z1nslAj.webp",
         "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_Za1EzK.webp"
       ]
@@ -3099,6 +3252,7 @@
         "timemoney.9Jl48t46_Z2uTrwp.webp",
         "timemoney.9Jl48t46.png",
         "timemoney.9Jl48t46_3LXNs.webp",
+        "timemoney.9Jl48t46_Z1g3K7p.webp",
         "timemoney.9Jl48t46_Z22SozX.jpg",
         "timemoney.9Jl48t46_ZQXlck.webp",
         "timemoney.9Jl48t46_ZVRbI3.webp"
@@ -3113,6 +3267,7 @@
         "tool-correctness.DzoJuOHd_Z1alWjX.webp",
         "tool-correctness.DzoJuOHd.png",
         "tool-correctness.DzoJuOHd_Z1UlkT4.webp",
+        "tool-correctness.DzoJuOHd_Z2wxjHV.webp",
         "tool-correctness.DzoJuOHd_agN4G.webp",
         "tool-correctness.DzoJuOHd_fEygs.webp",
         "tool-correctness.DzoJuOHd_toEjK.jpg"
@@ -3129,6 +3284,7 @@
         "tpu-sparsecore-hero.D_zBh6kY_1P7lm3.webp",
         "tpu-sparsecore-hero.D_zBh6kY_2rbRp8.jpg",
         "tpu-sparsecore-hero.D_zBh6kY_5PjhX.webp",
+        "tpu-sparsecore-hero.D_zBh6kY_Z1bEcRn.webp",
         "tpu-sparsecore-hero.D_zBh6kY_ZQn1DS.webp",
         "tpu-sparsecore.D5guqtTP.png"
       ]
@@ -3141,6 +3297,7 @@
       "variants": [
         "tpu-v4.ByShgk22_Z2iNow3.webp",
         "tpu-v4.ByShgk22.png",
+        "tpu-v4.ByShgk22_1eY5VP.webp",
         "tpu-v4.ByShgk22_1qRSgw.jpg",
         "tpu-v4.ByShgk22_PM4YW.webp",
         "tpu-v4.ByShgk22_Z1vtCN3.webp",
@@ -3194,7 +3351,8 @@
         "ttft-vs-itl-hero.7nZT5YjV_1xf5mT.webp",
         "ttft-vs-itl-hero.7nZT5YjV_25fI88.jpg",
         "ttft-vs-itl-hero.7nZT5YjV_Z14aLdP.webp",
-        "ttft-vs-itl-hero.7nZT5YjV_Z1k3P1u.webp"
+        "ttft-vs-itl-hero.7nZT5YjV_Z1k3P1u.webp",
+        "ttft-vs-itl-hero.7nZT5YjV_ZlIa7k.webp"
       ]
     },
     "ultra-ethernet-bandwidth-wall": {
@@ -3208,6 +3366,7 @@
         "ultra-ethernet-bandwidth-wall-hero.BdfPX-4m_1elGmY.webp",
         "ultra-ethernet-bandwidth-wall-hero.BdfPX-4m_1gxkdR.webp",
         "ultra-ethernet-bandwidth-wall-hero.BdfPX-4m_1hGQ0u.webp",
+        "ultra-ethernet-bandwidth-wall-hero.BdfPX-4m_Z1mXCXw.webp",
         "ultra-ethernet-bandwidth-wall-hero.BdfPX-4m_Z2qURdf.jpg"
       ]
     },
@@ -3219,6 +3378,7 @@
       "variants": [
         "valuation-open-weights.X4L3kpm1_2hBwzY.webp",
         "valuation-open-weights.X4L3kpm1.png",
+        "valuation-open-weights.X4L3kpm1_1VgIyv.webp",
         "valuation-open-weights.X4L3kpm1_2qOFsP.webp",
         "valuation-open-weights.X4L3kpm1_Z15lJLU.jpg",
         "valuation-open-weights.X4L3kpm1_Z3UDwa.webp",
@@ -3235,6 +3395,7 @@
         "vision-transformer-vit-latency.PwhlDBDQ.png",
         "vision-transformer-vit-latency.PwhlDBDQ_19UfKU.webp",
         "vision-transformer-vit-latency.PwhlDBDQ_1OD9FF.webp",
+        "vision-transformer-vit-latency.PwhlDBDQ_2unlbV.webp",
         "vision-transformer-vit-latency.PwhlDBDQ_Z1H45PF.webp",
         "vision-transformer-vit-latency.PwhlDBDQ_hiCon.jpg"
       ]
@@ -3258,6 +3419,7 @@
         "warp_stall_flame_graph_1769265105000.DJ-wRgJ7.png",
         "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_1cg4d7.webp",
         "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_Z1LlXuV.webp",
+        "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_Z1aOkEJ.webp",
         "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_Z29fdGN.jpg",
         "warp_stall_flame_graph_1769265105000.DJ-wRgJ7_tqpDc.webp"
       ]
@@ -3270,6 +3432,7 @@
       "variants": [
         "why-enterprises-need-caio.C6h1d4Zi_6n5f2.webp",
         "why-enterprises-need-caio.C6h1d4Zi.png",
+        "why-enterprises-need-caio.C6h1d4Zi_1GAHxS.webp",
         "why-enterprises-need-caio.C6h1d4Zi_1sx6Ck.webp",
         "why-enterprises-need-caio.C6h1d4Zi_1zSrXN.jpg",
         "why-enterprises-need-caio.C6h1d4Zi_Z62aK4.webp",
@@ -3299,6 +3462,7 @@
         "writing-pallas-kernels-for-jax.DWFxF-ox_mUtJr.webp",
         "writing-pallas-kernels-for-jax.DWFxF-ox.png",
         "writing-pallas-kernels-for-jax.DWFxF-ox_14VoVW.jpg",
+        "writing-pallas-kernels-for-jax.DWFxF-ox_1mTiL0.webp",
         "writing-pallas-kernels-for-jax.DWFxF-ox_2fE0xk.webp",
         "writing-pallas-kernels-for-jax.DWFxF-ox_2rdkY.webp",
         "writing-pallas-kernels-for-jax.DWFxF-ox_Ha7fJ.webp"
