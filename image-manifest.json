@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:39:23.073Z",
+  "generatedAt": "2026-11-25T14:57:53.651Z",
   "siteUrl": "https://rajatpandit.com",
   "images": {
     "1": {
@@ -860,17 +860,11 @@
     },
     "benchmarking-edge-silicon-npu-vs-gpu-inference": {
       "source": "~/assets/images/benchmarking-edge-silicon-npu-vs-gpu-inference-hero.jpeg",
-      "url": "https://rajatpandit.com/_astro/benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_Cg0qr.webp",
-      "format": "webp",
-      "bytes": 331744,
+      "url": "https://rajatpandit.com/_astro/benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F.png",
+      "format": "png",
+      "bytes": 2967216,
       "variants": [
-        "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_Cg0qr.webp",
-        "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F.png",
-        "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_17h4mW.webp",
-        "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_1Lvtj2.webp",
-        "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_1dm26p.jpg",
-        "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_BHIJI.webp",
-        "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F_ZXsPMM.webp"
+        "benchmarking-edge-silicon-npu-vs-gpu-inference-hero.DGXXSA7F.png"
       ]
     },
     "biphasic-model-infographic": {
@@ -2572,18 +2566,12 @@
     },
     "pandl-deep-dive": {
       "source": "~/assets/images/pandl-deep-dive-hero.jpeg",
-      "url": "https://rajatpandit.com/_astro/pandl-deep-dive-hero.CTg6pFEL_Z2vKzbb.webp",
-      "format": "webp",
-      "bytes": 295076,
+      "url": "https://rajatpandit.com/_astro/pandl-deep-dive-hero.CTg6pFEL.png",
+      "format": "png",
+      "bytes": 2276734,
       "variants": [
-        "pandl-deep-dive-hero.CTg6pFEL_Z2vKzbb.webp",
-        "pandl-deep-dive-explainer.DApiIQEi.png",
         "pandl-deep-dive-hero.CTg6pFEL.png",
-        "pandl-deep-dive-hero.CTg6pFEL_14b9bL.webp",
-        "pandl-deep-dive-hero.CTg6pFEL_Z1b40rr.jpg",
-        "pandl-deep-dive-hero.CTg6pFEL_Z4C6I6.webp",
-        "pandl-deep-dive-hero.CTg6pFEL_ZJEcPr.webp",
-        "pandl-deep-dive-hero.CTg6pFEL_a68IJ.webp"
+        "pandl-deep-dive-explainer.DApiIQEi.png"
       ]
     },
     "pillar-agentic-ai": {
@@ -3263,17 +3251,11 @@
     },
     "the-kubernetes-for-ai-paradigm": {
       "source": "~/assets/images/the-kubernetes-for-ai-paradigm-hero.jpeg",
-      "url": "https://rajatpandit.com/_astro/the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_SHTLO.webp",
-      "format": "webp",
-      "bytes": 137368,
+      "url": "https://rajatpandit.com/_astro/the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M.png",
+      "format": "png",
+      "bytes": 2053515,
       "variants": [
-        "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_SHTLO.webp",
-        "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M.png",
-        "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_18M2dL.webp",
-        "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_Z18NaKn.jpg",
-        "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_Z1f9TU9.webp",
-        "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_Z22esmd.webp",
-        "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M_Z2tnmxz.webp"
+        "the-kubernetes-for-ai-paradigm-hero.Bo9-tf7M.png"
       ]
     },
     "the-pl-mandate": {
@@ -3324,17 +3306,11 @@
     },
     "the-true-cost-of-agentic-workflows": {
       "source": "~/assets/images/the-true-cost-of-agentic-workflows-hero.jpeg",
-      "url": "https://rajatpandit.com/_astro/the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_Z1Oltq5.webp",
-      "format": "webp",
-      "bytes": 319956,
+      "url": "https://rajatpandit.com/_astro/the-true-cost-of-agentic-workflows-hero.Ddg8wEtW.png",
+      "format": "png",
+      "bytes": 2894459,
       "variants": [
-        "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_Z1Oltq5.webp",
-        "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW.png",
-        "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_1JMliF.jpg",
-        "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_PyHbm.webp",
-        "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_UgWUO.webp",
-        "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_Z1nslAj.webp",
-        "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW_Za1EzK.webp"
+        "the-true-cost-of-agentic-workflows-hero.Ddg8wEtW.png"
       ]
     },
     "timemoney": {

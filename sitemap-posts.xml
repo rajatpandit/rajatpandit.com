@@ -251,21 +251,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rajatpandit.com/ai-infrastructure/the-kubernetes-for-ai-paradigm</loc>
-    <lastmod>2026-06-04</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rajatpandit.com/ai-infrastructure/benchmarking-edge-silicon-npu-vs-gpu-inference</loc>
-    <lastmod>2026-06-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rajatpandit.com/strategy/the-true-cost-of-agentic-workflows</loc>
-    <lastmod>2026-06-02</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://rajatpandit.com/ai-infrastructure/inference-cost-architecture</loc>
     <lastmod>2026-05-29</lastmod>
     <priority>0.8</priority>
@@ -283,11 +268,6 @@
   <url>
     <loc>https://rajatpandit.com/ai-infrastructure/contrarian-takes-infrastructure</loc>
     <lastmod>2026-05-25</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rajatpandit.com/strategy/pandl-deep-dive</loc>
-    <lastmod>2026-05-24</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
